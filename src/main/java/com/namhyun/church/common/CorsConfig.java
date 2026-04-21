@@ -18,7 +18,8 @@ public class CorsConfig {
         config.setAllowedOriginPatterns(List.of(
                 "http://localhost:*",
                 "http://127.0.0.1:*",
-                "http://172.30.16.64:*"
+                "http://172.30.16.64:*",
+                "https://church-question-frontend.vercel.app"
         ));
         config.addAllowedMethod("*");
         config.addAllowedHeader("*");
