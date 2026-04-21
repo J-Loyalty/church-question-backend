@@ -10,4 +10,5 @@ public class Question {
     private Integer type;
     private String description;
     private String correctAnswer;
+    private boolean easy;
 }

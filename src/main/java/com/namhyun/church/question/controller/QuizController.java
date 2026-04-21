@@ -16,8 +16,8 @@ public class QuizController {
     private final QuizService quizService;
 
     @GetMapping
-    public List<QuizResponseDto> getQuiz() {
-        return quizService.getRandomQuiz();
+    public List<QuizResponseDto> getQuiz(@RequestParam(defaultValue = "false") boolean easy) {
+        return quizService.getRandomQuiz(easy);
     }
 
     @PostMapping("/score")

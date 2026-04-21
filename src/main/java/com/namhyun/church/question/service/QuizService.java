@@ -36,16 +36,21 @@ public class QuizService {
                 .toList();
     }
 
-    public List<QuizResponseDto> getRandomQuiz() {
-        List<Question> all = dataLoader.getQuestions();
+    public List<QuizResponseDto> getRandomQuiz(boolean easy) {
+        List<Question> all = easy
+                ? dataLoader.getQuestions().stream().filter(Question::isEasy).toList()
+                : dataLoader.getQuestions();
 
         List<Question> subjective = new ArrayList<>(all.stream().filter(q -> q.getType() == 1).toList());
         List<Question> objective = new ArrayList<>(all.stream().filter(q -> q.getType() == 2).toList());
+        List<Question> ox = new ArrayList<>(all.stream().filter(q -> q.getType() == 3).toList());
         Collections.shuffle(subjective);
         Collections.shuffle(objective);
+        Collections.shuffle(ox);
 
         List<Question> picked = new ArrayList<>();
         picked.addAll(subjective.stream().limit(4).toList());
+        picked.addAll(ox.stream().limit(4).toList());
         picked.addAll(objective.stream().limit(20 - picked.size()).toList());
         Collections.shuffle(picked);
 
@@ -61,6 +66,11 @@ public class QuizService {
 
         if (question.getType() == 2) {
             builder.answers(pickAnswers(question));
+        } else if (question.getType() == 3) {
+            builder.answers(List.of(
+                    QuizResponseDto.AnswerDto.builder().num(1).description("O").build(),
+                    QuizResponseDto.AnswerDto.builder().num(2).description("X").build()
+            ));
         }
 
         return builder.build();
@@ -72,23 +82,20 @@ public class QuizService {
 
         String correctAnswer = question.getCorrectAnswer();
 
-        // correctAnswer와 일치하는 보기 찾기
         Answer correct = allAnswers.stream()
                 .filter(a -> a.getDescription().equals(correctAnswer))
                 .findFirst()
                 .orElseThrow(() -> new IllegalStateException(
                         "보기에 정답이 없습니다. questionId=" + question.getUniqueId()));
 
-        // 오답 보기 중 3개 랜덤 선택
         List<Answer> wrongs = new ArrayList<>(allAnswers.stream()
                 .filter(a -> !a.getDescription().equals(correctAnswer))
                 .toList());
         Collections.shuffle(wrongs);
 
-        // 정답 1개 + 오답 3개 합쳐서 셔플
         List<Answer> picked = new ArrayList<>();
         picked.add(correct);
-        picked.addAll(wrongs.stream().limit(3).toList());
+        picked.addAll(wrongs.stream().limit(2).toList());
         Collections.shuffle(picked);
 
         return picked.stream()
