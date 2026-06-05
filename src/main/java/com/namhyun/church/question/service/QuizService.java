@@ -72,10 +72,8 @@ public class QuizService {
                 .toList();
     }
 
-    public List<QuizResponseDto> getRandomQuiz(boolean easy) {
-        List<Question> all = easy
-                ? dataLoader.getQuestions().stream().filter(Question::isEasy).toList()
-                : dataLoader.getQuestions();
+    public List<QuizResponseDto> getRandomQuiz() {
+        List<Question> all = dataLoader.getQuestions();
 
         List<Question> subjective = new ArrayList<>(all.stream().filter(q -> q.getType() == 1).toList());
         List<Question> objective = new ArrayList<>(all.stream().filter(q -> q.getType() == 2).toList());
