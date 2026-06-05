@@ -16,6 +16,7 @@ import org.springframework.stereotype.Service;
 import java.io.File;
 import java.io.IOException;
 import java.time.LocalDateTime;
+import java.time.ZoneId;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -55,7 +56,7 @@ public class QuizService {
     }
 
     public void saveScore(ScoreRequestDto dto) {
-        dto.setFinishedAt(LocalDateTime.now());
+        dto.setFinishedAt(LocalDateTime.now(ZoneId.of("Asia/Seoul")));
         scoreStore.add(dto);
         persistScores();
     }
