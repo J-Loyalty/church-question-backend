@@ -1,13 +1,20 @@
 package com.namhyun.church.question.service;
 
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.SerializationFeature;
+import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import com.namhyun.church.question.data.QuizDataLoader;
 import com.namhyun.church.question.dto.QuizResponseDto;
 import com.namhyun.church.question.dto.ScoreRequestDto;
 import com.namhyun.church.question.entity.Answer;
 import com.namhyun.church.question.entity.Question;
+import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
+import java.io.File;
+import java.io.IOException;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -21,10 +28,36 @@ public class QuizService {
 
     private final QuizDataLoader dataLoader;
     private final List<ScoreRequestDto> scoreStore = new CopyOnWriteArrayList<>();
+    private final ObjectMapper objectMapper = new ObjectMapper()
+            .registerModule(new JavaTimeModule())
+            .disable(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS);
+
+    private static final File SCORE_FILE = new File("scores.json");
+
+    @PostConstruct
+    public void loadScores() {
+        if (SCORE_FILE.exists()) {
+            try {
+                List<ScoreRequestDto> loaded = objectMapper.readValue(SCORE_FILE, new TypeReference<>() {});
+                scoreStore.addAll(loaded);
+            } catch (IOException e) {
+                // 파일 읽기 실패 시 빈 상태로 시작
+            }
+        }
+    }
+
+    private void persistScores() {
+        try {
+            objectMapper.writerWithDefaultPrettyPrinter().writeValue(SCORE_FILE, scoreStore);
+        } catch (IOException e) {
+            throw new RuntimeException("점수 저장 실패", e);
+        }
+    }
 
     public void saveScore(ScoreRequestDto dto) {
         dto.setFinishedAt(LocalDateTime.now());
         scoreStore.add(dto);
+        persistScores();
     }
 
     public List<ScoreRequestDto> getScores() {
