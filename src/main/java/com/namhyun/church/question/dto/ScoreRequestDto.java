@@ -3,6 +3,7 @@ package com.namhyun.church.question.dto;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
+import java.time.LocalDateTime;
 import java.util.List;
 
 @Getter
@@ -12,7 +13,12 @@ public class ScoreRequestDto {
     private int score;
     private int total;
     private int elapsed;
+    private LocalDateTime finishedAt;
     private List<Detail> details;
+
+    public void setFinishedAt(LocalDateTime finishedAt) {
+        this.finishedAt = finishedAt;
+    }
 
     @Getter
     @NoArgsConstructor

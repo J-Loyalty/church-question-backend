@@ -8,6 +8,7 @@ import com.namhyun.church.question.entity.Question;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
+import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -22,6 +23,7 @@ public class QuizService {
     private final List<ScoreRequestDto> scoreStore = new CopyOnWriteArrayList<>();
 
     public void saveScore(ScoreRequestDto dto) {
+        dto.setFinishedAt(LocalDateTime.now());
         scoreStore.add(dto);
     }
 
@@ -43,15 +45,12 @@ public class QuizService {
 
         List<Question> subjective = new ArrayList<>(all.stream().filter(q -> q.getType() == 1).toList());
         List<Question> objective = new ArrayList<>(all.stream().filter(q -> q.getType() == 2).toList());
-        List<Question> ox = new ArrayList<>(all.stream().filter(q -> q.getType() == 3).toList());
         Collections.shuffle(subjective);
         Collections.shuffle(objective);
-        Collections.shuffle(ox);
 
         List<Question> picked = new ArrayList<>();
         picked.addAll(subjective.stream().limit(4).toList());
-        picked.addAll(ox.stream().limit(4).toList());
-        picked.addAll(objective.stream().limit(20 - picked.size()).toList());
+        picked.addAll(objective.stream().limit(16).toList());
         Collections.shuffle(picked);
 
         return picked.stream().map(this::toQuizDto).toList();
@@ -66,11 +65,6 @@ public class QuizService {
 
         if (question.getType() == 2) {
             builder.answers(pickAnswers(question));
-        } else if (question.getType() == 3) {
-            builder.answers(List.of(
-                    QuizResponseDto.AnswerDto.builder().num(1).description("O").build(),
-                    QuizResponseDto.AnswerDto.builder().num(2).description("X").build()
-            ));
         }
 
         return builder.build();

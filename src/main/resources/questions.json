@@ -1,232 +1,2305 @@
 [
-{"uniqueId":1,"type":1,"description":"마태복음의 저자는 누구인가?","correctAnswer":"마태","easy":true},
-{"uniqueId":2,"type":2,"description":"예수 그리스도의 족보는 누구부터 시작되는가?","correctAnswer":"아브라함","easy":true},
-{"uniqueId":3,"type":1,"description":"아브라함부터 다윗까지는 몇 대인가?","correctAnswer":"14대","easy":false},
-{"uniqueId":4,"type":2,"description":"예수님의 어머니 마리아의 남편 이름은?","correctAnswer":"요셉","easy":true},
-{"uniqueId":5,"type":1,"description":"임마누엘의 뜻은 무엇인가?","correctAnswer":"하나님이 우리와 함께 계시다","easy":false},
-{"uniqueId":6,"type":2,"description":"예수님의 족보에 나오는 여인이 아닌 사람은?","correctAnswer":"한나","easy":true},
-{"uniqueId":7,"type":1,"description":"요셉에게 꿈에 나타나 마리아를 아내로 맞으라고 한 존재는?","correctAnswer":"천사","easy":false},
-{"uniqueId":8,"type":2,"description":"예수님이 태어나신 도시는 어디인가?","correctAnswer":"베들레헴","easy":true},
-{"uniqueId":9,"type":1,"description":"동방박사들은 무엇을 보고 예수님을 찾아왔는가?","correctAnswer":"별","easy":true},
-{"uniqueId":10,"type":2,"description":"동방박사들이 예수님께 드린 예물이 아닌 것은?","correctAnswer":"은","easy":true},
-{"uniqueId":11,"type":1,"description":"헤롯왕이 베들레헴의 몇 살 이하 남자아이를 죽이라고 명령했는가?","correctAnswer":"두 살","easy":false},
-{"uniqueId":12,"type":2,"description":"요셉이 아기 예수를 데리고 피신한 나라는?","correctAnswer":"애굽","easy":true},
-{"uniqueId":13,"type":1,"description":"헤롯이 죽은 후 요셉이 돌아와 정착한 지역은?","correctAnswer":"나사렛","easy":false},
-{"uniqueId":14,"type":2,"description":"세례 요한이 사역한 장소는 어디인가?","correctAnswer":"유대 광야","easy":true},
-{"uniqueId":15,"type":1,"description":"세례 요한이 먹은 음식은 무엇인가?","correctAnswer":"메뚜기와 석청","easy":true},
-{"uniqueId":16,"type":2,"description":"세례 요한이 입은 옷의 재료는?","correctAnswer":"약대털","easy":false},
-{"uniqueId":17,"type":1,"description":"예수님이 세례를 받으신 강의 이름은?","correctAnswer":"요단강","easy":true},
-{"uniqueId":18,"type":2,"description":"예수님이 세례를 받으실 때 하늘에서 내려온 것은?","correctAnswer":"성령이 비둘기같이","easy":false},
-{"uniqueId":19,"type":1,"description":"예수님이 광야에서 시험받으신 기간은?","correctAnswer":"40일","easy":true},
-{"uniqueId":20,"type":2,"description":"마귀가 예수님께 돌로 만들라고 한 것은?","correctAnswer":"떡","easy":true},
-{"uniqueId":21,"type":1,"description":"마귀가 예수님을 데리고 간 성전 꼭대기에서 무엇을 하라고 유혹했는가?","correctAnswer":"뛰어내리라","easy":false},
-{"uniqueId":22,"type":2,"description":"마귀의 세 번째 시험에서 마귀가 예수님께 요구한 것은?","correctAnswer":"경배","easy":false},
-{"uniqueId":23,"type":1,"description":"예수님이 처음 전도를 시작하신 지역은?","correctAnswer":"갈릴리","easy":true},
-{"uniqueId":24,"type":2,"description":"예수님이 처음 부르신 두 제자는 누구인가?","correctAnswer":"시몬과 안드레","easy":true},
-{"uniqueId":25,"type":1,"description":"시몬과 안드레의 직업은 무엇이었는가?","correctAnswer":"어부","easy":true},
-{"uniqueId":26,"type":2,"description":"야고보와 요한의 아버지 이름은?","correctAnswer":"세베대","easy":false},
-{"uniqueId":27,"type":1,"description":"산상수훈은 마태복음 몇 장에서 시작되는가?","correctAnswer":"5장","easy":true},
-{"uniqueId":28,"type":2,"description":"팔복에서 \u0027심령이 가난한 자\u0027에게 약속된 것은?","correctAnswer":"천국","easy":true},
-{"uniqueId":29,"type":1,"description":"팔복에서 \u0027애통하는 자\u0027에게 약속된 것은?","correctAnswer":"위로를 받을 것임","easy":false},
-{"uniqueId":30,"type":2,"description":"팔복에서 \u0027온유한 자\u0027는 무엇을 기업으로 받는가?","correctAnswer":"땅","easy":false},
-{"uniqueId":31,"type":1,"description":"\u0027너희는 세상의 ___이라\u0027에서 빈칸에 들어갈 말은?","correctAnswer":"소금","easy":false},
-{"uniqueId":32,"type":2,"description":"\u0027너희는 세상의 빛이라\u0027에서 빛을 어디에 두라고 하셨는가?","correctAnswer":"등경 위","easy":false},
-{"uniqueId":33,"type":1,"description":"예수님이 율법을 폐하러 오셨는가, 완전하게 하러 오셨는가?","correctAnswer":"완전하게 하러","easy":false},
-{"uniqueId":34,"type":2,"description":"산상수훈에서 원수에 대해 어떻게 하라고 가르치셨는가?","correctAnswer":"사랑하라","easy":true},
-{"uniqueId":35,"type":1,"description":"오른뺨을 치면 어떻게 하라고 하셨는가?","correctAnswer":"왼편도 돌려대라","easy":false},
-{"uniqueId":36,"type":2,"description":"구제할 때 오른손이 하는 것을 어디가 모르게 하라고 하셨는가?","correctAnswer":"왼손","easy":false},
-{"uniqueId":37,"type":1,"description":"예수님이 가르쳐주신 기도를 무엇이라 부르는가?","correctAnswer":"주기도문","easy":true},
-{"uniqueId":38,"type":2,"description":"주기도문에서 \u0027일용할 양식을 주시옵고\u0027의 양식은 며칠 분인가?","correctAnswer":"오늘","easy":false},
-{"uniqueId":39,"type":1,"description":"보물을 어디에 쌓으라고 하셨는가?","correctAnswer":"하늘","easy":true},
-{"uniqueId":40,"type":2,"description":"\u0027한 사람이 두 주인을 섬기지 못한다\u0027에서 하나님과 대비되는 것은?","correctAnswer":"재물","easy":false},
-{"uniqueId":41,"type":1,"description":"공중의 새를 보라는 말씀에서 새가 하지 않는 것은?","correctAnswer":"심지도 거두지도 않는다","easy":false},
-{"uniqueId":42,"type":2,"description":"\u0027먼저 그의 나라와 그의 ___를 구하라\u0027에서 빈칸은?","correctAnswer":"의","easy":false},
-{"uniqueId":43,"type":1,"description":"\u0027구하라 그러면 ___\u0027에서 빈칸은?","correctAnswer":"주실 것이요","easy":false},
-{"uniqueId":44,"type":2,"description":"좁은 문으로 들어가라는 말씀에서 넓은 문은 어디로 인도하는가?","correctAnswer":"멸망","easy":true},
-{"uniqueId":45,"type":1,"description":"좋은 나무는 무엇을 맺는가?","correctAnswer":"좋은 열매","easy":false},
-{"uniqueId":46,"type":2,"description":"산상수훈 마지막에 나오는 비유에서 반석 위에 집을 지은 자는 어떤 사람인가?","correctAnswer":"말씀을 듣고 행하는 자","easy":false},
-{"uniqueId":47,"type":1,"description":"모래 위에 집을 지은 자는 어떤 사람인가?","correctAnswer":"말씀을 듣고 행하지 않는 자","easy":false},
-{"uniqueId":48,"type":2,"description":"예수님이 산에서 내려오신 후 처음 고치신 사람의 병은?","correctAnswer":"나병","easy":true},
-{"uniqueId":49,"type":1,"description":"가버나움 백부장의 하인을 어떤 방법으로 고치셨는가?","correctAnswer":"말씀으로","easy":false},
-{"uniqueId":50,"type":2,"description":"베드로의 장모가 앓고 있던 병은?","correctAnswer":"열병","easy":true},
-{"uniqueId":51,"type":1,"description":"예수님이 풍랑을 잠잠하게 하신 곳은?","correctAnswer":"갈릴리 바다","easy":true},
-{"uniqueId":52,"type":2,"description":"거라사 지역에서 귀신 들린 자에게서 나온 귀신이 들어간 동물은?","correctAnswer":"돼지","easy":true},
-{"uniqueId":53,"type":1,"description":"중풍병자를 고치시며 예수님이 먼저 선언하신 것은?","correctAnswer":"네 죄 사함을 받았느니라","easy":false},
-{"uniqueId":54,"type":2,"description":"마태(레위)의 원래 직업은 무엇이었는가?","correctAnswer":"세리","easy":true},
-{"uniqueId":55,"type":1,"description":"\u0027나는 의인을 부르러 온 것이 아니요 ___를 부르러 왔노라\u0027에서 빈칸은?","correctAnswer":"죄인","easy":true},
-{"uniqueId":56,"type":2,"description":"새 포도주는 어디에 넣어야 한다고 하셨는가?","correctAnswer":"새 부대","easy":false},
-{"uniqueId":57,"type":1,"description":"회당장 야이로의 딸에 대해 예수님이 하신 말씀은?","correctAnswer":"죽은 것이 아니라 잔다","easy":true},
-{"uniqueId":58,"type":2,"description":"열두 해 동안 혈루증을 앓던 여인이 만진 것은?","correctAnswer":"예수님의 옷자락","easy":false},
-{"uniqueId":59,"type":1,"description":"예수님이 보내신 열두 제자에게 주신 권능은?","correctAnswer":"귀신을 쫓고 병을 고치는 것","easy":false},
-{"uniqueId":60,"type":2,"description":"열두 제자 중 가룟 사람은 누구인가?","correctAnswer":"유다","easy":false},
-{"uniqueId":61,"type":1,"description":"제자들을 파송하시며 \u0027뱀같이 지혜롭고 ___같이 순결하라\u0027에서 빈칸은?","correctAnswer":"비둘기","easy":false},
-{"uniqueId":62,"type":2,"description":"예수님이 \u0027참새 두 마리가 한 앗사리온에 팔리지 않느냐\u0027고 하신 이유는?","correctAnswer":"하나님의 돌보심을 가르치려고","easy":false},
-{"uniqueId":63,"type":1,"description":"세례 요한이 옥에서 예수님께 보낸 질문의 내용은?","correctAnswer":"오실 그이가 당신이오니까","easy":false},
-{"uniqueId":64,"type":2,"description":"예수님이 세례 요한을 무엇보다 큰 자가 없다고 하셨는가?","correctAnswer":"여자가 낳은 자 중에","easy":false},
-{"uniqueId":65,"type":1,"description":"\u0027수고하고 무거운 짐 진 자들아 다 내게로 오라\u0027에서 예수님이 주시겠다고 한 것은?","correctAnswer":"쉼","easy":true},
-{"uniqueId":66,"type":2,"description":"안식일에 제자들이 이삭을 잘라 먹은 장소는?","correctAnswer":"밀밭","easy":false},
-{"uniqueId":67,"type":1,"description":"예수님이 안식일에 회당에서 고치신 사람의 증상은?","correctAnswer":"손 마른 사람","easy":false},
-{"uniqueId":68,"type":2,"description":"예수님이 귀신을 쫓아내는 능력의 근원이라고 바리새인들이 주장한 것은?","correctAnswer":"바알세불","easy":false},
-{"uniqueId":69,"type":1,"description":"사람의 아들에 대한 죄는 사함을 받되, 무엇에 대한 죄는 사함을 받지 못하는가?","correctAnswer":"성령","easy":false},
-{"uniqueId":70,"type":2,"description":"씨 뿌리는 자의 비유에서 길가에 떨어진 씨에게 일어난 일은?","correctAnswer":"새가 와서 먹어버림","easy":false},
-{"uniqueId":71,"type":1,"description":"씨 뿌리는 비유에서 좋은 땅에 떨어진 씨는 최대 몇 배의 결실을 맺었는가?","correctAnswer":"백 배","easy":false},
-{"uniqueId":72,"type":2,"description":"가라지 비유에서 가라지를 심은 자는 누구인가?","correctAnswer":"원수","easy":true},
-{"uniqueId":73,"type":1,"description":"겨자씨 비유에서 겨자씨는 무엇에 비유되었는가?","correctAnswer":"천국","easy":false},
-{"uniqueId":74,"type":2,"description":"감추인 보화 비유에서 보화를 발견한 사람이 한 행동은?","correctAnswer":"가진 것을 다 팔아 그 밭을 삼","easy":false},
-{"uniqueId":75,"type":1,"description":"예수님의 고향 사람들이 예수님을 배척한 이유는?","correctAnswer":"목수의 아들이라 하여","easy":false},
-{"uniqueId":76,"type":2,"description":"세례 요한의 목을 벤 왕은 누구인가?","correctAnswer":"헤롯","easy":true},
-{"uniqueId":77,"type":1,"description":"헤로디아의 딸이 춤을 추고 요구한 것은?","correctAnswer":"세례 요한의 머리","easy":true},
-{"uniqueId":78,"type":2,"description":"오병이어의 기적에서 먹은 남자의 수는?","correctAnswer":"오천 명","easy":true},
-{"uniqueId":79,"type":1,"description":"오병이어에서 남은 조각은 몇 바구니였는가?","correctAnswer":"열두 바구니","easy":false},
-{"uniqueId":80,"type":2,"description":"예수님이 물 위를 걸으실 때 함께 걸으려 한 제자는?","correctAnswer":"베드로","easy":false},
-{"uniqueId":81,"type":1,"description":"베드로가 물 위에서 빠지기 시작한 이유는?","correctAnswer":"바람을 보고 무서워함","easy":false},
-{"uniqueId":82,"type":2,"description":"예수님이 게네사렛에서 고치신 방법은?","correctAnswer":"옷자락만 만져도 나음","easy":false},
-{"uniqueId":83,"type":1,"description":"바리새인들이 지키라고 한 것은 하나님의 계명이 아니라 무엇이었는가?","correctAnswer":"장로들의 전통","easy":false},
-{"uniqueId":84,"type":2,"description":"입에서 나오는 것이 사람을 더럽히는 이유는?","correctAnswer":"마음에서 나오기 때문","easy":false},
-{"uniqueId":85,"type":1,"description":"가나안 여인의 딸을 고치신 이유는?","correctAnswer":"여인의 믿음","easy":false},
-{"uniqueId":86,"type":2,"description":"칠병이어에서 먹은 남자의 수는?","correctAnswer":"사천 명","easy":false},
-{"uniqueId":87,"type":1,"description":"칠병이어에서 남은 조각은 몇 광주리였는가?","correctAnswer":"일곱 광주리","easy":false},
-{"uniqueId":88,"type":2,"description":"바리새인과 사두개인이 예수님께 요구한 것은?","correctAnswer":"하늘로부터 오는 표적","easy":false},
-{"uniqueId":89,"type":1,"description":"예수님이 제자들에게 삼가라고 하신 것은 바리새인과 사두개인의 무엇인가?","correctAnswer":"누룩","easy":false},
-{"uniqueId":90,"type":2,"description":"베드로가 예수님을 무엇이라 고백했는가?","correctAnswer":"그리스도 살아계신 하나님의 아들","easy":true},
-{"uniqueId":91,"type":1,"description":"예수님이 베드로에게 \u0027네 위에 내 ___를 세우리라\u0027에서 빈칸은?","correctAnswer":"교회","easy":true},
-{"uniqueId":92,"type":2,"description":"예수님이 제자들에게 처음으로 자신의 죽음을 예고하신 후 꾸짖은 제자는?","correctAnswer":"베드로","easy":false},
-{"uniqueId":93,"type":1,"description":"\u0027아무든지 나를 따라오려거든 자기를 부인하고 자기 ___를 지고 나를 따를 것이니라\u0027에서 빈칸은?","correctAnswer":"십자가","easy":true},
-{"uniqueId":94,"type":2,"description":"변화산에서 예수님과 함께 나타난 두 사람은?","correctAnswer":"모세와 엘리야","easy":true},
-{"uniqueId":95,"type":1,"description":"변화산에 함께 올라간 세 제자는 누구인가?","correctAnswer":"베드로, 야고보, 요한","easy":false},
-{"uniqueId":96,"type":2,"description":"변화산에서 구름 속에서 들린 음성의 내용은?","correctAnswer":"이는 내 사랑하는 아들이요 내 기뻐하는 자니 너희는 그의 말을 들으라","easy":false},
-{"uniqueId":97,"type":1,"description":"성전세를 내기 위해 베드로에게 무엇에서 돈을 꺼내라고 하셨는가?","correctAnswer":"물고기 입","easy":false},
-{"uniqueId":98,"type":2,"description":"예수님이 겨자씨만한 무엇이 있으면 산을 옮길 수 있다고 하셨는가?","correctAnswer":"믿음","easy":false},
-{"uniqueId":99,"type":1,"description":"천국에서 큰 자는 어린아이와 같이 무엇을 하는 자인가?","correctAnswer":"자기를 낮추는 자","easy":false},
-{"uniqueId":100,"type":2,"description":"실족하게 하는 자에 대해 예수님이 말씀하신 벌은?","correctAnswer":"연자맷돌을 목에 달고 바다에 빠뜨림","easy":false},
-{"uniqueId":101,"type":1,"description":"잃은 양 비유에서 목자가 찾으러 간 양은 몇 마리인가?","correctAnswer":"한 마리","easy":false},
-{"uniqueId":102,"type":2,"description":"형제가 죄를 범하면 먼저 어떻게 하라고 하셨는가?","correctAnswer":"너와 그 사람과만 상대하여 권고하라","easy":false},
-{"uniqueId":103,"type":1,"description":"두세 사람이 내 이름으로 모인 곳에 무엇이 있다고 하셨는가?","correctAnswer":"나도 그들 중에 있느니라","easy":false},
-{"uniqueId":104,"type":2,"description":"베드로가 형제의 죄를 몇 번까지 용서하면 되냐고 물었는가?","correctAnswer":"일곱 번","easy":false},
-{"uniqueId":105,"type":1,"description":"예수님이 베드로에게 일곱 번이 아니라 몇 번까지 용서하라고 하셨는가?","correctAnswer":"일흔 번씩 일곱 번","easy":true},
-{"uniqueId":106,"type":2,"description":"일만 달란트 빚진 종 비유에서 왕이 종을 용서한 이유는?","correctAnswer":"불쌍히 여겨서","easy":false},
-{"uniqueId":107,"type":1,"description":"이혼에 대한 질문에서 예수님이 인용하신 창세기 원리는?","correctAnswer":"하나님이 짝지어 주신 것을 사람이 나누지 못할지니라","easy":false},
-{"uniqueId":108,"type":2,"description":"부자 청년이 예수님께 물은 질문은?","correctAnswer":"영생을 얻으려면 무엇을 해야 하는가","easy":false},
-{"uniqueId":109,"type":1,"description":"부자가 천국에 들어가는 것이 무엇이 바늘귀로 지나가는 것보다 어렵다고 하셨는가?","correctAnswer":"낙타","easy":false},
-{"uniqueId":110,"type":2,"description":"포도원 품꾼 비유에서 먼저 온 자와 나중 온 자가 받은 품삯은?","correctAnswer":"한 데나리온으로 같음","easy":false},
-{"uniqueId":111,"type":1,"description":"예수님이 예루살렘으로 올라가시며 예고하신 자신의 운명은?","correctAnswer":"죽임을 당하고 셋째 날에 살아남","easy":false},
-{"uniqueId":112,"type":2,"description":"야고보와 요한의 어머니가 예수님께 요청한 것은?","correctAnswer":"아들 둘을 좌우에 앉게 해달라","easy":false},
-{"uniqueId":113,"type":1,"description":"\u0027인자가 온 것은 섬김을 받으려 함이 아니라 ___하려 함이라\u0027에서 빈칸은?","correctAnswer":"섬기려","easy":false},
-{"uniqueId":114,"type":2,"description":"여리고에서 예수님이 고치신 두 사람의 장애는?","correctAnswer":"맹인","easy":false},
-{"uniqueId":115,"type":1,"description":"예수님이 예루살렘에 입성하실 때 타신 동물은?","correctAnswer":"나귀","easy":true},
-{"uniqueId":116,"type":2,"description":"예수님이 예루살렘에 입성하실 때 무리가 외친 말은?","correctAnswer":"호산나 다윗의 자손이여","easy":true},
-{"uniqueId":117,"type":1,"description":"예수님이 성전에서 돈 바꾸는 자들의 상을 어떻게 하셨는가?","correctAnswer":"엎으셨다","easy":true},
-{"uniqueId":118,"type":2,"description":"예수님이 성전을 무엇이라 불러야 한다고 하셨는가?","correctAnswer":"기도하는 집","easy":false},
-{"uniqueId":119,"type":1,"description":"예수님이 저주하여 마른 나무는 무엇인가?","correctAnswer":"무화과나무","easy":true},
-{"uniqueId":120,"type":2,"description":"두 아들 비유에서 아버지의 뜻을 행한 아들은?","correctAnswer":"처음에 싫다 하고 나중에 간 아들","easy":false},
-{"uniqueId":121,"type":1,"description":"포도원 농부 비유에서 농부들이 주인의 아들에게 한 일은?","correctAnswer":"죽였다","easy":false},
-{"uniqueId":122,"type":2,"description":"\u0027건축자들이 버린 돌이 ___가 되었다\u0027에서 빈칸은?","correctAnswer":"모퉁이의 머릿돌","easy":false},
-{"uniqueId":123,"type":1,"description":"혼인 잔치 비유에서 예복을 입지 않은 자에게 일어난 일은?","correctAnswer":"바깥 어두운 데 쫓겨남","easy":false},
-{"uniqueId":124,"type":2,"description":"바리새인들이 예수님을 시험하려고 물은 세금 관련 질문의 답은?","correctAnswer":"가이사의 것은 가이사에게 하나님의 것은 하나님께","easy":false},
-{"uniqueId":125,"type":1,"description":"사두개인들이 부활을 부정하며 질문한 비유의 소재는?","correctAnswer":"일곱 형제의 아내","easy":false},
-{"uniqueId":126,"type":2,"description":"예수님이 말씀하신 가장 큰 계명은?","correctAnswer":"네 마음을 다하고 목숨을 다하고 뜻을 다하여 주 너의 하나님을 사랑하라","easy":false},
-{"uniqueId":127,"type":1,"description":"둘째 계명은 무엇인가?","correctAnswer":"네 이웃을 네 자신같이 사랑하라","easy":false},
-{"uniqueId":128,"type":2,"description":"예수님이 서기관과 바리새인을 비유한 것은?","correctAnswer":"회칠한 무덤","easy":false},
-{"uniqueId":129,"type":1,"description":"바리새인들이 겉으로는 의로운 체하나 속은 무엇으로 가득하다고 하셨는가?","correctAnswer":"외식과 불법","easy":false},
-{"uniqueId":130,"type":2,"description":"예수님이 바리새인들에게 \u0027화 있을진저\u0027라고 하신 횟수는?","correctAnswer":"일곱 번","easy":false},
-{"uniqueId":131,"type":1,"description":"예수님이 예루살렘을 보며 탄식하신 이유는?","correctAnswer":"선지자들을 죽이고 보낸 자들을 돌로 침","easy":false},
-{"uniqueId":132,"type":2,"description":"예수님이 성전이 어떻게 될 것이라고 예언하셨는가?","correctAnswer":"돌 하나도 돌 위에 남지 않고 무너짐","easy":false},
-{"uniqueId":133,"type":1,"description":"마태복음 24장에서 예수님이 재림의 징조로 말씀하신 것 중 하나는?","correctAnswer":"전쟁과 전쟁의 소문","easy":false},
-{"uniqueId":134,"type":2,"description":"인자의 오는 것이 무엇과 같다고 하셨는가?","correctAnswer":"번개가 동편에서 서편까지 번쩍임같이","easy":false},
-{"uniqueId":135,"type":1,"description":"그 날과 그 때는 누구도 모르고 오직 누구만 아신다고 하셨는가?","correctAnswer":"아버지","easy":false},
-{"uniqueId":136,"type":2,"description":"노아의 때와 인자의 임함이 같다고 하신 이유는?","correctAnswer":"홍수가 나기 전까지 알지 못했듯이","easy":false},
-{"uniqueId":137,"type":1,"description":"충성되고 지혜 있는 종은 주인이 올 때 무엇을 하고 있는 자인가?","correctAnswer":"맡은 일을 하고 있는 자","easy":false},
-{"uniqueId":138,"type":2,"description":"열 처녀 비유에서 슬기로운 처녀와 미련한 처녀의 차이는?","correctAnswer":"기름을 준비했는지 여부","easy":false},
-{"uniqueId":139,"type":1,"description":"열 처녀 비유에서 슬기로운 처녀는 몇 명이었는가?","correctAnswer":"다섯","easy":true},
-{"uniqueId":140,"type":2,"description":"달란트 비유에서 주인이 종들에게 달란트를 나눠준 기준은?","correctAnswer":"각각 그 재능대로","easy":false},
-{"uniqueId":141,"type":1,"description":"달란트 비유에서 한 달란트 받은 종이 한 일은?","correctAnswer":"땅에 감추었다","easy":false},
-{"uniqueId":142,"type":2,"description":"달란트 비유에서 다섯 달란트 받은 종이 남긴 이익은?","correctAnswer":"다섯 달란트","easy":false},
-{"uniqueId":143,"type":1,"description":"양과 염소 비유에서 양은 어느 편에 두셨는가?","correctAnswer":"오른편","easy":true},
-{"uniqueId":144,"type":2,"description":"\u0027이 지극히 작은 자 하나에게 한 것이 곧 ___에게 한 것이니라\u0027에서 빈칸은?","correctAnswer":"내게","easy":false},
-{"uniqueId":145,"type":1,"description":"예수님을 잡으려고 대제사장들과 모의한 제자는?","correctAnswer":"가룟 유다","easy":false},
-{"uniqueId":146,"type":2,"description":"유다가 예수님을 팔기로 한 금액은?","correctAnswer":"은 삼십","easy":true},
-{"uniqueId":147,"type":1,"description":"최후의 만찬에서 예수님이 떡을 떼며 \u0027이것은 내 ___이니라\u0027라고 하셨는가?","correctAnswer":"몸","easy":true},
-{"uniqueId":148,"type":2,"description":"최후의 만찬에서 잔을 들어 \u0027이것은 내 ___이니라\u0027라고 하셨는가?","correctAnswer":"피","easy":false},
-{"uniqueId":149,"type":1,"description":"최후의 만찬 후 예수님이 제자들과 함께 간 곳은?","correctAnswer":"겟세마네","easy":false},
-{"uniqueId":150,"type":2,"description":"겟세마네에서 예수님이 기도하신 내용은?","correctAnswer":"이 잔을 내게서 지나가게 하옵소서 그러나 나의 원대로 마시옵고 아버지의 원대로 하옵소서","easy":false},
-{"uniqueId":151,"type":1,"description":"겟세마네에서 예수님이 기도하시는 동안 제자들은 무엇을 하고 있었는가?","correctAnswer":"잠을 잤다","easy":false},
-{"uniqueId":152,"type":2,"description":"유다가 예수님을 넘겨줄 때 사용한 신호는?","correctAnswer":"입맞춤","easy":true},
-{"uniqueId":153,"type":1,"description":"예수님을 잡으러 온 자들에게 칼로 귀를 벤 제자는?","correctAnswer":"베드로","easy":true},
-{"uniqueId":154,"type":2,"description":"예수님이 \u0027칼을 칼집에 꽂으라\u0027고 하신 이유는?","correctAnswer":"칼을 가지는 자는 칼로 망한다","easy":false},
-{"uniqueId":155,"type":1,"description":"예수님이 잡히신 후 제자들은 어떻게 했는가?","correctAnswer":"다 버리고 도망갔다","easy":false},
-{"uniqueId":156,"type":2,"description":"예수님을 심문한 대제사장의 이름은?","correctAnswer":"가야바","easy":false},
-{"uniqueId":157,"type":1,"description":"대제사장 앞에서 예수님이 그리스도인지 묻자 예수님의 대답은?","correctAnswer":"네가 말하였느니라","easy":false},
-{"uniqueId":158,"type":2,"description":"베드로가 예수님을 부인한 횟수는?","correctAnswer":"세 번","easy":true},
-{"uniqueId":159,"type":1,"description":"베드로가 예수님을 세 번 부인한 후 무엇이 울었는가?","correctAnswer":"닭","easy":false},
-{"uniqueId":160,"type":2,"description":"유다가 은 삼십을 돌려준 후 한 일은?","correctAnswer":"스스로 목매어 죽음","easy":false},
-{"uniqueId":161,"type":1,"description":"유다가 돌려준 은으로 산 밭의 이름은?","correctAnswer":"토기장이의 밭","easy":false},
-{"uniqueId":162,"type":2,"description":"예수님을 심문한 로마 총독의 이름은?","correctAnswer":"빌라도","easy":true},
-{"uniqueId":163,"type":1,"description":"빌라도가 명절에 관례대로 놓아준 죄수의 이름은?","correctAnswer":"바라바","easy":false},
-{"uniqueId":164,"type":2,"description":"빌라도의 아내가 남편에게 전한 메시지의 내용은?","correctAnswer":"그 의인에게 아무 상관도 하지 마라 꿈에 그 사람 때문에 괴로움을 당했다","easy":false},
-{"uniqueId":165,"type":1,"description":"빌라도가 무리 앞에서 손을 씻으며 한 말은?","correctAnswer":"이 사람의 피에 대하여 나는 무죄하다","easy":false},
-{"uniqueId":166,"type":2,"description":"군병들이 예수님께 입힌 옷의 색깔은?","correctAnswer":"홍포","easy":false},
-{"uniqueId":167,"type":1,"description":"예수님의 머리에 씌운 것은?","correctAnswer":"가시관","easy":false},
-{"uniqueId":168,"type":2,"description":"예수님의 십자가를 대신 진 사람은?","correctAnswer":"구레네 시몬","easy":true},
-{"uniqueId":169,"type":1,"description":"예수님이 십자가에 못 박히신 곳의 이름은?","correctAnswer":"골고다","easy":true},
-{"uniqueId":170,"type":2,"description":"골고다의 뜻은 무엇인가?","correctAnswer":"해골의 곳","easy":false},
-{"uniqueId":171,"type":1,"description":"십자가 위에 붙인 죄패의 내용은?","correctAnswer":"유대인의 왕 나사렛 예수","easy":false},
-{"uniqueId":172,"type":2,"description":"예수님과 함께 십자가에 못 박힌 사람은 몇 명인가?","correctAnswer":"두 명","easy":true},
-{"uniqueId":173,"type":1,"description":"예수님이 십자가에서 \u0027엘리 엘리 라마 사박다니\u0027라고 하셨는데 그 뜻은?","correctAnswer":"나의 하나님 나의 하나님 어찌하여 나를 버리셨나이까","easy":false},
-{"uniqueId":174,"type":2,"description":"예수님이 운명하실 때 성전에서 일어난 일은?","correctAnswer":"휘장이 위에서 아래로 찢어짐","easy":false},
-{"uniqueId":175,"type":1,"description":"예수님이 운명하신 것을 보고 백부장이 한 고백은?","correctAnswer":"이는 진실로 하나님의 아들이었도다","easy":false},
-{"uniqueId":176,"type":2,"description":"예수님의 시신을 장사 지낸 사람은?","correctAnswer":"아리마대 요셉","easy":true},
-{"uniqueId":177,"type":1,"description":"예수님의 무덤은 어떤 종류의 무덤이었는가?","correctAnswer":"바위 속에 판 새 무덤","easy":false},
-{"uniqueId":178,"type":2,"description":"대제사장들이 빌라도에게 무덤을 지키게 해달라고 요청한 이유는?","correctAnswer":"제자들이 시체를 훔쳐가서 부활했다고 할까 봐","easy":false},
-{"uniqueId":179,"type":1,"description":"예수님이 부활하신 날은 안식 후 며칠째 되는 날인가?","correctAnswer":"첫째 날","easy":true},
-{"uniqueId":180,"type":2,"description":"빈 무덤에서 천사가 여인들에게 전한 메시지는?","correctAnswer":"그가 여기 계시지 않고 살아나셨다","easy":false},
-{"uniqueId":181,"type":1,"description":"부활하신 예수님을 처음 만난 사람은?","correctAnswer":"막달라 마리아","easy":false},
-{"uniqueId":182,"type":2,"description":"무덤을 지키던 군병들이 대제사장에게 보고한 후 받은 지시는?","correctAnswer":"제자들이 밤에 와서 시체를 훔쳐갔다고 말하라","easy":false},
-{"uniqueId":183,"type":1,"description":"부활하신 예수님이 제자들을 만나신 장소는?","correctAnswer":"갈릴리","easy":false},
-{"uniqueId":184,"type":2,"description":"예수님이 마지막으로 제자들에게 주신 명령은?","correctAnswer":"모든 민족을 제자로 삼으라","easy":false},
-{"uniqueId":185,"type":1,"description":"대위임령에서 세례를 베풀 때 누구의 이름으로 하라고 하셨는가?","correctAnswer":"아버지와 아들과 성령","easy":true},
-{"uniqueId":186,"type":2,"description":"\u0027세상 끝날까지 너희와 항상 함께 있으리라\u0027는 누구의 약속인가?","correctAnswer":"예수님","easy":false},
-{"uniqueId":187,"type":1,"description":"마태복음에서 예수님이 태어나시기 전 요셉이 마리아를 어떻게 하려 했는가?","correctAnswer":"가만히 끊으려","easy":false},
-{"uniqueId":188,"type":2,"description":"마태복음 3장에서 세례 요한이 바리새인과 사두개인을 무엇이라 불렀는가?","correctAnswer":"독사의 자식","easy":false},
-{"uniqueId":189,"type":1,"description":"예수님이 광야 시험에서 마귀에게 대답할 때 인용하신 책은?","correctAnswer":"신명기","easy":false},
-{"uniqueId":190,"type":2,"description":"산상수훈에서 금식할 때 어떻게 하라고 하셨는가?","correctAnswer":"머리에 기름을 바르고 얼굴을 씻으라","easy":false},
-{"uniqueId":191,"type":1,"description":"\u0027눈은 몸의 등불이니\u0027에서 눈이 나쁘면 온 몸이 어떻게 된다고 하셨는가?","correctAnswer":"어두움","easy":false},
-{"uniqueId":192,"type":2,"description":"들의 백합화를 보라는 말씀에서 백합화보다 영화롭지 못한 사람은?","correctAnswer":"솔로몬","easy":false},
-{"uniqueId":193,"type":1,"description":"\u0027비판하지 말라 그리하면 너희도 비판을 받지 않을 것이다\u0027는 마태복음 몇 장인가?","correctAnswer":"7장","easy":false},
-{"uniqueId":194,"type":2,"description":"거룩한 것을 개에게 주지 말며 진주를 무엇 앞에 던지지 말라고 하셨는가?","correctAnswer":"돼지","easy":false},
-{"uniqueId":195,"type":1,"description":"마태복음 9장에서 예수님이 마태를 부르신 장소는?","correctAnswer":"세관","easy":false},
-{"uniqueId":196,"type":2,"description":"예수님이 \u0027추수할 것은 많되 일꾼이 적으니\u0027라고 하신 후 보내신 제자는 몇 명인가?","correctAnswer":"열두 명","easy":false},
-{"uniqueId":197,"type":1,"description":"마태복음 11장에서 예수님이 심판이 더 견디기 쉬우리라고 하신 도시는?","correctAnswer":"소돔","easy":false},
-{"uniqueId":198,"type":2,"description":"마태복음 13장에서 천국을 밭에 감추인 무엇에 비유하셨는가?","correctAnswer":"보화","easy":false},
-{"uniqueId":199,"type":1,"description":"마태복음 14장에서 예수님이 오병이어 기적 전에 먼저 하신 일은?","correctAnswer":"무리를 불쌍히 여기사 병든 자를 고치심","easy":false},
-{"uniqueId":200,"type":2,"description":"마태복음 28장에서 예수님이 \u0027하늘과 땅의 모든 ___를 내게 주셨으니\u0027에서 빈칸은?","correctAnswer":"권세","easy":true},
-{"uniqueId":201,"type":3,"description":"예수님의 족보는 아브라함부터 시작된다.","correctAnswer":"O","easy":true},
-{"uniqueId":202,"type":3,"description":"예수님은 나사렛에서 태어나셨다.","correctAnswer":"X","easy":true},
-{"uniqueId":203,"type":3,"description":"동방박사들이 예수님께 드린 예물은 황금, 유향, 몰약이다.","correctAnswer":"O","easy":true},
-{"uniqueId":204,"type":3,"description":"세례 요한은 예루살렘 성전에서 사역했다.","correctAnswer":"X","easy":true},
-{"uniqueId":205,"type":3,"description":"예수님은 요단강에서 세례를 받으셨다.","correctAnswer":"O","easy":true},
-{"uniqueId":206,"type":3,"description":"예수님은 광야에서 30일 동안 시험을 받으셨다.","correctAnswer":"X","easy":true},
-{"uniqueId":207,"type":3,"description":"산상수훈은 마태복음 5장에서 시작된다.","correctAnswer":"O","easy":true},
-{"uniqueId":208,"type":3,"description":"주기도문은 마태복음 3장에 기록되어 있다.","correctAnswer":"X","easy":true},
-{"uniqueId":209,"type":3,"description":"예수님이 처음 부르신 제자는 시몬과 안드레이다.","correctAnswer":"O","easy":true},
-{"uniqueId":210,"type":3,"description":"오병이어의 기적에서 삼천 명이 먹었다.","correctAnswer":"X","easy":true},
-{"uniqueId":211,"type":3,"description":"베드로는 물 위를 걸으려다 빠졌다.","correctAnswer":"O","easy":true},
-{"uniqueId":212,"type":3,"description":"변화산에서 예수님과 함께 아브라함과 다윗이 나타났다.","correctAnswer":"X","easy":true},
-{"uniqueId":213,"type":3,"description":"베드로가 예수님을 그리스도 살아계신 하나님의 아들이라 고백했다.","correctAnswer":"O","easy":true},
-{"uniqueId":214,"type":3,"description":"예수님은 제자들에게 일곱 번까지 용서하라고 하셨다.","correctAnswer":"X","easy":true},
-{"uniqueId":215,"type":3,"description":"부자 청년은 예수님의 말씀을 듣고 슬퍼하며 떠났다.","correctAnswer":"O","easy":true},
-{"uniqueId":216,"type":3,"description":"예수님은 예루살렘에 말을 타고 입성하셨다.","correctAnswer":"X","easy":true},
-{"uniqueId":217,"type":3,"description":"예수님은 성전에서 돈 바꾸는 자들의 상을 엎으셨다.","correctAnswer":"O","easy":true},
-{"uniqueId":218,"type":3,"description":"가장 큰 계명은 \u0027안식일을 기억하여 거룩히 지키라\u0027이다.","correctAnswer":"X","easy":true},
-{"uniqueId":219,"type":3,"description":"열 처녀 비유에서 슬기로운 처녀는 기름을 준비했다.","correctAnswer":"O","easy":true},
-{"uniqueId":220,"type":3,"description":"유다는 은 스무 닢에 예수님을 팔았다.","correctAnswer":"X","easy":true},
-{"uniqueId":221,"type":3,"description":"최후의 만찬에서 예수님은 떡을 떼며 \u0027이것은 내 몸이니라\u0027고 하셨다.","correctAnswer":"O","easy":true},
-{"uniqueId":222,"type":3,"description":"겟세마네에서 제자들은 깨어 기도하고 있었다.","correctAnswer":"X","easy":true},
-{"uniqueId":223,"type":3,"description":"베드로는 예수님을 세 번 부인했다.","correctAnswer":"O","easy":true},
-{"uniqueId":224,"type":3,"description":"예수님의 십자가를 대신 진 사람은 바라바이다.","correctAnswer":"X","easy":true},
-{"uniqueId":225,"type":3,"description":"예수님이 십자가에 못 박히신 곳은 골고다이다.","correctAnswer":"O","easy":true},
-{"uniqueId":226,"type":3,"description":"예수님이 운명하실 때 성전의 문이 열렸다.","correctAnswer":"X","easy":true},
-{"uniqueId":227,"type":3,"description":"예수님의 시신을 장사 지낸 사람은 아리마대 요셉이다.","correctAnswer":"O","easy":true},
-{"uniqueId":228,"type":3,"description":"예수님은 안식 후 셋째 날에 부활하셨다.","correctAnswer":"X","easy":true},
-{"uniqueId":229,"type":3,"description":"부활하신 예수님은 모든 민족을 제자로 삼으라고 명하셨다.","correctAnswer":"O","easy":true},
-{"uniqueId":230,"type":3,"description":"대위임령에서 세례는 아버지와 아들의 이름으로만 베풀라고 하셨다.","correctAnswer":"X","easy":true}
+  {
+    "uniqueId": 1,
+    "type": 2,
+    "description": "마태복음의 기록 연대로 가장 적절한 것은 언제인가요?",
+    "correctAnswer": "주후 60~70년경",
+    "easy": false
+  },
+  {
+    "uniqueId": 2,
+    "type": 2,
+    "description": "마태복음이 예수님의 메시아 되심을 강조하기 위해 반복적으로 사용하는 표현은 무엇인가요?",
+    "correctAnswer": "\"이는 선지자로 하신 말씀을 이루려 하심이라\"",
+    "easy": false
+  },
+  {
+    "uniqueId": 3,
+    "type": 2,
+    "description": "다음 중 마태복음을 가장 잘 설명한 것은?",
+    "correctAnswer": "유대인 대상, 구약 성취와 왕이신 메시아 강조",
+    "easy": false
+  },
+  {
+    "uniqueId": 4,
+    "type": 2,
+    "description": "마태복음의 핵심 강조는 무엇인가?",
+    "correctAnswer": "예수님이 구약이 예언한 메시아이심",
+    "easy": true
+  },
+  {
+    "uniqueId": 5,
+    "type": 1,
+    "description": "마태복음의 저자는 누구인가요?",
+    "correctAnswer": "마태",
+    "easy": true
+  },
+  {
+    "uniqueId": 6,
+    "type": 2,
+    "description": "마태복음이 특별히 염두에 둔 주요 독자층은 누구인가요?",
+    "correctAnswer": "유대인",
+    "easy": false
+  },
+  {
+    "uniqueId": 7,
+    "type": 2,
+    "description": "예수님의 이름 \"예수\"의 의미는 무엇인가요?",
+    "correctAnswer": "자기 백성을 죄에서 구원할 자",
+    "easy": true
+  },
+  {
+    "uniqueId": 8,
+    "type": 1,
+    "description": "천사가 요셉에게 나타나 마리아를 데려오라고 한 이유는 무엇인가요?",
+    "correctAnswer": "아이가 성령으로 잉태된 것이기 때문",
+    "easy": true
+  },
+  {
+    "uniqueId": 9,
+    "type": 1,
+    "description": "\"임마누엘\"(Emmanuel)의 뜻은 무엇인가요?",
+    "correctAnswer": "하나님이 우리와 함께 계시다",
+    "easy": true
+  },
+  {
+    "uniqueId": 10,
+    "type": 2,
+    "description": "천사가 요셉에게 마리아에게서 태어날 아기의 이름을 무엇이라 하라고 했나요?",
+    "correctAnswer": "예수",
+    "easy": true
+  },
+  {
+    "uniqueId": 11,
+    "type": 2,
+    "description": "1장 에 기록된 예수님의 족보는 누구로부터 시작하나요?",
+    "correctAnswer": "아브라함과 다윗",
+    "easy": true
+  },
+  {
+    "uniqueId": 12,
+    "type": 2,
+    "description": "1장 에서 예수님의 탄생은 누구의 잉태로 이루어졌다고 기록되어 있나요?",
+    "correctAnswer": "성령(Holy Spirit)으로",
+    "easy": true
+  },
+  {
+    "uniqueId": 13,
+    "type": 2,
+    "description": "예수님의 탄생은 누구로 말미암았는가?",
+    "correctAnswer": "성령",
+    "easy": true
+  },
+  {
+    "uniqueId": 14,
+    "type": 1,
+    "description": "마태복음의 약자는 ( )이고, 저자는 ( ) 이다.",
+    "correctAnswer": "마, 마태",
+    "easy": true
+  },
+  {
+    "uniqueId": 15,
+    "type": 1,
+    "description": "동방 박사들은 무엇을 보고 예수께 경배하러 왔나요?",
+    "correctAnswer": "별",
+    "easy": true
+  },
+  {
+    "uniqueId": 16,
+    "type": 2,
+    "description": "헤롯 왕이 예수의 탄생 소식을 듣고 보인 반응은 무엇인가요?",
+    "correctAnswer": "두려워하며 죽이려 함",
+    "easy": true
+  },
+  {
+    "uniqueId": 17,
+    "type": 2,
+    "description": "헤롯이 죽은 후 요셉이 가족과 함께 돌아가 정착한 곳은 어디인가요?",
+    "correctAnswer": "나사렛",
+    "easy": true
+  },
+  {
+    "uniqueId": 18,
+    "type": 1,
+    "description": "동방 박사들이 아기 예수께 가져온 예물 세 가지는?",
+    "correctAnswer": "황금, 유향, 몰약",
+    "easy": true
+  },
+  {
+    "uniqueId": 19,
+    "type": 2,
+    "description": "다음 중 동방 박사와 관계가 없는 것은?",
+    "correctAnswer": "목자들과 함께 베들레헴 들판에서 경배하였다",
+    "easy": true
+  },
+  {
+    "uniqueId": 20,
+    "type": 2,
+    "description": "동방박사들은 누구를 경배하기 위해 왔나요?",
+    "correctAnswer": "유대인의 왕으로 나신 예수님",
+    "easy": true
+  },
+  {
+    "uniqueId": 21,
+    "type": 2,
+    "description": "동방 박사들이 보고 온 것은 무엇인가?",
+    "correctAnswer": "별",
+    "easy": true
+  },
+  {
+    "uniqueId": 22,
+    "type": 2,
+    "description": "헤롯 왕이 아기 예수를 죽이려 하자, 요셉이 가족과 함께 피신한 곳은?",
+    "correctAnswer": "이집트(애굽)",
+    "easy": true
+  },
+  {
+    "uniqueId": 23,
+    "type": 2,
+    "description": "세례 요한이 사역한 장소는 어디인가요?",
+    "correctAnswer": "유대 광야",
+    "easy": true
+  },
+  {
+    "uniqueId": 24,
+    "type": 2,
+    "description": "세례 요한이 외친 메시지는 무엇인가요?",
+    "correctAnswer": "회개하라 천국이 가까이 왔느니라",
+    "easy": true
+  },
+  {
+    "uniqueId": 25,
+    "type": 2,
+    "description": "세례 요한은 누구의 길을 준비하는 자라고 기록되었나요?",
+    "correctAnswer": "주",
+    "easy": true
+  },
+  {
+    "uniqueId": 26,
+    "type": 2,
+    "description": "세례 요한이 입었던 옷은 무엇으로 만든 옷이었나요?",
+    "correctAnswer": "낙타털 옷",
+    "easy": true
+  },
+  {
+    "uniqueId": 27,
+    "type": 2,
+    "description": "세례 요한이 먹었던 음식은 무엇이었나요?",
+    "correctAnswer": "메뚜기와 석청",
+    "easy": true
+  },
+  {
+    "uniqueId": 28,
+    "type": 2,
+    "description": "세례 요한은 회개하는 사람들에게 무엇을 맺으라고 했나요?",
+    "correctAnswer": "회개에 합당한 열매",
+    "easy": true
+  },
+  {
+    "uniqueId": 29,
+    "type": 2,
+    "description": "예수님이 세례를 받으실 때 무엇이 비둘기 같이 내려왔나요?",
+    "correctAnswer": "성령",
+    "easy": true
+  },
+  {
+    "uniqueId": 30,
+    "type": 2,
+    "description": "예수님이 세례를 받으실 때 하늘에서 들린 음성의 내용은 무엇인가요?",
+    "correctAnswer": "이는 내 사랑하는 아들이요 내 기뻐하는 자라",
+    "easy": true
+  },
+  {
+    "uniqueId": 31,
+    "type": 2,
+    "description": "다음 중 연결이 잘못된 것은?",
+    "correctAnswer": "세례 요한의 사역 - 2장",
+    "easy": false
+  },
+  {
+    "uniqueId": 32,
+    "type": 2,
+    "description": "예수님은 어디에서 마귀에게 시험을 받으셨나요?",
+    "correctAnswer": "광야",
+    "easy": true
+  },
+  {
+    "uniqueId": 33,
+    "type": 2,
+    "description": "예수님은 시험을 받기 전에 며칠 동안 금식하셨나요?",
+    "correctAnswer": "40일",
+    "easy": true
+  },
+  {
+    "uniqueId": 34,
+    "type": 2,
+    "description": "마귀가 첫 번째 시험에서 예수님께 무엇을 하라고 했나요?",
+    "correctAnswer": "돌을 떡으로 만들라",
+    "easy": true
+  },
+  {
+    "uniqueId": 35,
+    "type": 2,
+    "description": "마귀가 예수님을 두 번째 시험에서 데려간 곳은 어디인가요?",
+    "correctAnswer": "거룩한 성",
+    "easy": true
+  },
+  {
+    "uniqueId": 36,
+    "type": 2,
+    "description": "마귀가 예수님께 세상의 모든 나라와 영광을 보여준 장소는 어디인가요?",
+    "correctAnswer": "높은 산",
+    "easy": true
+  },
+  {
+    "uniqueId": 37,
+    "type": 2,
+    "description": "예수님이 처음 부르신 두 제자는 누구인가요?",
+    "correctAnswer": "베드로와 안드레",
+    "easy": true
+  },
+  {
+    "uniqueId": 38,
+    "type": 2,
+    "description": "예수님이 사역을 시작하시며 선포하신 말씀은 무엇인가요?",
+    "correctAnswer": "회개하라 천국이 가까이 왔느니라",
+    "easy": true
+  },
+  {
+    "uniqueId": 39,
+    "type": 2,
+    "description": "예수님이 시험받으신 장소는 어디인가?",
+    "correctAnswer": "광야",
+    "easy": true
+  },
+  {
+    "uniqueId": 40,
+    "type": 2,
+    "description": "첫 번째 시험 내용은 무엇인가?",
+    "correctAnswer": "돌을 떡으로 만들라",
+    "easy": true
+  },
+  {
+    "uniqueId": 41,
+    "type": 1,
+    "description": "예수님께서 산에 올라가 가르치신 말씀은 무엇이라고 불리나요? (마 5~7장)",
+    "correctAnswer": "산상수훈",
+    "easy": true
+  },
+  {
+    "uniqueId": 42,
+    "type": 2,
+    "description": "심령이 가난한 자에게 주어지는 복은 무엇인가요?",
+    "correctAnswer": "천국이 그들의 것임이요",
+    "easy": true
+  },
+  {
+    "uniqueId": 43,
+    "type": 2,
+    "description": "온유한 자에게 주어지는 복은 무엇인가요?",
+    "correctAnswer": "땅을 기업으로 받는다",
+    "easy": true
+  },
+  {
+    "uniqueId": 44,
+    "type": 2,
+    "description": "의에 주리고 목마른 자는 어떻게 된다고 말씀하셨나요?",
+    "correctAnswer": "배부를 것이다",
+    "easy": true
+  },
+  {
+    "uniqueId": 45,
+    "type": 2,
+    "description": "마음이 청결한 자는 무엇을 본다고 하셨나요?",
+    "correctAnswer": "하나님",
+    "easy": true
+  },
+  {
+    "uniqueId": 46,
+    "type": 2,
+    "description": "화평하게 하는 자는 무엇이라 일컬음을 받나요?",
+    "correctAnswer": "하나님의 아들",
+    "easy": true
+  },
+  {
+    "uniqueId": 47,
+    "type": 2,
+    "description": "예수님은 제자들을 무엇과 무엇에 비유하셨나요?",
+    "correctAnswer": "빛과 소금",
+    "easy": true
+  },
+  {
+    "uniqueId": 48,
+    "type": 2,
+    "description": "예수님은 율법이나 선지자를 어떻게 하러 오셨나요?",
+    "correctAnswer": "완전하게 하러 오셨다",
+    "easy": true
+  },
+  {
+    "uniqueId": 49,
+    "type": 2,
+    "description": "예수님은 형제에게 노하는 것도 무엇과 같다고 하셨나요?",
+    "correctAnswer": "살인과 같다",
+    "easy": true
+  },
+  {
+    "uniqueId": 50,
+    "type": 2,
+    "description": "예수님이 가르쳐 주신 기도는 마태복음 몇 장에 기록되었는가?",
+    "correctAnswer": "6장",
+    "easy": true
+  },
+  {
+    "uniqueId": 51,
+    "type": 1,
+    "description": "예수님께서 산에 올라 제자들을 가르치시며 팔복, 주기도문 등 천국 백성의 삶을 말씀하신 장은?",
+    "correctAnswer": "마태복음 5~7장",
+    "easy": true
+  },
+  {
+    "uniqueId": 52,
+    "type": 2,
+    "description": "예수님께서 팔복을 8가지로 말씀하신 의미로 가장 적절한 것은?",
+    "correctAnswer": "완전함을 강조",
+    "easy": true
+  },
+  {
+    "uniqueId": 53,
+    "type": 2,
+    "description": "산상수훈의 직접적인 대상은 누구인가?",
+    "correctAnswer": "제자들",
+    "easy": true
+  },
+  {
+    "uniqueId": 54,
+    "type": 2,
+    "description": "산상수훈에서 무리는 어떤 위치에 있었는가?",
+    "correctAnswer": "간접적으로 듣는 청중이었다",
+    "easy": true
+  },
+  {
+    "uniqueId": 55,
+    "type": 2,
+    "description": "'심령이 가난한 자'의 의미로 가장 적절한 것은?",
+    "correctAnswer": "하나님 앞에서 자신의 무능력을 인정하는 사람",
+    "easy": true
+  },
+  {
+    "uniqueId": 56,
+    "type": 2,
+    "description": "심령이 가난한 사람의 특징으로 옳지 않은 것은?",
+    "correctAnswer": "자신의 의를 자랑한다",
+    "easy": true
+  },
+  {
+    "uniqueId": 57,
+    "type": 2,
+    "description": "심령이 가난한 자의 삶의 모습으로 옳은 것은?",
+    "correctAnswer": "자신을 비우고 하나님으로 채운다",
+    "easy": true
+  },
+  {
+    "uniqueId": 58,
+    "type": 2,
+    "description": "'천국이 그들의 것'이라는 의미로 가장 적절한 것은?",
+    "correctAnswer": "하나님의 다스림을 받는 삶",
+    "easy": true
+  },
+  {
+    "uniqueId": 59,
+    "type": 2,
+    "description": "예수님은 원수를 어떻게 대하라고 가르치셨나요?",
+    "correctAnswer": "사랑하라",
+    "easy": true
+  },
+  {
+    "uniqueId": 60,
+    "type": 2,
+    "description": "예수님은 기도할 때 어떤 태도를 경계하라고 하셨나요?",
+    "correctAnswer": "외식하는 자처럼 보이려고 기도하는 것",
+    "easy": true
+  },
+  {
+    "uniqueId": 61,
+    "type": 2,
+    "description": "예수님은 눈은 무엇의 등불이라고 말씀하셨나요?",
+    "correctAnswer": "몸",
+    "easy": true
+  },
+  {
+    "uniqueId": 62,
+    "type": 2,
+    "description": "예수님은 무엇을 염려하지 말라고 하셨나요?",
+    "correctAnswer": "내일 일",
+    "easy": true
+  },
+  {
+    "uniqueId": 63,
+    "type": 2,
+    "description": "예수님은 공중의 새와 들의 백합화를 통해 무엇을 가르치셨나요?",
+    "correctAnswer": "염려하지 말라",
+    "easy": true
+  },
+  {
+    "uniqueId": 64,
+    "type": 2,
+    "description": "예수님께서 먼저 구하라고 하신 것은 무엇인가요?",
+    "correctAnswer": "하나님의 나라와 의",
+    "easy": true
+  },
+  {
+    "uniqueId": 65,
+    "type": 2,
+    "description": "예수님은 구제할 때 어떻게 하라고 말씀하셨나요?",
+    "correctAnswer": "은밀하게 하라",
+    "easy": true
+  },
+  {
+    "uniqueId": 66,
+    "type": 2,
+    "description": "\"하늘에 계신 우리 아버지여\"로 시작하는 기도는 무엇인가요?",
+    "correctAnswer": "주기도문",
+    "easy": true
+  },
+  {
+    "uniqueId": 67,
+    "type": 2,
+    "description": "예수님은 보물을 어디에 쌓아 두라고 하셨나요?",
+    "correctAnswer": "하늘에",
+    "easy": true
+  },
+  {
+    "uniqueId": 68,
+    "type": 2,
+    "description": "사람이 두 주인을 섬길 수 없다고 하시며 비교하신 대상은 무엇과 무엇인가요?",
+    "correctAnswer": "하나님과 재물",
+    "easy": true
+  },
+  {
+    "uniqueId": 69,
+    "type": 2,
+    "description": "좁은 문으로 들어가야 하는 이유는?",
+    "correctAnswer": "생명으로 인도하기 때문",
+    "easy": true
+  },
+  {
+    "uniqueId": 70,
+    "type": 2,
+    "description": "반석 위에 집을 지은 사람은 누구인가?",
+    "correctAnswer": "말씀을 듣고 행하는 자",
+    "easy": true
+  },
+  {
+    "uniqueId": 71,
+    "type": 2,
+    "description": "예수님은 남을 판단하기 전에 무엇을 먼저 보라고 하셨나요?",
+    "correctAnswer": "자신의 들보",
+    "easy": true
+  },
+  {
+    "uniqueId": 72,
+    "type": 2,
+    "description": "구하라 찾으라 두드리라는 말씀에서 약속된 결과는 무엇인가요?",
+    "correctAnswer": "반드시 이루어진다",
+    "easy": true
+  },
+  {
+    "uniqueId": 73,
+    "type": 2,
+    "description": "예수님은 남에게 대접받고자 하는 대로 어떻게 하라고 하셨나요?",
+    "correctAnswer": "먼저 대접하라",
+    "easy": true
+  },
+  {
+    "uniqueId": 74,
+    "type": 2,
+    "description": "좁은 문으로 들어가라고 하신 이유는 무엇인가요?",
+    "correctAnswer": "생명으로 인도하기 때문이다",
+    "easy": true
+  },
+  {
+    "uniqueId": 75,
+    "type": 2,
+    "description": "거짓 선지자를 무엇으로 분별한다고 하셨나요?",
+    "correctAnswer": "열매로",
+    "easy": true
+  },
+  {
+    "uniqueId": 76,
+    "type": 2,
+    "description": "\"주여 주여 하는 자마다\" 다 천국에 들어가는 것이 아니라 무엇이 중요하다고 하셨나요?",
+    "correctAnswer": "하나님의 뜻대로 행함",
+    "easy": true
+  },
+  {
+    "uniqueId": 77,
+    "type": 2,
+    "description": "모래 위에 집을 지은 사람의 결과는 무엇인가요?",
+    "correctAnswer": "크게 무너진다",
+    "easy": true
+  },
+  {
+    "uniqueId": 78,
+    "type": 2,
+    "description": "예수님의 가르침을 듣고 사람들이 놀란 이유는 무엇인가요?",
+    "correctAnswer": "권위 있는 자와 같아서",
+    "easy": true
+  },
+  {
+    "uniqueId": 79,
+    "type": 2,
+    "description": "예수님께서 비판하지 말라고 하신 이유는 무엇인가?",
+    "correctAnswer": "같은 기준으로 비판을 받기 때문",
+    "easy": false
+  },
+  {
+    "uniqueId": 80,
+    "type": 2,
+    "description": "반석 위에 집을 지은 사람은 누구를 의미하는가?",
+    "correctAnswer": "말씀을 듣고 행하는 사람",
+    "easy": false
+  },
+  {
+    "uniqueId": 81,
+    "type": 2,
+    "description": "예수님은 나병환자를 어떻게 고치셨는가?",
+    "correctAnswer": "만지심으로",
+    "easy": true
+  },
+  {
+    "uniqueId": 82,
+    "type": 2,
+    "description": "예수님께서 나병환자를 고치실 때 어떻게 하셨나요?",
+    "correctAnswer": "만지셨다",
+    "easy": true
+  },
+  {
+    "uniqueId": 83,
+    "type": 2,
+    "description": "예수님은 백부장의 하인을 어떻게 고치셨나요?",
+    "correctAnswer": "말씀으로",
+    "easy": true
+  },
+  {
+    "uniqueId": 84,
+    "type": 2,
+    "description": "예수님께서 베드로의 장모를 어떻게 고치셨나요?",
+    "correctAnswer": "만져서",
+    "easy": true
+  },
+  {
+    "uniqueId": 85,
+    "type": 2,
+    "description": "예수님은 많은 병자와 귀신 들린 자들을 어떻게 고치셨나요?",
+    "correctAnswer": "말씀으로",
+    "easy": true
+  },
+  {
+    "uniqueId": 86,
+    "type": 2,
+    "description": "귀신 들린 사람들을 고치신 후 귀신들은 어디로 들어갔나요?",
+    "correctAnswer": "돼지 떼",
+    "easy": true
+  },
+  {
+    "uniqueId": 87,
+    "type": 2,
+    "description": "나병환자가 예수님께 구한 것은 무엇인가?",
+    "correctAnswer": "병고침",
+    "easy": false
+  },
+  {
+    "uniqueId": 88,
+    "type": 2,
+    "description": "8장에서 예수님이 칭찬하신 믿음의 사람은 누구인가?",
+    "correctAnswer": "백부장",
+    "easy": true
+  },
+  {
+    "uniqueId": 89,
+    "type": 2,
+    "description": "풍랑을 잔잔하게 하신 대상은 무엇인가?",
+    "correctAnswer": "바람과 바다",
+    "easy": true
+  },
+  {
+    "uniqueId": 90,
+    "type": 2,
+    "description": "\"이스라엘 중 아무에게서도 이만한 믿음을 보지 못했다.\"는 예수님의 누구를 향한 칭찬인가요?",
+    "correctAnswer": "백부장",
+    "easy": false
+  },
+  {
+    "uniqueId": 91,
+    "type": 2,
+    "description": "한 서기관이 예수님을 따르겠다고 했을 때 예수님은 무엇이라고 말씀하셨나요?",
+    "correctAnswer": "여우도 굴이 있고 공중의 새도 거처가 있으되 인자는 머리 둘 곳이 없다",
+    "easy": true
+  },
+  {
+    "uniqueId": 92,
+    "type": 2,
+    "description": "제자들이 풍랑을 만났을 때 예수님은 무엇을 꾸짖으셨나요?",
+    "correctAnswer": "바람과 바다",
+    "easy": true
+  },
+  {
+    "uniqueId": 93,
+    "type": 1,
+    "description": "풍랑 속에서 예수님은 제자들에게 무엇이 작다고 책망하셨나요?",
+    "correctAnswer": "믿음",
+    "easy": true
+  },
+  {
+    "uniqueId": 94,
+    "type": 2,
+    "description": "귀신 들렸던 사람들이 있던 지방 사람들은 예수님께 어떻게 요청했나요?",
+    "correctAnswer": "떠나가 달라",
+    "easy": true
+  },
+  {
+    "uniqueId": 95,
+    "type": 2,
+    "description": "8장에서 나타난 예수님의 모습으로 가장 알맞은 것은 무엇인가요?",
+    "correctAnswer": "병과 자연과 귀신을 다스리는 권세 있는 분",
+    "easy": true
+  },
+  {
+    "uniqueId": 96,
+    "type": 2,
+    "description": "백부장이 칭찬받은 이유는 무엇인가?",
+    "correctAnswer": "큰 믿음을 보였기 때문에",
+    "easy": false
+  },
+  {
+    "uniqueId": 97,
+    "type": 2,
+    "description": "예수님께서 풍랑을 잠잠케 하신 후 제자들에게 하신 말씀은?",
+    "correctAnswer": "어찌하여 무서워하느냐 믿음이 작은 자들아",
+    "easy": false
+  },
+  {
+    "uniqueId": 98,
+    "type": 2,
+    "description": "예수님께서 풍랑을 잠잠하게 하셨을 때 제자들이 놀란 이유는 무엇인가요?",
+    "correctAnswer": "바람과 바다도 순종했기 때문에",
+    "easy": true
+  },
+  {
+    "uniqueId": 99,
+    "type": 2,
+    "description": "바리새인들이 예수님께 항의한 내용은 무엇인가요?",
+    "correctAnswer": "세리와 죄인들과 함께 잡수신다고",
+    "easy": true
+  },
+  {
+    "uniqueId": 100,
+    "type": 2,
+    "description": "중풍병자를 고치시며 먼저 하신 말씀은 무엇인가?",
+    "correctAnswer": "네 죄 사함을 받았느니라",
+    "easy": false
+  },
+  {
+    "uniqueId": 101,
+    "type": 2,
+    "description": "회당장의 딸을 살리러 가실 때 예수님의 옷자락에 손을 댄 사람은 누구인가요?",
+    "correctAnswer": "열두 해 혈루증 앓던 여자",
+    "easy": true
+  },
+  {
+    "uniqueId": 102,
+    "type": 2,
+    "description": "예수님께서 두 맹인을 고치실 때 물으신 말씀은 무엇인가요?",
+    "correctAnswer": "내가 능히 이 일할 줄을 믿느냐",
+    "easy": true
+  },
+  {
+    "uniqueId": 103,
+    "type": 2,
+    "description": "예수님께서 귀신 들려 말 못하는 사람을 고치신 후에 무리가 한 말은 무엇인가요?",
+    "correctAnswer": "이스라엘 가운데서 이런 일을 본 적이 없다",
+    "easy": true
+  },
+  {
+    "uniqueId": 104,
+    "type": 2,
+    "description": "예수님께서 중풍병자에게 먼저 하신 말씀은 무엇인가요?",
+    "correctAnswer": "네 죄 사함을 받았느니라",
+    "easy": true
+  },
+  {
+    "uniqueId": 105,
+    "type": 2,
+    "description": "예수님께서 마태를 부르실 때 하신 말씀은?",
+    "correctAnswer": "나를 따르라",
+    "easy": false
+  },
+  {
+    "uniqueId": 106,
+    "type": 2,
+    "description": "예수님께서 말씀하신 \"추수할 것은 많되 일꾼이 적다\"의 의미는 무엇인가?",
+    "correctAnswer": "복음을 전할 사람이 부족하다",
+    "easy": false
+  },
+  {
+    "uniqueId": 107,
+    "type": 2,
+    "description": "\"작은 자야 안심하라 네 죄 사함을 받았느니라.\"라는 말씀은 언제 하신 말씀인가요?",
+    "correctAnswer": "중풍 병자를 고치시기 전에",
+    "easy": true
+  },
+  {
+    "uniqueId": 108,
+    "type": 2,
+    "description": "서기관들이 예수님을 속으로 비난한 이유는 무엇인가요?",
+    "correctAnswer": "신성모독을 한다고 생각했기 때문에",
+    "easy": true
+  },
+  {
+    "uniqueId": 109,
+    "type": 2,
+    "description": "예수님께서 마태를 부르신 장소는 어디인가요?",
+    "correctAnswer": "세관",
+    "easy": true
+  },
+  {
+    "uniqueId": 110,
+    "type": 2,
+    "description": "예수님께서 나는 의인을 부르러 온 것이 아니라 누구를 부르러 왔다고 말씀하셨나요?",
+    "correctAnswer": "죄인",
+    "easy": true
+  },
+  {
+    "uniqueId": 111,
+    "type": 2,
+    "description": "요한의 제자들이 예수님께 질문한 내용은 무엇인가요?",
+    "correctAnswer": "왜 당신의 제자들은 금식하지 않습니까?",
+    "easy": true
+  },
+  {
+    "uniqueId": 112,
+    "type": 2,
+    "description": "예수님께서 무리를 보시고 불쌍히 여기신 이유는 무엇인가요?",
+    "correctAnswer": "목자 없는 양과 같이 고생하며 기진하였기 때문에",
+    "easy": true
+  },
+  {
+    "uniqueId": 113,
+    "type": 2,
+    "description": "다음의 말씀은 언제 하신 말씀인가요? \"작은 자야 안심하라 네 죄 사함을 받았느니라.\"",
+    "correctAnswer": "중풍병자를 고치시기 전에",
+    "easy": true
+  },
+  {
+    "uniqueId": 114,
+    "type": 2,
+    "description": "마태의 직업은?",
+    "correctAnswer": "세리",
+    "easy": false
+  },
+  {
+    "uniqueId": 115,
+    "type": 2,
+    "description": "전도 여행에서 가지지 말라고 하신 것이 아닌 것은?",
+    "correctAnswer": "물",
+    "easy": false
+  },
+  {
+    "uniqueId": 116,
+    "type": 2,
+    "description": "사람보다 더 두려워해야 할 분은 누구라고 하셨는가?",
+    "correctAnswer": "하나님",
+    "easy": false
+  },
+  {
+    "uniqueId": 117,
+    "type": 2,
+    "description": "예수님께서 제자들을 보내시며 가지 말라고 하신 곳은 어디인가?",
+    "correctAnswer": "이방인의 길, ④ 사마리아",
+    "easy": false
+  },
+  {
+    "uniqueId": 118,
+    "type": 2,
+    "description": "예수님께서 열두 제자에게 주신 권능은 무엇인가요?",
+    "correctAnswer": "더러운 귀신을 쫓아내며 모든 병과 약한 것을 고치는 능력",
+    "easy": true
+  },
+  {
+    "uniqueId": 119,
+    "type": 2,
+    "description": "예수님께서 제자들을 어디로 가지 말라고 하셨나요?",
+    "correctAnswer": "이방인의 길과 사마리아인의 고을",
+    "easy": true
+  },
+  {
+    "uniqueId": 120,
+    "type": 2,
+    "description": "제자들이 가서 전파할 내용은 무엇인가요?",
+    "correctAnswer": "천국이 가까이 왔다 하라",
+    "easy": true
+  },
+  {
+    "uniqueId": 121,
+    "type": 2,
+    "description": "예수님께서 제자들에게 거저 받았으니 어떻게 하라고 말씀하셨나요?",
+    "correctAnswer": "거저 주라",
+    "easy": true
+  },
+  {
+    "uniqueId": 122,
+    "type": 2,
+    "description": "예수님께서 전도 여행에서 가지지 말라고 하신 것은 무엇인가요?",
+    "correctAnswer": "금이나 은이나 동",
+    "easy": true
+  },
+  {
+    "uniqueId": 123,
+    "type": 2,
+    "description": "어떤 집이 합당하면 제자들은 어떻게 하라고 하셨나요?",
+    "correctAnswer": "그 집에 평안하기를 빌라",
+    "easy": true
+  },
+  {
+    "uniqueId": 124,
+    "type": 2,
+    "description": "사람들이 제자들의 말을 듣지도 않고 영접하지도 않으면 어떻게 하라고 하셨나요?",
+    "correctAnswer": "발의 먼지를 떨어 버리라",
+    "easy": true
+  },
+  {
+    "uniqueId": 125,
+    "type": 2,
+    "description": "예수님께서 제자들을 보내시며 내가 너희를 보냄이 무엇과도 같다고 비유로 말씀하셨나요?",
+    "correctAnswer": "양을 이리 가운데로 보냄",
+    "easy": true
+  },
+  {
+    "uniqueId": 126,
+    "type": 2,
+    "description": "예수님께서 \"자기 십자가를 지고 나를 따르지 않는 자\"에 대하여 어떻게 말씀하셨나요?",
+    "correctAnswer": "내게 합당하지 않다",
+    "easy": true
+  },
+  {
+    "uniqueId": 127,
+    "type": 1,
+    "description": "예수님께서 열두 제자를 부르시고 전도 사명을 주시며 파송하신 장은?",
+    "correctAnswer": "마태복음 10장",
+    "easy": true
+  },
+  {
+    "uniqueId": 128,
+    "type": 2,
+    "description": "예수님께서 제자들을 보내시며 가장 먼저 전파하라고 하신 것은 무엇인가요?",
+    "correctAnswer": "천국이 가까이 왔다",
+    "easy": true
+  },
+  {
+    "uniqueId": 129,
+    "type": 2,
+    "description": "예수님께서 열두 제자를 보내시며 가장 먼저 명하신 대상은 누구입니까?",
+    "correctAnswer": "이스라엘 집의 잃어버린 양",
+    "easy": true
+  },
+  {
+    "uniqueId": 130,
+    "type": 2,
+    "description": "예수님은 제자들을 무엇 가운데 보내는 양 같다고 하셨습니까?",
+    "correctAnswer": "이리 떼",
+    "easy": true
+  },
+  {
+    "uniqueId": 131,
+    "type": 2,
+    "description": "사람 앞에서 예수님을 시인하는 자에게 주어지는 약속은 무엇입니까?",
+    "correctAnswer": "예수님도 하늘 아버지 앞에서 그를 시인하신다",
+    "easy": true
+  },
+  {
+    "uniqueId": 132,
+    "type": 2,
+    "description": "열두 제자 중 첫째는 누구인가요?",
+    "correctAnswer": "베드로",
+    "easy": true
+  },
+  {
+    "uniqueId": 133,
+    "type": 2,
+    "description": "세례 요한이 예수님께 사람을 보내어 한 질문은 무엇인가?",
+    "correctAnswer": "당신이 오실 그이입니까",
+    "easy": false
+  },
+  {
+    "uniqueId": 134,
+    "type": 2,
+    "description": "예수님께서 세례 요한을 어떻게 평가하셨는가?",
+    "correctAnswer": "여자가 낳은 자 중에 가장 큰 자",
+    "easy": false
+  },
+  {
+    "uniqueId": 135,
+    "type": 2,
+    "description": "예수님께서 세례 요한에 대해 말씀하시며, 바람에 흔들리는 무엇을 보러 광야에 갔느냐고 하셨나요?",
+    "correctAnswer": "갈대",
+    "easy": true
+  },
+  {
+    "uniqueId": 136,
+    "type": 2,
+    "description": "예수님께서 이 세대를 무엇에 비유하셨나요?",
+    "correctAnswer": "장터에 앉아 부르는 아이들",
+    "easy": true
+  },
+  {
+    "uniqueId": 137,
+    "type": 2,
+    "description": "예수님께서 권능을 가장 많이 행하셨으나, 회개하지 않아 책망하신 두 고을은 어디인가요?",
+    "correctAnswer": "고라신, 벳새다",
+    "easy": true
+  },
+  {
+    "uniqueId": 138,
+    "type": 2,
+    "description": "예수님께서 \"하늘에까지 높아지겠느냐 음부에까지 낮아지리라\"라고 말씀하신 고을은 어디인가요?",
+    "correctAnswer": "가버나움",
+    "easy": true
+  },
+  {
+    "uniqueId": 139,
+    "type": 2,
+    "description": "예수님께서 배우라고 말씀하신 예수님의 성품은 무엇인가요?",
+    "correctAnswer": "온유, 겸손",
+    "easy": true
+  },
+  {
+    "uniqueId": 140,
+    "type": 2,
+    "description": "세례 요한이 감옥에서 예수님께 보낸 질문은 무엇입니까?",
+    "correctAnswer": "오실 그이가 당신입니까?",
+    "easy": true
+  },
+  {
+    "uniqueId": 141,
+    "type": 2,
+    "description": "예수님은 세례 요한을 어떤 사람이라고 칭찬하셨습니까?",
+    "correctAnswer": "여자가 낳은 자 중 가장 큰자",
+    "easy": true
+  },
+  {
+    "uniqueId": 142,
+    "type": 2,
+    "description": "예수님은 자신의 마음이 어떠하다고 말씀하셨습니까?",
+    "correctAnswer": "온유하고 겸손하다",
+    "easy": true
+  },
+  {
+    "uniqueId": 143,
+    "type": 2,
+    "description": "\"수고하고 무거운 짐 진 자들아 다 내게로 오라\"는 말씀의 결과는?",
+    "correctAnswer": "쉼을 얻는다",
+    "easy": false
+  },
+  {
+    "uniqueId": 144,
+    "type": 2,
+    "description": "예수님께서 여자에게서 난 자 중에 누구보다 큰 이가 일어남이 없다고 하셨나요?",
+    "correctAnswer": "세례 요한",
+    "easy": true
+  },
+  {
+    "uniqueId": 145,
+    "type": 2,
+    "description": "예수님께서 하나님 아버지께 감사하시며 이것을 지혜롭고 슬기 있는 자들에게는 숨기시고 누구에게 나타내셨다고 하셨나요?",
+    "correctAnswer": "어린아이들",
+    "easy": true
+  },
+  {
+    "uniqueId": 146,
+    "type": 2,
+    "description": "예수님께서 안식일에 손 마른 사람을 고치셨을 때, 이를 본 바리새인들은 어떻게 하였나요?",
+    "correctAnswer": "예수님을 어떻게 죽일까 의논함",
+    "easy": true
+  },
+  {
+    "uniqueId": 147,
+    "type": 2,
+    "description": "예수님께서 귀신 들려 눈멀고 말 못하는 사람을 고치셨을 때, 바리새인들은 예수님이 누구를 힘입어 귀신을 쫓아낸다고 비방했나요?",
+    "correctAnswer": "바알세불",
+    "easy": true
+  },
+  {
+    "uniqueId": 148,
+    "type": 2,
+    "description": "서기관들과 바리새인들이 표적을 구하자 예수님께서 보여 줄 표적은 누구의 표적밖에 없다고 하셨나요?",
+    "correctAnswer": "요나의 표적",
+    "easy": true
+  },
+  {
+    "uniqueId": 149,
+    "type": 2,
+    "description": "안식일에 제자들이 밀 이삭을 잘라 먹은 것을 보고 비난한 사람들은 누구입니까?",
+    "correctAnswer": "바리새인",
+    "easy": true
+  },
+  {
+    "uniqueId": 150,
+    "type": 2,
+    "description": "예수님께서 \"나는 자비를 원하고 제사를 원하지 아니하노라\"라고 하신 의미는 무엇인가?",
+    "correctAnswer": "형식보다 긍휼이 중요하다",
+    "easy": false
+  },
+  {
+    "uniqueId": 151,
+    "type": 2,
+    "description": "예수님께서 참 가족이라고 하신 사람은 누구인가?",
+    "correctAnswer": "하나님의 뜻대로 행하는 자",
+    "easy": false
+  },
+  {
+    "uniqueId": 152,
+    "type": 2,
+    "description": "안식일에 예수님의 제자들이 시장하여 밀 이삭을 잘라 먹자 누가 문제를 제기했나요?",
+    "correctAnswer": "바리새인들",
+    "easy": true
+  },
+  {
+    "uniqueId": 153,
+    "type": 2,
+    "description": "예수님께서 안식일 문제를 설명하시며 예로 든 인물은 누구인가요?",
+    "correctAnswer": "다윗",
+    "easy": true
+  },
+  {
+    "uniqueId": 154,
+    "type": 2,
+    "description": "예수님께서 자신을 가리켜 안식일의 무엇이라고 하셨나요?",
+    "correctAnswer": "주인",
+    "easy": true
+  },
+  {
+    "uniqueId": 155,
+    "type": 1,
+    "description": "예수님께서는 \"사람에 대한 모든 죄와 모독은 사하심을 얻되\" 무엇은 사하심을 얻지 못한다고 하셨나요?",
+    "correctAnswer": "성령을 모독하는 것",
+    "easy": true
+  },
+  {
+    "uniqueId": 156,
+    "type": 2,
+    "description": "예수님께서 \"마음에 가득한 것을\" 무엇으로 말한다고 하셨나요?",
+    "correctAnswer": "입",
+    "easy": true
+  },
+  {
+    "uniqueId": 157,
+    "type": 2,
+    "description": "더러운 귀신이 사람에게서 나갔다가 다시 돌아올 때 몇 귀신을 더 데리고 온다고 하셨습니까?",
+    "correctAnswer": "일곱",
+    "easy": true
+  },
+  {
+    "uniqueId": 158,
+    "type": 2,
+    "description": "예수님께서 자신의 어머니와 동생들이 찾아왔다는 말을 들으시고, 누가 자신의 형제요 자매요 어머니라고 말씀하셨나요?",
+    "correctAnswer": "하늘에 계신 내 아버지의 뜻대로 하는 자",
+    "easy": true
+  },
+  {
+    "uniqueId": 159,
+    "type": 2,
+    "description": "예수님께서 안식일의 주인이라고 말씀하신 분은 누구인가요?",
+    "correctAnswer": "인자(예수님 자신)",
+    "easy": true
+  },
+  {
+    "uniqueId": 160,
+    "type": 2,
+    "description": "예수님께서 안식일의 주인이라고 말씀하신 이는 누구입니까?",
+    "correctAnswer": "인자",
+    "easy": true
+  },
+  {
+    "uniqueId": 161,
+    "type": 2,
+    "description": "예수님께서 찾으시는 참 가족은 누구입니까?",
+    "correctAnswer": "하나님의 뜻대로 행하는 자",
+    "easy": true
+  },
+  {
+    "uniqueId": 162,
+    "type": 2,
+    "description": "예수님께서 씨 뿌리는 비유를 말씀하신 장소는 어디인가요?",
+    "correctAnswer": "바닷가",
+    "easy": true
+  },
+  {
+    "uniqueId": 163,
+    "type": 2,
+    "description": "길가에 떨어진 씨를 먹은 것은 무엇인가요?",
+    "correctAnswer": "새",
+    "easy": true
+  },
+  {
+    "uniqueId": 164,
+    "type": 2,
+    "description": "돌밭에 떨어진 씨의 특징은 무엇인가요?",
+    "correctAnswer": "뿌리가 없어 곧 말랐다",
+    "easy": true
+  },
+  {
+    "uniqueId": 165,
+    "type": 2,
+    "description": "가시떨기에 떨어진 씨는 어떻게 되었나요?",
+    "correctAnswer": "가시에 막혀 결실하지 못했다",
+    "easy": true
+  },
+  {
+    "uniqueId": 166,
+    "type": 1,
+    "description": "좋은 땅에 떨어진 씨의 결실은 얼마인가?",
+    "correctAnswer": "백 배, 육십 배, 삼십 배",
+    "easy": true
+  },
+  {
+    "uniqueId": 167,
+    "type": 2,
+    "description": "가라지 비유에서 가라지를 뿌린 자는 누구인가요?",
+    "correctAnswer": "원수",
+    "easy": true
+  },
+  {
+    "uniqueId": 168,
+    "type": 2,
+    "description": "누룩 비유에서 여자가 누룩을 섞은 양은 얼마인가요?",
+    "correctAnswer": "세말",
+    "easy": true
+  },
+  {
+    "uniqueId": 169,
+    "type": 2,
+    "description": "밭에 감추인 보화를 발견한 사람이 한 행동은 무엇인가요?",
+    "correctAnswer": "기뻐하여 자기 소유를 다 팔아 그 밭을 샀다",
+    "easy": true
+  },
+  {
+    "uniqueId": 170,
+    "type": 2,
+    "description": "그물 비유에서 마지막에 좋은 것과 못된 것을 가르는 때는 언제인가요?",
+    "correctAnswer": "세상 끝",
+    "easy": true
+  },
+  {
+    "uniqueId": 171,
+    "type": 1,
+    "description": "예수님께서 씨 뿌리는 비유, 가라지 비유, 겨자씨 비유 등 여러 천국 비유를 말씀하신 장은?",
+    "correctAnswer": "마태복음 13장",
+    "easy": true
+  },
+  {
+    "uniqueId": 172,
+    "type": 2,
+    "description": "밭에 감추인 보화 비유는 무엇의 가치를 보여주나요?",
+    "correctAnswer": "천국",
+    "easy": true
+  },
+  {
+    "uniqueId": 173,
+    "type": 2,
+    "description": "씨 뿌리는 비유에서 좋은 땅에 떨어진 씨는 무엇을 맺었습니까?",
+    "correctAnswer": "열매",
+    "easy": true
+  },
+  {
+    "uniqueId": 174,
+    "type": 2,
+    "description": "예수님께서 비유로 말씀하신 이유는 무엇입니까?",
+    "correctAnswer": "듣기는 들어도 깨닫지 못하기 때문",
+    "easy": true
+  },
+  {
+    "uniqueId": 175,
+    "type": 2,
+    "description": "값진 진주를 발견한 장사는 어떻게 했습니까?",
+    "correctAnswer": "가진 것을 다 팔아 샀다",
+    "easy": true
+  },
+  {
+    "uniqueId": 176,
+    "type": 2,
+    "description": "밭에 감추인 보화와 진주 비유가 말하는 것은 무엇인가요?",
+    "correctAnswer": "천국의 가치",
+    "easy": true
+  },
+  {
+    "uniqueId": 177,
+    "type": 2,
+    "description": "다음 중 예수님께서 마귀에게 받으신 시험이 아닌 것은?",
+    "correctAnswer": "물 위를 걸어보라",
+    "easy": false
+  },
+  {
+    "uniqueId": 178,
+    "type": 2,
+    "description": "헤롯 왕이 예수님에 대한 소문을 듣고 누구로 생각했나요?",
+    "correctAnswer": "세례 요한",
+    "easy": true
+  },
+  {
+    "uniqueId": 179,
+    "type": 2,
+    "description": "세례 요한이 죽임을 당한 이유는 무엇인가요?",
+    "correctAnswer": "헤롯의 결혼을 책망해서",
+    "easy": true
+  },
+  {
+    "uniqueId": 180,
+    "type": 2,
+    "description": "세례 요한의 목이 담긴 그릇은 누구에게 주어졌나요?",
+    "correctAnswer": "소녀(딸)",
+    "easy": true
+  },
+  {
+    "uniqueId": 181,
+    "type": 2,
+    "description": "예수님께서 오병이어의 기적을 행하신 장소는 어떤 곳이었나요?",
+    "correctAnswer": "빈들(한적한 곳)",
+    "easy": true
+  },
+  {
+    "uniqueId": 182,
+    "type": 2,
+    "description": "예수님께서 행하신 오병이어의 표적으로 먹은 사람의 수는 몇 명이었나요?",
+    "correctAnswer": "약 5천명",
+    "easy": true
+  },
+  {
+    "uniqueId": 183,
+    "type": 2,
+    "description": "오병이어 표적 이후 다 배불리 먹고 남은 조각을 모으니 몇 바구니가 되었나요?",
+    "correctAnswer": "열두 바구니",
+    "easy": true
+  },
+  {
+    "uniqueId": 184,
+    "type": 2,
+    "description": "예수님께서 물 위를 걸으실 때 제자들은 예수님을 무엇으로 생각했나요?",
+    "correctAnswer": "유령",
+    "easy": true
+  },
+  {
+    "uniqueId": 185,
+    "type": 2,
+    "description": "바람이 그친 후 제자들은 예수님께 절하며 무엇이라고 고백했나요?",
+    "correctAnswer": "진실로 하나님의 아들이로소이다",
+    "easy": true
+  },
+  {
+    "uniqueId": 186,
+    "type": 2,
+    "description": "물 위를 걷다가 두려워 빠져간 제자는 누구인가요?",
+    "correctAnswer": "베드로",
+    "easy": true
+  },
+  {
+    "uniqueId": 187,
+    "type": 2,
+    "description": "세례 요한을 죽인 사람은 누구입니까?",
+    "correctAnswer": "헤롯",
+    "easy": true
+  },
+  {
+    "uniqueId": 188,
+    "type": 2,
+    "description": "물 위를 걷던 베드로가 빠진 이유는 무엇입니까?",
+    "correctAnswer": "바람을 보고 두려워해서",
+    "easy": true
+  },
+  {
+    "uniqueId": 189,
+    "type": 2,
+    "description": "예수님께서 베드로에게 하신 말씀은 무엇입니까?",
+    "correctAnswer": "믿음이 작은 자여 왜 의심하였느냐",
+    "easy": true
+  },
+  {
+    "uniqueId": 190,
+    "type": 2,
+    "description": "세례 요한은 누구에게 죽임을 당했나요?",
+    "correctAnswer": "헤롯",
+    "easy": true
+  },
+  {
+    "uniqueId": 191,
+    "type": 2,
+    "description": "마태복음에서 오병이어의 기적은 몇 장에 나오나요?",
+    "correctAnswer": "14장",
+    "easy": true
+  },
+  {
+    "uniqueId": 192,
+    "type": 2,
+    "description": "물 위로 걸어간 제자는 누구인가요?",
+    "correctAnswer": "베드로",
+    "easy": true
+  },
+  {
+    "uniqueId": 193,
+    "type": 2,
+    "description": "바리새인과 서기관들이 예수님을 비판한 이유는 무엇인가요?",
+    "correctAnswer": "제자들이 손을 씻지 않고 음식을 먹어서",
+    "easy": false
+  },
+  {
+    "uniqueId": 194,
+    "type": 2,
+    "description": "바리새인들이 예수님의 제자들을 비난한 이유는 무엇입니까?",
+    "correctAnswer": "손을 씻지 않고 먹어서",
+    "easy": true
+  },
+  {
+    "uniqueId": 195,
+    "type": 2,
+    "description": "예수님께서 두로와 시돈 지방에서 만나신, 딸의 병 고침을 간절히 구하며 끝까지 믿음을 보인 사람은 누구인가요?",
+    "correctAnswer": "가나안 여인",
+    "easy": true
+  },
+  {
+    "uniqueId": 196,
+    "type": 2,
+    "description": "예수님은 무엇이 사람을 더럽게 하는 것이라고 말씀하셨나요?",
+    "correctAnswer": "입에서 나오는 것",
+    "easy": true
+  },
+  {
+    "uniqueId": 197,
+    "type": 2,
+    "description": "예수님은 입에서 나오는 것들은 어디에서 나온다고 하셨나요?",
+    "correctAnswer": "마음",
+    "easy": true
+  },
+  {
+    "uniqueId": 198,
+    "type": 2,
+    "description": "가나안 여인이 예수님께 구한 것은 무엇인가요?",
+    "correctAnswer": "딸의 치유",
+    "easy": true
+  },
+  {
+    "uniqueId": 199,
+    "type": 2,
+    "description": "도움을 구하는 가나안 여인에게 예수님이 처음으로 무슨 말씀을 하셨나요?",
+    "correctAnswer": "나는 이스라엘 집의 잃어버린 양에게만 보내심을 받았다",
+    "easy": true
+  },
+  {
+    "uniqueId": 200,
+    "type": 2,
+    "description": "다음 중 예수님의 말씀에 가나안 여인이 한 대답으로 옳은 것은 무엇인가요?",
+    "correctAnswer": "개들도 주인의 상에서 떨어지는 부스러기를 먹나이다",
+    "easy": true
+  },
+  {
+    "uniqueId": 201,
+    "type": 2,
+    "description": "예수님은 가나안 여인의 무엇을 칭찬하셨나요?",
+    "correctAnswer": "믿음",
+    "easy": true
+  },
+  {
+    "uniqueId": 202,
+    "type": 2,
+    "description": "예수님께서 떡 일곱 개와 작은 물고기 두 마리로 몇 명을 먹이셨나요?",
+    "correctAnswer": "사천 명",
+    "easy": true
+  },
+  {
+    "uniqueId": 203,
+    "type": 2,
+    "description": "예수님께서 떡 일곱 개와 작은 물고기 두 마리로 사천 명을 먹이신 기적 이후 남은 조각을 몇 광주리에 거두었나요?",
+    "correctAnswer": "일곱 광주리",
+    "easy": true
+  },
+  {
+    "uniqueId": 204,
+    "type": 2,
+    "description": "예수님께서는 사람을 더럽게 하는 것이 무엇이라고 하셨나요?",
+    "correctAnswer": "마음에서 나오는 악한 생각과 말",
+    "easy": true
+  },
+  {
+    "uniqueId": 205,
+    "type": 2,
+    "description": "예수님께서 가나안 여인에게 칭찬하신 것은 무엇입니까?",
+    "correctAnswer": "큰 믿음",
+    "easy": true
+  },
+  {
+    "uniqueId": 206,
+    "type": 1,
+    "description": "예수님께서 책망하신 내용 가운데, 부모를 공경해야 할 책임을 피하려고 \"하나님께 드렸다\"라고 핑계 삼은 유대인의 전통은 무엇인가요?",
+    "correctAnswer": "고르반",
+    "easy": true
+  },
+  {
+    "uniqueId": 207,
+    "type": 2,
+    "description": "바리새인과 사두개인들이 예수님께 요구한 것은 무엇인가요?",
+    "correctAnswer": "표적",
+    "easy": true
+  },
+  {
+    "uniqueId": 208,
+    "type": 2,
+    "description": "예수님께서 주의하라고 하신 바리새인과 사두개인들의 '누룩'은 무엇을 의미하나요?",
+    "correctAnswer": "교훈",
+    "easy": true
+  },
+  {
+    "uniqueId": 209,
+    "type": 2,
+    "description": "예수님께서 경계하신 누룩은 무엇입니까? (마 16장)",
+    "correctAnswer": "바리새인과 사두개인의 교훈",
+    "easy": true
+  },
+  {
+    "uniqueId": 210,
+    "type": 2,
+    "description": "예수님은 그들을 어떤 세대라고 책망하셨나요?",
+    "correctAnswer": "악하고 음란한 세대",
+    "easy": true
+  },
+  {
+    "uniqueId": 211,
+    "type": 2,
+    "description": "예수님의 말씀을 들은 제자들은 '누룩'의 의미를 무엇으로 오해했나요?",
+    "correctAnswer": "떡",
+    "easy": true
+  },
+  {
+    "uniqueId": 212,
+    "type": 2,
+    "description": "사람들이 인자를 누구라고 하느냐는 예수님의 물음에 제자들은 무엇이라고 했나요?",
+    "correctAnswer": "세례 요한, 엘리야 등",
+    "easy": true
+  },
+  {
+    "uniqueId": 213,
+    "type": 2,
+    "description": "예수님은 놀라운 고백을 한 베드로를 무엇이라고 부르셨나요?",
+    "correctAnswer": "반석",
+    "easy": true
+  },
+  {
+    "uniqueId": 214,
+    "type": 2,
+    "description": "예수님께서 말씀하신 주님을 따르는 제자의 올바른 태도는 무엇인가요?",
+    "correctAnswer": "자기를 부인하고 자기 십자가를 지고 예수님을 따른다",
+    "easy": true
+  },
+  {
+    "uniqueId": 215,
+    "type": 2,
+    "description": "다음은 누구의 고백인가요? \"주는 그리스도시오 살아 계신 하나님의 아들이시니이다.\"",
+    "correctAnswer": "베드로",
+    "easy": true
+  },
+  {
+    "uniqueId": 216,
+    "type": 2,
+    "description": "베드로는 예수님을 누구라고 고백하였나요?",
+    "correctAnswer": "그리스도시요 살아계신 하나님의 아들",
+    "easy": true
+  },
+  {
+    "uniqueId": 217,
+    "type": 2,
+    "description": "제자들이 귀신 들린 아이를 고치지 못한 이유는 무엇인가요?",
+    "correctAnswer": "믿음이 작은 까닭으로",
+    "easy": true
+  },
+  {
+    "uniqueId": 218,
+    "type": 2,
+    "description": "다음 중 예수님과 함께 높은 산(변화산)에 오른 제자가 아닌 사람은 누구인가요?",
+    "correctAnswer": "빌립",
+    "easy": false
+  },
+  {
+    "uniqueId": 219,
+    "type": 2,
+    "description": "변화산에서 예수님과 함께 나타난 구약의 인물들은 누구인가요?",
+    "correctAnswer": "모세와 엘리야",
+    "easy": true
+  },
+  {
+    "uniqueId": 220,
+    "type": 2,
+    "description": "베드로가 변화산에서 예수님께 어떤 제안을 하였나요?",
+    "correctAnswer": "초막 셋을 짓자",
+    "easy": true
+  },
+  {
+    "uniqueId": 221,
+    "type": 2,
+    "description": "예수님은 산에서 내려오시며 제자들에게 무엇을 명하셨나요?",
+    "correctAnswer": "인자가 살아나기 전에는 본 것을 아무에게도 이르지 말라",
+    "easy": true
+  },
+  {
+    "uniqueId": 222,
+    "type": 2,
+    "description": "제자들이 예수님께 서기관들의 주장에 대해 물었을 때, 예수님은 어떻게 대답하셨나요?",
+    "correctAnswer": "이미 왔으되 사람들이 알지 못하였다 (이미 왔으되 사람들이 알지 못하였다)",
+    "easy": true
+  },
+  {
+    "uniqueId": 223,
+    "type": 2,
+    "description": "제자들의 믿음이 작음을 책망하시며, 참된 믿음이 무엇만큼만 있어도 된다고 하셨나요?",
+    "correctAnswer": "겨자씨 한 알",
+    "easy": true
+  },
+  {
+    "uniqueId": 224,
+    "type": 2,
+    "description": "예수님께서 성전세를 마련하신 방법은 무엇인가요?",
+    "correctAnswer": "물고기 입에서 한 세겔을 얻으셨다",
+    "easy": true
+  },
+  {
+    "uniqueId": 225,
+    "type": 2,
+    "description": "제자들이 귀신을 쫓아내지 못한 이유는 무엇인가요? (마 17장)",
+    "correctAnswer": "믿음이 작은 까닭",
+    "easy": true
+  },
+  {
+    "uniqueId": 226,
+    "type": 2,
+    "description": "성전세를 낼 때 베드로가 물고기 입에서 얻은 것은 무엇인가요? (마 17장)",
+    "correctAnswer": "한 세겔",
+    "easy": true
+  },
+  {
+    "uniqueId": 227,
+    "type": 1,
+    "description": "예수님께서 천국에서 큰 자가 누구인지 가르치시며 어린아이를 세워 겸손을 교훈하시고, 일흔 번씩 일곱 번이라도 용서하라는 말씀으로 용서를 가르치신 장은?",
+    "correctAnswer": "18장",
+    "easy": true
+  },
+  {
+    "uniqueId": 228,
+    "type": 2,
+    "description": "나를 범죄하게 하는 손이나 발, 눈에 대하여 어떻게 하라고 말씀하시나요? (18:8-9)",
+    "correctAnswer": "찍어 내버리라",
+    "easy": true
+  },
+  {
+    "uniqueId": 229,
+    "type": 2,
+    "description": "베드로가 형제를 몇 번 용서해야 하냐고 물었을 때 예수님은 어떻게 답하셨나요?",
+    "correctAnswer": "일흔 번씩 일곱 번",
+    "easy": true
+  },
+  {
+    "uniqueId": 230,
+    "type": 2,
+    "description": "18장에서 제자들이 예수님께 질문한 내용은 무엇인가요?",
+    "correctAnswer": "누가 천국에서 큰 자인가?",
+    "easy": true
+  },
+  {
+    "uniqueId": 231,
+    "type": 2,
+    "description": "18장에서 예수님은 제자들에게 천국에 들어가기 위한 조건으로 무엇을 말씀하셨나요?",
+    "correctAnswer": "어린아이와 같이 되라",
+    "easy": true
+  },
+  {
+    "uniqueId": 232,
+    "type": 2,
+    "description": "작은 자 중 하나를 실족하게 하는 자는 차라리 무엇이 낫다고 말씀하시나요?",
+    "correctAnswer": "연자 맷돌이 목에 달려 깊은 바다에 빠뜨려지는 것이 낫다",
+    "easy": true
+  },
+  {
+    "uniqueId": 233,
+    "type": 2,
+    "description": "예수님의 잃은 양 비유에서 목자가 한 행동은 무엇인가요?",
+    "correctAnswer": "아흔아홉을 두고 하나를 찾으러 간다",
+    "easy": true
+  },
+  {
+    "uniqueId": 234,
+    "type": 2,
+    "description": "형제가 죄를 범했을 때 첫 번째로 해야 할 일은 무엇인가요?",
+    "correctAnswer": "혼자 가서 권고한다",
+    "easy": true
+  },
+  {
+    "uniqueId": 235,
+    "type": 2,
+    "description": "주님의 이름으로 두세 사람이 모인 곳에 주님은 어떻게 하신다고 하셨나요?",
+    "correctAnswer": "주님도 그들 중에 계신다",
+    "easy": true
+  },
+  {
+    "uniqueId": 236,
+    "type": 2,
+    "description": "베드로는 형제가 자신에게 죄를 범하면 몇 번까지 용서해 주어야 하냐고 예수님께 물었나요?",
+    "correctAnswer": "일곱 번까지 하오리이까?",
+    "easy": true
+  },
+  {
+    "uniqueId": 237,
+    "type": 2,
+    "description": "주인에게 일만 달란트 빚을 탕감받은 종은 자기에게 백 데나리온 빚진 동료에게 어떻게 했나요?",
+    "correctAnswer": "옥에 가두었다",
+    "easy": true
+  },
+  {
+    "uniqueId": 238,
+    "type": 1,
+    "description": "예수님께서 천국에서 큰 자가 누구인지 가르치시며 어린아이를 세워 겸손을 교훈하시고, 용서를 가르치신 장은?",
+    "correctAnswer": "마태복음 18장",
+    "easy": true
+  },
+  {
+    "uniqueId": 239,
+    "type": 2,
+    "description": "예수님께서 천국에서 큰 자가 되려면 어떻게 해야 한다고 하셨나요?",
+    "correctAnswer": "어린아이처럼 낮아져야 한다",
+    "easy": true
+  },
+  {
+    "uniqueId": 240,
+    "type": 2,
+    "description": "예수님께서 실족하게 하는 것에 대해 어떻게 말씀하셨나요? (마 18장)",
+    "correctAnswer": "매우 엄중히 경고하셨다.",
+    "easy": true
+  },
+  {
+    "uniqueId": 241,
+    "type": 2,
+    "description": "길 잃은 양 비유에서 목자는 몇 마리를 찾아 나섰나요? (마 18장)",
+    "correctAnswer": "한 마리",
+    "easy": true
+  },
+  {
+    "uniqueId": 242,
+    "type": 2,
+    "description": "예수님은 천국에서 큰 자는 누구라고 말씀하셨나요?",
+    "correctAnswer": "어린아이처럼 낮아지는 자",
+    "easy": true
+  },
+  {
+    "uniqueId": 243,
+    "type": 2,
+    "description": "예수님께서 일흔 번씩 일곱 번 몇 번까지 용서하라고 하신 말씀은 마태복음 몇 장에 기록되어 있나요?",
+    "correctAnswer": "18장",
+    "easy": true
+  },
+  {
+    "uniqueId": 244,
+    "type": 2,
+    "description": "예수님은 어린아이에 대해 무엇이라 하셨나요?",
+    "correctAnswer": "천국이 이런 사람의 것",
+    "easy": true
+  },
+  {
+    "uniqueId": 245,
+    "type": 2,
+    "description": "바리새인들은 무엇에 대해 예수님을 시험했나요? (마 19장)",
+    "correctAnswer": "이혼 문제",
+    "easy": true
+  },
+  {
+    "uniqueId": 246,
+    "type": 2,
+    "description": "예수님은 결혼에 대해 하나님이 짝지어 주신 것을 사람이 어떻게 하지 못한다고 하셨나요?",
+    "correctAnswer": "나누지 못한다",
+    "easy": true
+  },
+  {
+    "uniqueId": 247,
+    "type": 2,
+    "description": "예수님은 이혼 증서가 허락된 이유를 무엇 때문이라고 하셨나요?",
+    "correctAnswer": "마음의 완악함 때문에",
+    "easy": true
+  },
+  {
+    "uniqueId": 248,
+    "type": 2,
+    "description": "예수님은 어린아이들이 자신에게 오는 것을 어떻게 하라고 하셨나요?",
+    "correctAnswer": "금하지 말라",
+    "easy": true
+  },
+  {
+    "uniqueId": 249,
+    "type": 2,
+    "description": "예수님은 천국이 어떤 사람의 것이라고 하셨나요?",
+    "correctAnswer": "어린아이와 같은 자",
+    "easy": true
+  },
+  {
+    "uniqueId": 250,
+    "type": 2,
+    "description": "부자 청년은 예수님께 무엇을 얻기 위해 질문했나요?",
+    "correctAnswer": "영생",
+    "easy": true
+  },
+  {
+    "uniqueId": 251,
+    "type": 2,
+    "description": "부자 청년이 근심하며 떠난 이유는 무엇인가요?",
+    "correctAnswer": "재물이 많았기 때문에",
+    "easy": true
+  },
+  {
+    "uniqueId": 252,
+    "type": 2,
+    "description": "예수님은 부자가 천국에 들어가는 것이 무엇보다 어렵다고 하셨나요?",
+    "correctAnswer": "낙타가 바늘귀로 들어가는 것",
+    "easy": true
+  },
+  {
+    "uniqueId": 253,
+    "type": 2,
+    "description": "예수님은 자신을 따르기 위해 모든 것을 버린 자들이 무엇을 받는다고 하셨나요?",
+    "correctAnswer": "여러 배와 영생",
+    "easy": true
+  },
+  {
+    "uniqueId": 254,
+    "type": 2,
+    "description": "예수님께서 어린아이에 대해 하신 말씀은 무엇인가요? (마 19장)",
+    "correctAnswer": "천국이 이런 사람의 것이니 막지 말라.",
+    "easy": true
+  },
+  {
+    "uniqueId": 255,
+    "type": 2,
+    "description": "부자 청년이 지키지 못한 것은 무엇이었나요? (마 19장)",
+    "correctAnswer": "재물을 버리고 주님 따르는 것",
+    "easy": true
+  },
+  {
+    "uniqueId": 256,
+    "type": 2,
+    "description": "낙타가 바늘귀로 들어가는 것이 무엇보다 쉽다고 하셨나요? (마 19장)",
+    "correctAnswer": "부자가 하나님 나라에 들어가는 것보다",
+    "easy": true
+  },
+  {
+    "uniqueId": 257,
+    "type": 2,
+    "description": "예수님께 나온 부자 청년의 질문은 무엇인가요?",
+    "correctAnswer": "영생 얻는 길",
+    "easy": true
+  },
+  {
+    "uniqueId": 258,
+    "type": 2,
+    "description": "예수님께서 여리고에서 고쳐 주신 사람은 누구인가요? (마 20장)",
+    "correctAnswer": "맹인 두 사람",
+    "easy": true
+  },
+  {
+    "uniqueId": 259,
+    "type": 2,
+    "description": "포도원 품꾼 비유에서 집주인은 하루 품삯으로 얼마를 약속했나요?",
+    "correctAnswer": "한 데나리온",
+    "easy": true
+  },
+  {
+    "uniqueId": 260,
+    "type": 2,
+    "description": "집주인은 어느 때에도 품꾼들을 포도원에 들여보냈나요?",
+    "correctAnswer": "아침부터 늦은 오후까지",
+    "easy": true
+  },
+  {
+    "uniqueId": 261,
+    "type": 2,
+    "description": "나중에 온 품꾼들도 얼마를 받았나요?",
+    "correctAnswer": "한 데나리온",
+    "easy": true
+  },
+  {
+    "uniqueId": 262,
+    "type": 2,
+    "description": "먼저 온 품꾼들이 불평한 이유는 무엇인가요?",
+    "correctAnswer": "나중 온 자들과 같은 품삯을 받았기 때문",
+    "easy": true
+  },
+  {
+    "uniqueId": 263,
+    "type": 2,
+    "description": "예수님은 이 비유를 통해 무엇이라고 말씀하셨나요?",
+    "correctAnswer": "먼저 된 자로서 나중 되고 나중 된 자로서 먼저 되리라",
+    "easy": true
+  },
+  {
+    "uniqueId": 264,
+    "type": 2,
+    "description": "예수님은 예루살렘으로 올라가시며 자신이 어떤 일을 당할 것을 말씀하셨나요?",
+    "correctAnswer": "고난과 죽음과 부활",
+    "easy": true
+  },
+  {
+    "uniqueId": 265,
+    "type": 2,
+    "description": "세베대의 아들의 어머니는 예수님께 무엇을 구했나요?",
+    "correctAnswer": "두 아들이 주의 나라에서 좌우편에 앉게 해 달라",
+    "easy": true
+  },
+  {
+    "uniqueId": 266,
+    "type": 2,
+    "description": "예수님은 크고자 하는 자는 무엇이 되어야 한다고 하셨나요?",
+    "correctAnswer": "섬기는 자",
+    "easy": true
+  },
+  {
+    "uniqueId": 267,
+    "type": 2,
+    "description": "포도원 품꾼 비유에서 주인이 품꾼들에게 약속한 하루 품삯은? (마 20장)",
+    "correctAnswer": "한 데나리온",
+    "easy": true
+  },
+  {
+    "uniqueId": 268,
+    "type": 2,
+    "description": "세베대의 아들의 어머니가 구한 것은 무엇인가요? (마 20장)",
+    "correctAnswer": "예수님의 좌우편 자리",
+    "easy": true
+  },
+  {
+    "uniqueId": 269,
+    "type": 2,
+    "description": "예수님께서 말씀하신 큰 자의 모습은 무엇인가요? (마 20장)",
+    "correctAnswer": "섬기는 자",
+    "easy": true
+  },
+  {
+    "uniqueId": 270,
+    "type": 2,
+    "description": "마 20장의 포도원 품꾼 비유의 핵심은 무엇인가요?",
+    "correctAnswer": "하나님의 은혜",
+    "easy": true
+  },
+  {
+    "uniqueId": 271,
+    "type": 2,
+    "description": "무리들이 예수님을 맞이하며 외친 말은 무엇인가요?",
+    "correctAnswer": "호산나 다윗의 자손이여",
+    "easy": true
+  },
+  {
+    "uniqueId": 272,
+    "type": 2,
+    "description": "예수님께서 성전에 들어가셔서 하신 일은 무엇인가요?",
+    "correctAnswer": "매매하는 자들을 내쫓으심",
+    "easy": true
+  },
+  {
+    "uniqueId": 273,
+    "type": 2,
+    "description": "예수님께서 성전에서 가르치심을 보고 대제사장과 장로들이 무엇이라고 비난했나요?",
+    "correctAnswer": "네가 무슨 권위로 이런 일을 하느냐?",
+    "easy": true
+  },
+  {
+    "uniqueId": 274,
+    "type": 2,
+    "description": "포도원 농부 비유에서 농부들이 마지막에 죽인 사람은 누구인가요?",
+    "correctAnswer": "주인의 아들",
+    "easy": true
+  },
+  {
+    "uniqueId": 275,
+    "type": 2,
+    "description": "성전을 깨끗하게 하시며 하신 말씀은 무엇인가요?",
+    "correctAnswer": "기도하는 집이라",
+    "easy": true
+  },
+  {
+    "uniqueId": 276,
+    "type": 2,
+    "description": "예수님께서 무엇을 타고 예루살렘에 입성하셨나요?",
+    "correctAnswer": "나귀 새끼",
+    "easy": true
+  },
+  {
+    "uniqueId": 277,
+    "type": 2,
+    "description": "예수님께서 열매 없는 무화과나무를 보시고 어떻게 하셨나요?",
+    "correctAnswer": "저주하셨다",
+    "easy": true
+  },
+  {
+    "uniqueId": 278,
+    "type": 2,
+    "description": "부활이 없다고 주장하는 사람들은 누구인가요?",
+    "correctAnswer": "사두개인",
+    "easy": true
+  },
+  {
+    "uniqueId": 279,
+    "type": 2,
+    "description": "혼인잔치 비유에서 임금이 분노한 가장 큰 이유는 무엇인가요?",
+    "correctAnswer": "초청받은 사람들이 거절하고 악행했기 때문에",
+    "easy": true
+  },
+  {
+    "uniqueId": 280,
+    "type": 2,
+    "description": "예수님께서 가이사의 것과 하나님의 것을 구분하여 말씀하실 때 사용하신 것은 무엇인가요?",
+    "correctAnswer": "데나리온 동전",
+    "easy": true
+  },
+  {
+    "uniqueId": 281,
+    "type": 2,
+    "description": "다음 중 예수님께서 가장 크고 첫째 되는 계명이라고 말씀하신 것은 무엇인가요?",
+    "correctAnswer": "마음을 다해 하나님을 사랑하라",
+    "easy": true
+  },
+  {
+    "uniqueId": 282,
+    "type": 2,
+    "description": "가장 큰 계명은 무엇인가요?",
+    "correctAnswer": "하나님 사랑, 이웃 사랑",
+    "easy": true
+  },
+  {
+    "uniqueId": 283,
+    "type": 2,
+    "description": "가이사에게 세금을 바치는 문제에 예수님은 어떻게 답하셨나요?",
+    "correctAnswer": "가이사의 것은 가이사에게",
+    "easy": true
+  },
+  {
+    "uniqueId": 284,
+    "type": 2,
+    "description": "예수님께서 서기관들과 바리새인들의 잘못으로 가장 먼저 지적하신 것은 무엇인가요?",
+    "correctAnswer": "말만 하고 행하지 않는 것",
+    "easy": true
+  },
+  {
+    "uniqueId": 285,
+    "type": 2,
+    "description": "바리새인들이 사람들에게 보이려고 넓게 만든 것은 무엇인가요?",
+    "correctAnswer": "경문 띠",
+    "easy": true
+  },
+  {
+    "uniqueId": 286,
+    "type": 2,
+    "description": "예수님께서 외식하는 서기관들과 바리새인들을 무엇에 비유하셨나요?",
+    "correctAnswer": "회칠한 무덤",
+    "easy": true
+  },
+  {
+    "uniqueId": 287,
+    "type": 2,
+    "description": "예수님께서 바리새인들이 십일조는 철저히 드리면서도, 율법의 더 중요한 무엇을 버렸다고 말씀하셨나요?",
+    "correctAnswer": "정의와 긍휼과 믿음",
+    "easy": true
+  },
+  {
+    "uniqueId": 288,
+    "type": 1,
+    "description": "예수님께서 바리새인과 서기관들의 외식을 책망하시며 화 있을진저를 반복하신 장은?",
+    "correctAnswer": "마태복음 23장",
+    "easy": true
+  },
+  {
+    "uniqueId": 289,
+    "type": 2,
+    "description": "마 23장에서 예수님께서 책망하신 사람들은 누구인가요?",
+    "correctAnswer": "서기관과 바리새인",
+    "easy": true
+  },
+  {
+    "uniqueId": 290,
+    "type": 2,
+    "description": "예수님께서 제자들에게 크고자 하는 자는 어떻게 해야 한다고 말씀하셨나요?",
+    "correctAnswer": "섬기는 자가 되어야 한다",
+    "easy": true
+  },
+  {
+    "uniqueId": 291,
+    "type": 2,
+    "description": "예수님께서 예루살렘을 보시며 어떤 마음으로 탄식하셨나요?",
+    "correctAnswer": "사랑과 안타까움",
+    "easy": true
+  },
+  {
+    "uniqueId": 292,
+    "type": 2,
+    "description": "예수님은 외식하는 신앙을 무엇에 비유하셨나요?",
+    "correctAnswer": "회칠한 무덤",
+    "easy": true
+  },
+  {
+    "uniqueId": 293,
+    "type": 1,
+    "description": "예수님께서 말세의 징조와 재림에 대하여 말씀하신 장은?",
+    "correctAnswer": "마태복음 24장",
+    "easy": true
+  },
+  {
+    "uniqueId": 294,
+    "type": 2,
+    "description": "예수님께서 성전이 무너질 것을 말씀하시자 제자들이 \"어느 때에 이런 일이 있겠습니까?\"라고 물었습니다. 이 질문에 대한 예수님의 대답은 무엇인가요?",
+    "correctAnswer": "사람의 미혹을 받지 않도록 주의하라",
+    "easy": true
+  },
+  {
+    "uniqueId": 295,
+    "type": 2,
+    "description": "예수님은 말세에 난리와 난리 소문, 기근과 지진이 있을 것이라고 하셨습니다. 그러나 이 모든 것은 무엇의 시작이라고 하셨나요?",
+    "correctAnswer": "재난의 시작",
+    "easy": true
+  },
+  {
+    "uniqueId": 296,
+    "type": 2,
+    "description": "예수님께서는 마지막 때에 천국 복음이 어떻게 전파될 것이라고 말씀하셨나요?",
+    "correctAnswer": "모든 민족에게 증언되기 위하여 온 세상에 전파된다",
+    "easy": true
+  },
+  {
+    "uniqueId": 297,
+    "type": 2,
+    "description": "주인이 올 때 칭찬을 듣고 주인이 그의 모든 소유를 맡기는 종은 어떤 종인가요?",
+    "correctAnswer": "충성되고 지혜 있는 종",
+    "easy": true
+  },
+  {
+    "uniqueId": 298,
+    "type": 2,
+    "description": "예수님은 마지막 때를 준비하는 자세를 종과 주인의 비유로 말씀하셨습니다. 주인이 올 때 칭찬을 듣고 주인이 그의 모든 소유를 맡기는 좋은 어떤 종인가요?",
+    "correctAnswer": "충성되고 지혜 있는 종",
+    "easy": true
+  },
+  {
+    "uniqueId": 299,
+    "type": 2,
+    "description": "예수님이 말씀하신 열 처녀 비유에서 미련한 다섯 처녀에게 부족했던 것은 무엇인가요?",
+    "correctAnswer": "기름",
+    "easy": true
+  },
+  {
+    "uniqueId": 300,
+    "type": 2,
+    "description": "달란트 비유에서 주인에게 한 달란트를 받은 좋은 그것을 어떻게 했나요?",
+    "correctAnswer": "땅에 감추어 두었다",
+    "easy": true
+  },
+  {
+    "uniqueId": 301,
+    "type": 2,
+    "description": "달란트 비유에서 주인이 돌아와 착하고 충성된 종에게 한 말은 무엇인가요?",
+    "correctAnswer": "네 주인의 즐거움에 참여할지어다",
+    "easy": true
+  },
+  {
+    "uniqueId": 302,
+    "type": 2,
+    "description": "양과 염소를 구분하시는 심판 장면에서, 의인들이 주님께 인정받은 일은 무엇인가요?",
+    "correctAnswer": "주린 자를 먹이고, 나그네를 영접하며, 병든 자를 돌본 것",
+    "easy": true
+  },
+  {
+    "uniqueId": 303,
+    "type": 2,
+    "description": "베다니 나병환자 시몬의 집에서 한 여자가 귀한 향유를 예수님의 머리에 부었습니다. 예수님은 이 일을 무엇을 위한 것이라고 말씀하셨나요?",
+    "correctAnswer": "예수님의 장례를 위한 준비",
+    "easy": true
+  },
+  {
+    "uniqueId": 304,
+    "type": 2,
+    "description": "가룟 유다는 예수님을 대제사장들에게 넘겨주기로 약속하고 그 값으로 얼마를 받았나요?",
+    "correctAnswer": "은 삼십",
+    "easy": true
+  },
+  {
+    "uniqueId": 305,
+    "type": 2,
+    "description": "예수님께서 겟세마네 동산에서 기도하실 때, 제자들에게 하신 말씀은 무엇인가요?",
+    "correctAnswer": "시험에 들지 않게 깨어 기도하라",
+    "easy": true
+  },
+  {
+    "uniqueId": 306,
+    "type": 1,
+    "description": "예수님께서 최후의 만찬을 하시고 겟세마네에서 기도하신 장은?",
+    "correctAnswer": "마태복음 26장",
+    "easy": true
+  },
+  {
+    "uniqueId": 307,
+    "type": 2,
+    "description": "예수님께서 잡히신 후에 베드로는 사람들 앞에서 예수님을 몇 번 부인했나요?",
+    "correctAnswer": "세번",
+    "easy": true
+  },
+  {
+    "uniqueId": 308,
+    "type": 2,
+    "description": "새벽이 되자 대제사장들과 백성의 장로들은 누구를 죽이려고 의논하였나요?",
+    "correctAnswer": "예수님",
+    "easy": true
+  },
+  {
+    "uniqueId": 309,
+    "type": 2,
+    "description": "예수님을 판 유다가 후회하며 돌려준 것은 무엇인가요?",
+    "correctAnswer": "은 삼십",
+    "easy": true
+  },
+  {
+    "uniqueId": 310,
+    "type": 2,
+    "description": "대제사장들은 유다가 던진 은을 무엇을 사는 데 사용했나요?",
+    "correctAnswer": "밭",
+    "easy": true
+  },
+  {
+    "uniqueId": 311,
+    "type": 2,
+    "description": "빌라도의 아내는 예수님에 대하여 남편에게 어떤 말을 전했나요?",
+    "correctAnswer": "저 옳은 사람에게 아무 상관도 하지 마옵소서.",
+    "easy": true
+  },
+  {
+    "uniqueId": 312,
+    "type": 2,
+    "description": "군인들이 예수님을 희롱하며 입힌 옷은 무슨 색이었나요?",
+    "correctAnswer": "자색 옷",
+    "easy": true
+  },
+  {
+    "uniqueId": 313,
+    "type": 2,
+    "description": "예수님의 십자가를 억지로 지고 간 사람은 누구인가요?",
+    "correctAnswer": "구레네 사람 시몬",
+    "easy": true
+  },
+  {
+    "uniqueId": 314,
+    "type": 2,
+    "description": "예수님께서 십자가 위에서 외치신 말씀은 무엇인가요?",
+    "correctAnswer": "엘리 엘리 라마 사박다니",
+    "easy": true
+  },
+  {
+    "uniqueId": 315,
+    "type": 2,
+    "description": "예수님께서 숨지실 때 성소 휘장은 어떻게 되었나요?",
+    "correctAnswer": "위로부터 아래까지 찢어졌다.",
+    "easy": true
+  },
+  {
+    "uniqueId": 316,
+    "type": 2,
+    "description": "예수님의 시신을 자기 새 무덤에 장치한 사람은 누구인가요?",
+    "correctAnswer": "아리마대 요셉",
+    "easy": true
+  },
+  {
+    "uniqueId": 317,
+    "type": 2,
+    "description": "빌라도가 유월절 관례대로 예수님 대신 풀어준 죄수는 누구였나요?",
+    "correctAnswer": "바라바",
+    "easy": true
+  },
+  {
+    "uniqueId": 318,
+    "type": 1,
+    "description": "예수님이 부활 후 제자들에게 주신 마 28:18-20 절의 핵심 명령은?",
+    "correctAnswer": "선교 명령",
+    "easy": true
+  },
+  {
+    "uniqueId": 319,
+    "type": 2,
+    "description": "안식일이 다 지나고 안식 후 첫날 새벽에 누가 예수님의 무덤을 보러 갔나요?",
+    "correctAnswer": "막달라 마리아와 다른 마리아",
+    "easy": true
+  },
+  {
+    "uniqueId": 320,
+    "type": 2,
+    "description": "무덤 문을 굴려 낸 이는 누구인가요?",
+    "correctAnswer": "주의 천사",
+    "easy": true
+  },
+  {
+    "uniqueId": 321,
+    "type": 2,
+    "description": "천사의 모습은 무엇과 같았나요?",
+    "correctAnswer": "번개 같았다.",
+    "easy": true
+  },
+  {
+    "uniqueId": 322,
+    "type": 2,
+    "description": "천사는 여자들에게 무서워하지 말라고 하면서 무엇을 안다고 했나요?",
+    "correctAnswer": "예수를 찾는 줄을",
+    "easy": true
+  },
+  {
+    "uniqueId": 323,
+    "type": 2,
+    "description": "천사는 예수님이 어떻게 되셨다고 말했나요?",
+    "correctAnswer": "말씀하신 대로 살아나셨다.",
+    "easy": true
+  },
+  {
+    "uniqueId": 324,
+    "type": 2,
+    "description": "여자들이 제자들에게 알리려고 갈 때 누가 그들을 만나셨나요?",
+    "correctAnswer": "예수님",
+    "easy": true
+  },
+  {
+    "uniqueId": 325,
+    "type": 2,
+    "description": "대제사장들이 예수님의 부활을 은폐하기 위하여 군인들을 매수하며 무엇을 주었나요?",
+    "correctAnswer": "많은 돈",
+    "easy": true
+  },
+  {
+    "uniqueId": 326,
+    "type": 2,
+    "description": "대제사장들과 장로들이 군인들에게 퍼뜨리라고 지시한 말은 무엇인가요?",
+    "correctAnswer": "제자들이 시체를 훔쳐 갔다.",
+    "easy": true
+  },
+  {
+    "uniqueId": 327,
+    "type": 2,
+    "description": "열한 제자는 어디로 가서 부활하신 예수님을 뵈었나요?",
+    "correctAnswer": "갈릴리 산",
+    "easy": true
+  },
+  {
+    "uniqueId": 328,
+    "type": 2,
+    "description": "18-20 절에 나타난 핵심 주제는 무엇인가요?",
+    "correctAnswer": "선교 명령 (지상명령)",
+    "easy": false
+  },
+  {
+    "uniqueId": 329,
+    "type": 2,
+    "description": "예수님께서 제자들에게 모든 민족을 어떻게 하라고 명령하셨나요?",
+    "correctAnswer": "제자로 삼으라.",
+    "easy": true
+  }
 ]

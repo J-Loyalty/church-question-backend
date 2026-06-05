@@ -1,502 +1,5720 @@
 [
-{"uniqueId":1,"questionId":2,"num":1,"description":"아브라함"},
-{"uniqueId":2,"questionId":2,"num":2,"description":"모세"},
-{"uniqueId":3,"questionId":2,"num":3,"description":"다윗"},
-{"uniqueId":4,"questionId":2,"num":4,"description":"아담"},
-{"uniqueId":5,"questionId":2,"num":5,"description":"노아"},
-{"uniqueId":6,"questionId":4,"num":1,"description":"요셉"},
-{"uniqueId":7,"questionId":4,"num":2,"description":"야곱"},
-{"uniqueId":8,"questionId":4,"num":3,"description":"다윗"},
-{"uniqueId":9,"questionId":4,"num":4,"description":"엘리"},
-{"uniqueId":10,"questionId":4,"num":5,"description":"스가랴"},
-{"uniqueId":11,"questionId":6,"num":1,"description":"한나"},
-{"uniqueId":12,"questionId":6,"num":2,"description":"다말"},
-{"uniqueId":13,"questionId":6,"num":3,"description":"라합"},
-{"uniqueId":14,"questionId":6,"num":4,"description":"룻"},
-{"uniqueId":15,"questionId":6,"num":5,"description":"밧세바"},
-{"uniqueId":16,"questionId":8,"num":1,"description":"베들레헴"},
-{"uniqueId":17,"questionId":8,"num":2,"description":"나사렛"},
-{"uniqueId":18,"questionId":8,"num":3,"description":"예루살렘"},
-{"uniqueId":19,"questionId":8,"num":4,"description":"가버나움"},
-{"uniqueId":20,"questionId":8,"num":5,"description":"여리고"},
-{"uniqueId":21,"questionId":10,"num":1,"description":"은"},
-{"uniqueId":22,"questionId":10,"num":2,"description":"황금"},
-{"uniqueId":23,"questionId":10,"num":3,"description":"유향"},
-{"uniqueId":24,"questionId":10,"num":4,"description":"몰약"},
-{"uniqueId":25,"questionId":10,"num":5,"description":"보석"},
-{"uniqueId":26,"questionId":12,"num":1,"description":"애굽"},
-{"uniqueId":27,"questionId":12,"num":2,"description":"바벨론"},
-{"uniqueId":28,"questionId":12,"num":3,"description":"수리아"},
-{"uniqueId":29,"questionId":12,"num":4,"description":"사마리아"},
-{"uniqueId":30,"questionId":12,"num":5,"description":"두로"},
-{"uniqueId":31,"questionId":14,"num":1,"description":"유대 광야"},
-{"uniqueId":32,"questionId":14,"num":2,"description":"갈릴리 바다"},
-{"uniqueId":33,"questionId":14,"num":3,"description":"예루살렘 성전"},
-{"uniqueId":34,"questionId":14,"num":4,"description":"사마리아"},
-{"uniqueId":35,"questionId":14,"num":5,"description":"베들레헴"},
-{"uniqueId":36,"questionId":16,"num":1,"description":"약대털"},
-{"uniqueId":37,"questionId":16,"num":2,"description":"양털"},
-{"uniqueId":38,"questionId":16,"num":3,"description":"삼베"},
-{"uniqueId":39,"questionId":16,"num":4,"description":"가죽"},
-{"uniqueId":40,"questionId":16,"num":5,"description":"모시"},
-{"uniqueId":41,"questionId":18,"num":1,"description":"성령이 비둘기같이"},
-{"uniqueId":42,"questionId":18,"num":2,"description":"불기둥"},
-{"uniqueId":43,"questionId":18,"num":3,"description":"천사"},
-{"uniqueId":44,"questionId":18,"num":4,"description":"구름"},
-{"uniqueId":45,"questionId":18,"num":5,"description":"무지개"},
-{"uniqueId":46,"questionId":20,"num":1,"description":"떡"},
-{"uniqueId":47,"questionId":20,"num":2,"description":"물"},
-{"uniqueId":48,"questionId":20,"num":3,"description":"포도주"},
-{"uniqueId":49,"questionId":20,"num":4,"description":"생선"},
-{"uniqueId":50,"questionId":20,"num":5,"description":"과일"},
-{"uniqueId":51,"questionId":22,"num":1,"description":"경배"},
-{"uniqueId":52,"questionId":22,"num":2,"description":"돌로 만들라"},
-{"uniqueId":53,"questionId":22,"num":3,"description":"뛰어내리라"},
-{"uniqueId":54,"questionId":22,"num":4,"description":"기적을 보이라"},
-{"uniqueId":55,"questionId":22,"num":5,"description":"세상을 다스리라"},
-{"uniqueId":56,"questionId":24,"num":1,"description":"시몬과 안드레"},
-{"uniqueId":57,"questionId":24,"num":2,"description":"야고보와 요한"},
-{"uniqueId":58,"questionId":24,"num":3,"description":"빌립과 바돌로매"},
-{"uniqueId":59,"questionId":24,"num":4,"description":"마태와 도마"},
-{"uniqueId":60,"questionId":24,"num":5,"description":"베드로와 유다"},
-{"uniqueId":61,"questionId":26,"num":1,"description":"세베대"},
-{"uniqueId":62,"questionId":26,"num":2,"description":"요나"},
-{"uniqueId":63,"questionId":26,"num":3,"description":"알패오"},
-{"uniqueId":64,"questionId":26,"num":4,"description":"시몬"},
-{"uniqueId":65,"questionId":26,"num":5,"description":"다윗"},
-{"uniqueId":66,"questionId":28,"num":1,"description":"천국"},
-{"uniqueId":67,"questionId":28,"num":2,"description":"영생"},
-{"uniqueId":68,"questionId":28,"num":3,"description":"위로"},
-{"uniqueId":69,"questionId":28,"num":4,"description":"평화"},
-{"uniqueId":70,"questionId":28,"num":5,"description":"기쁨"},
-{"uniqueId":71,"questionId":30,"num":1,"description":"땅"},
-{"uniqueId":72,"questionId":30,"num":2,"description":"천국"},
-{"uniqueId":73,"questionId":30,"num":3,"description":"위로"},
-{"uniqueId":74,"questionId":30,"num":4,"description":"영생"},
-{"uniqueId":75,"questionId":30,"num":5,"description":"하나님을 봄"},
-{"uniqueId":76,"questionId":32,"num":1,"description":"등경 위"},
-{"uniqueId":77,"questionId":32,"num":2,"description":"말 아래"},
-{"uniqueId":78,"questionId":32,"num":3,"description":"방 안"},
-{"uniqueId":79,"questionId":32,"num":4,"description":"산 위"},
-{"uniqueId":80,"questionId":32,"num":5,"description":"광야"},
-{"uniqueId":81,"questionId":34,"num":1,"description":"사랑하라"},
-{"uniqueId":82,"questionId":34,"num":2,"description":"피하라"},
-{"uniqueId":83,"questionId":34,"num":3,"description":"용서하라"},
-{"uniqueId":84,"questionId":34,"num":4,"description":"심판하라"},
-{"uniqueId":85,"questionId":34,"num":5,"description":"무시하라"},
-{"uniqueId":86,"questionId":36,"num":1,"description":"왼손"},
-{"uniqueId":87,"questionId":36,"num":2,"description":"이웃"},
-{"uniqueId":88,"questionId":36,"num":3,"description":"제사장"},
-{"uniqueId":89,"questionId":36,"num":4,"description":"가족"},
-{"uniqueId":90,"questionId":36,"num":5,"description":"하나님"},
-{"uniqueId":91,"questionId":38,"num":1,"description":"오늘"},
-{"uniqueId":92,"questionId":38,"num":2,"description":"일주일"},
-{"uniqueId":93,"questionId":38,"num":3,"description":"한 달"},
-{"uniqueId":94,"questionId":38,"num":4,"description":"내일"},
-{"uniqueId":95,"questionId":38,"num":5,"description":"일 년"},
-{"uniqueId":96,"questionId":40,"num":1,"description":"재물"},
-{"uniqueId":97,"questionId":40,"num":2,"description":"권력"},
-{"uniqueId":98,"questionId":40,"num":3,"description":"명예"},
-{"uniqueId":99,"questionId":40,"num":4,"description":"세상"},
-{"uniqueId":100,"questionId":40,"num":5,"description":"자기 자신"},
-{"uniqueId":101,"questionId":42,"num":1,"description":"의"},
-{"uniqueId":102,"questionId":42,"num":2,"description":"나라"},
-{"uniqueId":103,"questionId":42,"num":3,"description":"영광"},
-{"uniqueId":104,"questionId":42,"num":4,"description":"뜻"},
-{"uniqueId":105,"questionId":42,"num":5,"description":"은혜"},
-{"uniqueId":106,"questionId":44,"num":1,"description":"멸망"},
-{"uniqueId":107,"questionId":44,"num":2,"description":"생명"},
-{"uniqueId":108,"questionId":44,"num":3,"description":"천국"},
-{"uniqueId":109,"questionId":44,"num":4,"description":"평화"},
-{"uniqueId":110,"questionId":44,"num":5,"description":"심판"},
-{"uniqueId":111,"questionId":46,"num":1,"description":"말씀을 듣고 행하는 자"},
-{"uniqueId":112,"questionId":46,"num":2,"description":"기도를 많이 하는 자"},
-{"uniqueId":113,"questionId":46,"num":3,"description":"성전에 자주 가는 자"},
-{"uniqueId":114,"questionId":46,"num":4,"description":"율법을 외우는 자"},
-{"uniqueId":115,"questionId":46,"num":5,"description":"구제를 많이 하는 자"},
-{"uniqueId":116,"questionId":48,"num":1,"description":"나병"},
-{"uniqueId":117,"questionId":48,"num":2,"description":"중풍"},
-{"uniqueId":118,"questionId":48,"num":3,"description":"맹인"},
-{"uniqueId":119,"questionId":48,"num":4,"description":"혈루증"},
-{"uniqueId":120,"questionId":48,"num":5,"description":"귀신 들림"},
-{"uniqueId":121,"questionId":50,"num":1,"description":"열병"},
-{"uniqueId":122,"questionId":50,"num":2,"description":"나병"},
-{"uniqueId":123,"questionId":50,"num":3,"description":"중풍"},
-{"uniqueId":124,"questionId":50,"num":4,"description":"혈루증"},
-{"uniqueId":125,"questionId":50,"num":5,"description":"맹인"},
-{"uniqueId":126,"questionId":52,"num":1,"description":"돼지"},
-{"uniqueId":127,"questionId":52,"num":2,"description":"양"},
-{"uniqueId":128,"questionId":52,"num":3,"description":"소"},
-{"uniqueId":129,"questionId":52,"num":4,"description":"염소"},
-{"uniqueId":130,"questionId":52,"num":5,"description":"나귀"},
-{"uniqueId":131,"questionId":54,"num":1,"description":"세리"},
-{"uniqueId":132,"questionId":54,"num":2,"description":"어부"},
-{"uniqueId":133,"questionId":54,"num":3,"description":"목수"},
-{"uniqueId":134,"questionId":54,"num":4,"description":"제사장"},
-{"uniqueId":135,"questionId":54,"num":5,"description":"군인"},
-{"uniqueId":136,"questionId":56,"num":1,"description":"새 부대"},
-{"uniqueId":137,"questionId":56,"num":2,"description":"헌 부대"},
-{"uniqueId":138,"questionId":56,"num":3,"description":"가죽 부대"},
-{"uniqueId":139,"questionId":56,"num":4,"description":"토기 항아리"},
-{"uniqueId":140,"questionId":56,"num":5,"description":"나무 통"},
-{"uniqueId":141,"questionId":58,"num":1,"description":"예수님의 옷자락"},
-{"uniqueId":142,"questionId":58,"num":2,"description":"예수님의 손"},
-{"uniqueId":143,"questionId":58,"num":3,"description":"예수님의 발"},
-{"uniqueId":144,"questionId":58,"num":4,"description":"예수님의 머리"},
-{"uniqueId":145,"questionId":58,"num":5,"description":"예수님의 허리띠"},
-{"uniqueId":146,"questionId":60,"num":1,"description":"유다"},
-{"uniqueId":147,"questionId":60,"num":2,"description":"도마"},
-{"uniqueId":148,"questionId":60,"num":3,"description":"시몬"},
-{"uniqueId":149,"questionId":60,"num":4,"description":"마태"},
-{"uniqueId":150,"questionId":60,"num":5,"description":"안드레"},
-{"uniqueId":151,"questionId":62,"num":1,"description":"하나님의 돌보심을 가르치려고"},
-{"uniqueId":152,"questionId":62,"num":2,"description":"겸손을 가르치려고"},
-{"uniqueId":153,"questionId":62,"num":3,"description":"기도의 중요성을 알리려고"},
-{"uniqueId":154,"questionId":62,"num":4,"description":"자연의 아름다움을 보여주려고"},
-{"uniqueId":155,"questionId":62,"num":5,"description":"제자들의 믿음을 시험하려고"},
-{"uniqueId":156,"questionId":64,"num":1,"description":"여자가 낳은 자 중에"},
-{"uniqueId":157,"questionId":64,"num":2,"description":"선지자 중에"},
-{"uniqueId":158,"questionId":64,"num":3,"description":"제사장 중에"},
-{"uniqueId":159,"questionId":64,"num":4,"description":"왕 중에"},
-{"uniqueId":160,"questionId":64,"num":5,"description":"사도 중에"},
-{"uniqueId":161,"questionId":66,"num":1,"description":"밀밭"},
-{"uniqueId":162,"questionId":66,"num":2,"description":"포도원"},
-{"uniqueId":163,"questionId":66,"num":3,"description":"올리브 동산"},
-{"uniqueId":164,"questionId":66,"num":4,"description":"보리밭"},
-{"uniqueId":165,"questionId":66,"num":5,"description":"무화과나무 아래"},
-{"uniqueId":166,"questionId":68,"num":1,"description":"바알세불"},
-{"uniqueId":167,"questionId":68,"num":2,"description":"성령"},
-{"uniqueId":168,"questionId":68,"num":3,"description":"하나님의 능력"},
-{"uniqueId":169,"questionId":68,"num":4,"description":"천사"},
-{"uniqueId":170,"questionId":68,"num":5,"description":"마술"},
-{"uniqueId":171,"questionId":70,"num":1,"description":"새가 와서 먹어버림"},
-{"uniqueId":172,"questionId":70,"num":2,"description":"해가 떠서 말라버림"},
-{"uniqueId":173,"questionId":70,"num":3,"description":"가시에 막혀 자라지 못함"},
-{"uniqueId":174,"questionId":70,"num":4,"description":"바람에 날아감"},
-{"uniqueId":175,"questionId":70,"num":5,"description":"물에 떠내려감"},
-{"uniqueId":176,"questionId":72,"num":1,"description":"원수"},
-{"uniqueId":177,"questionId":72,"num":2,"description":"종"},
-{"uniqueId":178,"questionId":72,"num":3,"description":"이웃"},
-{"uniqueId":179,"questionId":72,"num":4,"description":"바리새인"},
-{"uniqueId":180,"questionId":72,"num":5,"description":"농부"},
-{"uniqueId":181,"questionId":74,"num":1,"description":"가진 것을 다 팔아 그 밭을 삼"},
-{"uniqueId":182,"questionId":74,"num":2,"description":"왕에게 보고함"},
-{"uniqueId":183,"questionId":74,"num":3,"description":"이웃에게 나눠줌"},
-{"uniqueId":184,"questionId":74,"num":4,"description":"다시 묻어둠"},
-{"uniqueId":185,"questionId":74,"num":5,"description":"성전에 바침"},
-{"uniqueId":186,"questionId":76,"num":1,"description":"헤롯"},
-{"uniqueId":187,"questionId":76,"num":2,"description":"빌라도"},
-{"uniqueId":188,"questionId":76,"num":3,"description":"가이사"},
-{"uniqueId":189,"questionId":76,"num":4,"description":"아그립바"},
-{"uniqueId":190,"questionId":76,"num":5,"description":"느부갓네살"},
-{"uniqueId":191,"questionId":78,"num":1,"description":"오천 명"},
-{"uniqueId":192,"questionId":78,"num":2,"description":"삼천 명"},
-{"uniqueId":193,"questionId":78,"num":3,"description":"사천 명"},
-{"uniqueId":194,"questionId":78,"num":4,"description":"칠천 명"},
-{"uniqueId":195,"questionId":78,"num":5,"description":"만 명"},
-{"uniqueId":196,"questionId":80,"num":1,"description":"베드로"},
-{"uniqueId":197,"questionId":80,"num":2,"description":"요한"},
-{"uniqueId":198,"questionId":80,"num":3,"description":"야고보"},
-{"uniqueId":199,"questionId":80,"num":4,"description":"안드레"},
-{"uniqueId":200,"questionId":80,"num":5,"description":"도마"},
-{"uniqueId":201,"questionId":82,"num":1,"description":"옷자락만 만져도 나음"},
-{"uniqueId":202,"questionId":82,"num":2,"description":"안수하여 고침"},
-{"uniqueId":203,"questionId":82,"num":3,"description":"말씀으로 고침"},
-{"uniqueId":204,"questionId":82,"num":4,"description":"침을 발라 고침"},
-{"uniqueId":205,"questionId":82,"num":5,"description":"물로 씻어 고침"},
-{"uniqueId":206,"questionId":84,"num":1,"description":"마음에서 나오기 때문"},
-{"uniqueId":207,"questionId":84,"num":2,"description":"율법에 어긋나기 때문"},
-{"uniqueId":208,"questionId":84,"num":3,"description":"하나님이 싫어하시기 때문"},
-{"uniqueId":209,"questionId":84,"num":4,"description":"이웃을 해치기 때문"},
-{"uniqueId":210,"questionId":84,"num":5,"description":"몸을 병들게 하기 때문"},
-{"uniqueId":211,"questionId":86,"num":1,"description":"사천 명"},
-{"uniqueId":212,"questionId":86,"num":2,"description":"오천 명"},
-{"uniqueId":213,"questionId":86,"num":3,"description":"삼천 명"},
-{"uniqueId":214,"questionId":86,"num":4,"description":"이천 명"},
-{"uniqueId":215,"questionId":86,"num":5,"description":"칠천 명"},
-{"uniqueId":216,"questionId":88,"num":1,"description":"하늘로부터 오는 표적"},
-{"uniqueId":217,"questionId":88,"num":2,"description":"율법 해석"},
-{"uniqueId":218,"questionId":88,"num":3,"description":"병 고침"},
-{"uniqueId":219,"questionId":88,"num":4,"description":"세금 면제"},
-{"uniqueId":220,"questionId":88,"num":5,"description":"왕이 되어달라"},
-{"uniqueId":221,"questionId":90,"num":1,"description":"그리스도 살아계신 하나님의 아들"},
-{"uniqueId":222,"questionId":90,"num":2,"description":"위대한 선지자"},
-{"uniqueId":223,"questionId":90,"num":3,"description":"다윗의 후손"},
-{"uniqueId":224,"questionId":90,"num":4,"description":"세례 요한"},
-{"uniqueId":225,"questionId":90,"num":5,"description":"엘리야"},
-{"uniqueId":226,"questionId":92,"num":1,"description":"베드로"},
-{"uniqueId":227,"questionId":92,"num":2,"description":"요한"},
-{"uniqueId":228,"questionId":92,"num":3,"description":"야고보"},
-{"uniqueId":229,"questionId":92,"num":4,"description":"유다"},
-{"uniqueId":230,"questionId":92,"num":5,"description":"도마"},
-{"uniqueId":231,"questionId":94,"num":1,"description":"모세와 엘리야"},
-{"uniqueId":232,"questionId":94,"num":2,"description":"아브라함과 이삭"},
-{"uniqueId":233,"questionId":94,"num":3,"description":"다윗과 솔로몬"},
-{"uniqueId":234,"questionId":94,"num":4,"description":"이사야와 예레미야"},
-{"uniqueId":235,"questionId":94,"num":5,"description":"여호수아와 갈렙"},
-{"uniqueId":236,"questionId":96,"num":1,"description":"이는 내 사랑하는 아들이요 내 기뻐하는 자니 너희는 그의 말을 들으라"},
-{"uniqueId":237,"questionId":96,"num":2,"description":"두려워하지 말라"},
-{"uniqueId":238,"questionId":96,"num":3,"description":"일어나라 두려워 말라"},
-{"uniqueId":239,"questionId":96,"num":4,"description":"너는 내 아들이라 오늘 내가 너를 낳았도다"},
-{"uniqueId":240,"questionId":96,"num":5,"description":"내가 너와 함께 하리라"},
-{"uniqueId":241,"questionId":98,"num":1,"description":"믿음"},
-{"uniqueId":242,"questionId":98,"num":2,"description":"사랑"},
-{"uniqueId":243,"questionId":98,"num":3,"description":"소망"},
-{"uniqueId":244,"questionId":98,"num":4,"description":"기도"},
-{"uniqueId":245,"questionId":98,"num":5,"description":"능력"},
-{"uniqueId":246,"questionId":100,"num":1,"description":"연자맷돌을 목에 달고 바다에 빠뜨림"},
-{"uniqueId":247,"questionId":100,"num":2,"description":"불못에 던짐"},
-{"uniqueId":248,"questionId":100,"num":3,"description":"바깥 어두운 데 쫓겨남"},
-{"uniqueId":249,"questionId":100,"num":4,"description":"영원한 형벌"},
-{"uniqueId":250,"questionId":100,"num":5,"description":"지옥 불에 던짐"},
-{"uniqueId":251,"questionId":102,"num":1,"description":"너와 그 사람과만 상대하여 권고하라"},
-{"uniqueId":252,"questionId":102,"num":2,"description":"장로에게 알리라"},
-{"uniqueId":253,"questionId":102,"num":3,"description":"용서하라"},
-{"uniqueId":254,"questionId":102,"num":4,"description":"피하라"},
-{"uniqueId":255,"questionId":102,"num":5,"description":"교회에 알리라"},
-{"uniqueId":256,"questionId":104,"num":1,"description":"일곱 번"},
-{"uniqueId":257,"questionId":104,"num":2,"description":"세 번"},
-{"uniqueId":258,"questionId":104,"num":3,"description":"열 번"},
-{"uniqueId":259,"questionId":104,"num":4,"description":"일흔 번"},
-{"uniqueId":260,"questionId":104,"num":5,"description":"다섯 번"},
-{"uniqueId":261,"questionId":106,"num":1,"description":"불쌍히 여겨서"},
-{"uniqueId":262,"questionId":106,"num":2,"description":"종이 갚겠다고 해서"},
-{"uniqueId":263,"questionId":106,"num":3,"description":"다른 종의 부탁으로"},
-{"uniqueId":264,"questionId":106,"num":4,"description":"왕비의 간청으로"},
-{"uniqueId":265,"questionId":106,"num":5,"description":"율법에 따라서"},
-{"uniqueId":266,"questionId":108,"num":1,"description":"영생을 얻으려면 무엇을 해야 하는가"},
-{"uniqueId":267,"questionId":108,"num":2,"description":"천국에 가려면 어떻게 해야 하는가"},
-{"uniqueId":268,"questionId":108,"num":3,"description":"가장 큰 계명이 무엇인가"},
-{"uniqueId":269,"questionId":108,"num":4,"description":"세례를 받아야 하는가"},
-{"uniqueId":270,"questionId":108,"num":5,"description":"율법 중 가장 중요한 것은 무엇인가"},
-{"uniqueId":271,"questionId":110,"num":1,"description":"한 데나리온으로 같음"},
-{"uniqueId":272,"questionId":110,"num":2,"description":"먼저 온 자가 더 많이 받음"},
-{"uniqueId":273,"questionId":110,"num":3,"description":"나중 온 자가 더 많이 받음"},
-{"uniqueId":274,"questionId":110,"num":4,"description":"일한 시간에 비례함"},
-{"uniqueId":275,"questionId":110,"num":5,"description":"아무도 받지 못함"},
-{"uniqueId":276,"questionId":112,"num":1,"description":"아들 둘을 좌우에 앉게 해달라"},
-{"uniqueId":277,"questionId":112,"num":2,"description":"병을 고쳐달라"},
-{"uniqueId":278,"questionId":112,"num":3,"description":"재물을 달라"},
-{"uniqueId":279,"questionId":112,"num":4,"description":"영생을 달라"},
-{"uniqueId":280,"questionId":112,"num":5,"description":"원수를 갚아달라"},
-{"uniqueId":281,"questionId":114,"num":1,"description":"맹인"},
-{"uniqueId":282,"questionId":114,"num":2,"description":"중풍"},
-{"uniqueId":283,"questionId":114,"num":3,"description":"나병"},
-{"uniqueId":284,"questionId":114,"num":4,"description":"귀머거리"},
-{"uniqueId":285,"questionId":114,"num":5,"description":"절름발이"},
-{"uniqueId":286,"questionId":116,"num":1,"description":"호산나 다윗의 자손이여"},
-{"uniqueId":287,"questionId":116,"num":2,"description":"만왕의 왕이시여"},
-{"uniqueId":288,"questionId":116,"num":3,"description":"이스라엘의 왕이시여"},
-{"uniqueId":289,"questionId":116,"num":4,"description":"하나님의 아들이시여"},
-{"uniqueId":290,"questionId":116,"num":5,"description":"메시아시여"},
-{"uniqueId":291,"questionId":118,"num":1,"description":"기도하는 집"},
-{"uniqueId":292,"questionId":118,"num":2,"description":"거룩한 성전"},
-{"uniqueId":293,"questionId":118,"num":3,"description":"하나님의 집"},
-{"uniqueId":294,"questionId":118,"num":4,"description":"예배의 집"},
-{"uniqueId":295,"questionId":118,"num":5,"description":"만민의 집"},
-{"uniqueId":296,"questionId":120,"num":1,"description":"처음에 싫다 하고 나중에 간 아들"},
-{"uniqueId":297,"questionId":120,"num":2,"description":"처음에 가겠다 하고 간 아들"},
-{"uniqueId":298,"questionId":120,"num":3,"description":"처음에 가겠다 하고 안 간 아들"},
-{"uniqueId":299,"questionId":120,"num":4,"description":"둘 다 간 아들"},
-{"uniqueId":300,"questionId":120,"num":5,"description":"둘 다 안 간 아들"},
-{"uniqueId":301,"questionId":122,"num":1,"description":"모퉁이의 머릿돌"},
-{"uniqueId":302,"questionId":122,"num":2,"description":"기초석"},
-{"uniqueId":303,"questionId":122,"num":3,"description":"기둥"},
-{"uniqueId":304,"questionId":122,"num":4,"description":"지붕돌"},
-{"uniqueId":305,"questionId":122,"num":5,"description":"제단"},
-{"uniqueId":306,"questionId":124,"num":1,"description":"가이사의 것은 가이사에게 하나님의 것은 하나님께"},
-{"uniqueId":307,"questionId":124,"num":2,"description":"세금을 내지 말라"},
-{"uniqueId":308,"questionId":124,"num":3,"description":"모든 것을 하나님께 바치라"},
-{"uniqueId":309,"questionId":124,"num":4,"description":"가이사에게만 바치라"},
-{"uniqueId":310,"questionId":124,"num":5,"description":"세금은 자유의지로 내라"},
-{"uniqueId":311,"questionId":126,"num":1,"description":"네 마음을 다하고 목숨을 다하고 뜻을 다하여 주 너의 하나님을 사랑하라"},
-{"uniqueId":312,"questionId":126,"num":2,"description":"안식일을 기억하여 거룩히 지키라"},
-{"uniqueId":313,"questionId":126,"num":3,"description":"네 이웃을 네 자신같이 사랑하라"},
-{"uniqueId":314,"questionId":126,"num":4,"description":"살인하지 말라"},
-{"uniqueId":315,"questionId":126,"num":5,"description":"네 부모를 공경하라"},
-{"uniqueId":316,"questionId":128,"num":1,"description":"회칠한 무덤"},
-{"uniqueId":317,"questionId":128,"num":2,"description":"독사의 자식"},
-{"uniqueId":318,"questionId":128,"num":3,"description":"소경된 인도자"},
-{"uniqueId":319,"questionId":128,"num":4,"description":"가라지"},
-{"uniqueId":320,"questionId":128,"num":5,"description":"이리"},
-{"uniqueId":321,"questionId":130,"num":1,"description":"일곱 번"},
-{"uniqueId":322,"questionId":130,"num":2,"description":"세 번"},
-{"uniqueId":323,"questionId":130,"num":3,"description":"다섯 번"},
-{"uniqueId":324,"questionId":130,"num":4,"description":"열 번"},
-{"uniqueId":325,"questionId":130,"num":5,"description":"여덟 번"},
-{"uniqueId":326,"questionId":132,"num":1,"description":"돌 하나도 돌 위에 남지 않고 무너짐"},
-{"uniqueId":327,"questionId":132,"num":2,"description":"불에 타버림"},
-{"uniqueId":328,"questionId":132,"num":3,"description":"적에게 빼앗김"},
-{"uniqueId":329,"questionId":132,"num":4,"description":"지진으로 무너짐"},
-{"uniqueId":330,"questionId":132,"num":5,"description":"영원히 보존됨"},
-{"uniqueId":331,"questionId":134,"num":1,"description":"번개가 동편에서 서편까지 번쩍임같이"},
-{"uniqueId":332,"questionId":134,"num":2,"description":"도둑같이 밤에"},
-{"uniqueId":333,"questionId":134,"num":3,"description":"구름을 타고 천천히"},
-{"uniqueId":334,"questionId":134,"num":4,"description":"바람같이 조용히"},
-{"uniqueId":335,"questionId":134,"num":5,"description":"지진과 함께"},
-{"uniqueId":336,"questionId":136,"num":1,"description":"홍수가 나기 전까지 알지 못했듯이"},
-{"uniqueId":337,"questionId":136,"num":2,"description":"노아가 방주를 지었듯이"},
-{"uniqueId":338,"questionId":136,"num":3,"description":"비가 40일 내렸듯이"},
-{"uniqueId":339,"questionId":136,"num":4,"description":"동물들이 모였듯이"},
-{"uniqueId":340,"questionId":136,"num":5,"description":"무지개가 나타났듯이"},
-{"uniqueId":341,"questionId":138,"num":1,"description":"기름을 준비했는지 여부"},
-{"uniqueId":342,"questionId":138,"num":2,"description":"등불의 크기"},
-{"uniqueId":343,"questionId":138,"num":3,"description":"도착 시간"},
-{"uniqueId":344,"questionId":138,"num":4,"description":"옷차림"},
-{"uniqueId":345,"questionId":138,"num":5,"description":"예물의 종류"},
-{"uniqueId":346,"questionId":140,"num":1,"description":"각각 그 재능대로"},
-{"uniqueId":347,"questionId":140,"num":2,"description":"똑같이 나눠줌"},
-{"uniqueId":348,"questionId":140,"num":3,"description":"나이순으로"},
-{"uniqueId":349,"questionId":140,"num":4,"description":"제비뽑기로"},
-{"uniqueId":350,"questionId":140,"num":5,"description":"먼저 온 순서대로"},
-{"uniqueId":351,"questionId":142,"num":1,"description":"다섯 달란트"},
-{"uniqueId":352,"questionId":142,"num":2,"description":"세 달란트"},
-{"uniqueId":353,"questionId":142,"num":3,"description":"열 달란트"},
-{"uniqueId":354,"questionId":142,"num":4,"description":"두 달란트"},
-{"uniqueId":355,"questionId":142,"num":5,"description":"일곱 달란트"},
-{"uniqueId":356,"questionId":144,"num":1,"description":"내게"},
-{"uniqueId":357,"questionId":144,"num":2,"description":"하나님께"},
-{"uniqueId":358,"questionId":144,"num":3,"description":"천사에게"},
-{"uniqueId":359,"questionId":144,"num":4,"description":"이웃에게"},
-{"uniqueId":360,"questionId":144,"num":5,"description":"교회에"},
-{"uniqueId":361,"questionId":146,"num":1,"description":"은 삼십"},
-{"uniqueId":362,"questionId":146,"num":2,"description":"은 열"},
-{"uniqueId":363,"questionId":146,"num":3,"description":"은 스물"},
-{"uniqueId":364,"questionId":146,"num":4,"description":"금 열"},
-{"uniqueId":365,"questionId":146,"num":5,"description":"은 오십"},
-{"uniqueId":366,"questionId":148,"num":1,"description":"피"},
-{"uniqueId":367,"questionId":148,"num":2,"description":"몸"},
-{"uniqueId":368,"questionId":148,"num":3,"description":"생명"},
-{"uniqueId":369,"questionId":148,"num":4,"description":"사랑"},
-{"uniqueId":370,"questionId":148,"num":5,"description":"영혼"},
-{"uniqueId":371,"questionId":150,"num":1,"description":"이 잔을 내게서 지나가게 하옵소서 그러나 나의 원대로 마시옵고 아버지의 원대로 하옵소서"},
-{"uniqueId":372,"questionId":150,"num":2,"description":"제자들을 지켜주소서"},
-{"uniqueId":373,"questionId":150,"num":3,"description":"원수를 용서하소서"},
-{"uniqueId":374,"questionId":150,"num":4,"description":"천국이 임하게 하소서"},
-{"uniqueId":375,"questionId":150,"num":5,"description":"이 백성을 구원하소서"},
-{"uniqueId":376,"questionId":152,"num":1,"description":"입맞춤"},
-{"uniqueId":377,"questionId":152,"num":2,"description":"손짓"},
-{"uniqueId":378,"questionId":152,"num":3,"description":"외침"},
-{"uniqueId":379,"questionId":152,"num":4,"description":"횃불"},
-{"uniqueId":380,"questionId":152,"num":5,"description":"옷 색깔"},
-{"uniqueId":381,"questionId":154,"num":1,"description":"칼을 가지는 자는 칼로 망한다"},
-{"uniqueId":382,"questionId":154,"num":2,"description":"하나님이 보호하신다"},
-{"uniqueId":383,"questionId":154,"num":3,"description":"때가 아직 아니다"},
-{"uniqueId":384,"questionId":154,"num":4,"description":"성경이 이루어져야 한다"},
-{"uniqueId":385,"questionId":154,"num":5,"description":"제자들이 다칠 수 있다"},
-{"uniqueId":386,"questionId":156,"num":1,"description":"가야바"},
-{"uniqueId":387,"questionId":156,"num":2,"description":"안나스"},
-{"uniqueId":388,"questionId":156,"num":3,"description":"니고데모"},
-{"uniqueId":389,"questionId":156,"num":4,"description":"가말리엘"},
-{"uniqueId":390,"questionId":156,"num":5,"description":"아리마대 요셉"},
-{"uniqueId":391,"questionId":158,"num":1,"description":"세 번"},
-{"uniqueId":392,"questionId":158,"num":2,"description":"한 번"},
-{"uniqueId":393,"questionId":158,"num":3,"description":"두 번"},
-{"uniqueId":394,"questionId":158,"num":4,"description":"네 번"},
-{"uniqueId":395,"questionId":158,"num":5,"description":"다섯 번"},
-{"uniqueId":396,"questionId":160,"num":1,"description":"스스로 목매어 죽음"},
-{"uniqueId":397,"questionId":160,"num":2,"description":"도망침"},
-{"uniqueId":398,"questionId":160,"num":3,"description":"감옥에 갇힘"},
-{"uniqueId":399,"questionId":160,"num":4,"description":"제자들에게 돌아감"},
-{"uniqueId":400,"questionId":160,"num":5,"description":"광야로 떠남"},
-{"uniqueId":401,"questionId":162,"num":1,"description":"빌라도"},
-{"uniqueId":402,"questionId":162,"num":2,"description":"헤롯"},
-{"uniqueId":403,"questionId":162,"num":3,"description":"가이사"},
-{"uniqueId":404,"questionId":162,"num":4,"description":"아그립바"},
-{"uniqueId":405,"questionId":162,"num":5,"description":"벨릭스"},
-{"uniqueId":406,"questionId":164,"num":1,"description":"그 의인에게 아무 상관도 하지 마라 꿈에 그 사람 때문에 괴로움을 당했다"},
-{"uniqueId":407,"questionId":164,"num":2,"description":"그를 놓아주라"},
-{"uniqueId":408,"questionId":164,"num":3,"description":"그를 처형하라"},
-{"uniqueId":409,"questionId":164,"num":4,"description":"그에게 자비를 베풀라"},
-{"uniqueId":410,"questionId":164,"num":5,"description":"그를 감옥에 가두라"},
-{"uniqueId":411,"questionId":166,"num":1,"description":"홍포"},
-{"uniqueId":412,"questionId":166,"num":2,"description":"흰옷"},
-{"uniqueId":413,"questionId":166,"num":3,"description":"자주색 옷"},
-{"uniqueId":414,"questionId":166,"num":4,"description":"검은 옷"},
-{"uniqueId":415,"questionId":166,"num":5,"description":"삼베옷"},
-{"uniqueId":416,"questionId":168,"num":1,"description":"구레네 시몬"},
-{"uniqueId":417,"questionId":168,"num":2,"description":"바라바"},
-{"uniqueId":418,"questionId":168,"num":3,"description":"아리마대 요셉"},
-{"uniqueId":419,"questionId":168,"num":4,"description":"니고데모"},
-{"uniqueId":420,"questionId":168,"num":5,"description":"베드로"},
-{"uniqueId":421,"questionId":170,"num":1,"description":"해골의 곳"},
-{"uniqueId":422,"questionId":170,"num":2,"description":"기도의 곳"},
-{"uniqueId":423,"questionId":170,"num":3,"description":"심판의 곳"},
-{"uniqueId":424,"questionId":170,"num":4,"description":"슬픔의 곳"},
-{"uniqueId":425,"questionId":170,"num":5,"description":"거룩한 곳"},
-{"uniqueId":426,"questionId":172,"num":1,"description":"두 명"},
-{"uniqueId":427,"questionId":172,"num":2,"description":"한 명"},
-{"uniqueId":428,"questionId":172,"num":3,"description":"세 명"},
-{"uniqueId":429,"questionId":172,"num":4,"description":"네 명"},
-{"uniqueId":430,"questionId":172,"num":5,"description":"없음"},
-{"uniqueId":431,"questionId":174,"num":1,"description":"휘장이 위에서 아래로 찢어짐"},
-{"uniqueId":432,"questionId":174,"num":2,"description":"지진이 남"},
-{"uniqueId":433,"questionId":174,"num":3,"description":"해가 어두워짐"},
-{"uniqueId":434,"questionId":174,"num":4,"description":"바위가 터짐"},
-{"uniqueId":435,"questionId":174,"num":5,"description":"천둥이 침"},
-{"uniqueId":436,"questionId":176,"num":1,"description":"아리마대 요셉"},
-{"uniqueId":437,"questionId":176,"num":2,"description":"니고데모"},
-{"uniqueId":438,"questionId":176,"num":3,"description":"베드로"},
-{"uniqueId":439,"questionId":176,"num":4,"description":"요한"},
-{"uniqueId":440,"questionId":176,"num":5,"description":"막달라 마리아"},
-{"uniqueId":441,"questionId":178,"num":1,"description":"제자들이 시체를 훔쳐가서 부활했다고 할까 봐"},
-{"uniqueId":442,"questionId":178,"num":2,"description":"무덤을 도굴할까 봐"},
-{"uniqueId":443,"questionId":178,"num":3,"description":"군중이 몰려올까 봐"},
-{"uniqueId":444,"questionId":178,"num":4,"description":"다른 죄수를 묻을까 봐"},
-{"uniqueId":445,"questionId":178,"num":5,"description":"예수의 가족이 올까 봐"},
-{"uniqueId":446,"questionId":180,"num":1,"description":"그가 여기 계시지 않고 살아나셨다"},
-{"uniqueId":447,"questionId":180,"num":2,"description":"두려워하지 말라"},
-{"uniqueId":448,"questionId":180,"num":3,"description":"갈릴리로 가라"},
-{"uniqueId":449,"questionId":180,"num":4,"description":"제자들에게 알리라"},
-{"uniqueId":450,"questionId":180,"num":5,"description":"기다리라"},
-{"uniqueId":451,"questionId":182,"num":1,"description":"제자들이 밤에 와서 시체를 훔쳐갔다고 말하라"},
-{"uniqueId":452,"questionId":182,"num":2,"description":"아무에게도 말하지 말라"},
-{"uniqueId":453,"questionId":182,"num":3,"description":"도망가라"},
-{"uniqueId":454,"questionId":182,"num":4,"description":"빌라도에게 보고하라"},
-{"uniqueId":455,"questionId":182,"num":5,"description":"무덤을 다시 봉인하라"},
-{"uniqueId":456,"questionId":184,"num":1,"description":"모든 민족을 제자로 삼으라"},
-{"uniqueId":457,"questionId":184,"num":2,"description":"예루살렘을 떠나지 말라"},
-{"uniqueId":458,"questionId":184,"num":3,"description":"성전을 재건하라"},
-{"uniqueId":459,"questionId":184,"num":4,"description":"율법을 가르치라"},
-{"uniqueId":460,"questionId":184,"num":5,"description":"이스라엘만 전도하라"},
-{"uniqueId":461,"questionId":186,"num":1,"description":"예수님"},
-{"uniqueId":462,"questionId":186,"num":2,"description":"하나님 아버지"},
-{"uniqueId":463,"questionId":186,"num":3,"description":"성령"},
-{"uniqueId":464,"questionId":186,"num":4,"description":"천사"},
-{"uniqueId":465,"questionId":186,"num":5,"description":"모세"},
-{"uniqueId":466,"questionId":188,"num":1,"description":"독사의 자식"},
-{"uniqueId":467,"questionId":188,"num":2,"description":"외식하는 자"},
-{"uniqueId":468,"questionId":188,"num":3,"description":"소경된 인도자"},
-{"uniqueId":469,"questionId":188,"num":4,"description":"회칠한 무덤"},
-{"uniqueId":470,"questionId":188,"num":5,"description":"가라지"},
-{"uniqueId":471,"questionId":190,"num":1,"description":"머리에 기름을 바르고 얼굴을 씻으라"},
-{"uniqueId":472,"questionId":190,"num":2,"description":"슬픈 기색을 보이라"},
-{"uniqueId":473,"questionId":190,"num":3,"description":"베옷을 입으라"},
-{"uniqueId":474,"questionId":190,"num":4,"description":"재를 뒤집어쓰라"},
-{"uniqueId":475,"questionId":190,"num":5,"description":"성전에서 기도하라"},
-{"uniqueId":476,"questionId":192,"num":1,"description":"솔로몬"},
-{"uniqueId":477,"questionId":192,"num":2,"description":"다윗"},
-{"uniqueId":478,"questionId":192,"num":3,"description":"모세"},
-{"uniqueId":479,"questionId":192,"num":4,"description":"아브라함"},
-{"uniqueId":480,"questionId":192,"num":5,"description":"엘리야"},
-{"uniqueId":481,"questionId":194,"num":1,"description":"돼지"},
-{"uniqueId":482,"questionId":194,"num":2,"description":"개"},
-{"uniqueId":483,"questionId":194,"num":3,"description":"양"},
-{"uniqueId":484,"questionId":194,"num":4,"description":"소"},
-{"uniqueId":485,"questionId":194,"num":5,"description":"새"},
-{"uniqueId":486,"questionId":196,"num":1,"description":"열두 명"},
-{"uniqueId":487,"questionId":196,"num":2,"description":"일곱 명"},
-{"uniqueId":488,"questionId":196,"num":3,"description":"일흔 명"},
-{"uniqueId":489,"questionId":196,"num":4,"description":"세 명"},
-{"uniqueId":490,"questionId":196,"num":5,"description":"스물네 명"},
-{"uniqueId":491,"questionId":198,"num":1,"description":"보화"},
-{"uniqueId":492,"questionId":198,"num":2,"description":"씨앗"},
-{"uniqueId":493,"questionId":198,"num":3,"description":"진주"},
-{"uniqueId":494,"questionId":198,"num":4,"description":"포도나무"},
-{"uniqueId":495,"questionId":198,"num":5,"description":"겨자씨"},
-{"uniqueId":496,"questionId":200,"num":1,"description":"권세"},
-{"uniqueId":497,"questionId":200,"num":2,"description":"영광"},
-{"uniqueId":498,"questionId":200,"num":3,"description":"지혜"},
-{"uniqueId":499,"questionId":200,"num":4,"description":"사랑"},
-{"uniqueId":500,"questionId":200,"num":5,"description":"능력"}
+  {
+    "uniqueId": 1,
+    "questionId": 1,
+    "num": 1,
+    "description": "주후 30~40년경"
+  },
+  {
+    "uniqueId": 2,
+    "questionId": 1,
+    "num": 2,
+    "description": "주후 60~70년경"
+  },
+  {
+    "uniqueId": 3,
+    "questionId": 1,
+    "num": 3,
+    "description": "주후 80~90년경"
+  },
+  {
+    "uniqueId": 4,
+    "questionId": 1,
+    "num": 4,
+    "description": "주후 100년 이후"
+  },
+  {
+    "uniqueId": 5,
+    "questionId": 2,
+    "num": 1,
+    "description": "\"때가 찼으니\""
+  },
+  {
+    "uniqueId": 6,
+    "questionId": 2,
+    "num": 2,
+    "description": "\"이는 선지자로 하신 말씀을 이루려 하심이라\""
+  },
+  {
+    "uniqueId": 7,
+    "questionId": 2,
+    "num": 3,
+    "description": "\"회개하라 천국이 가까이 왔느니라\""
+  },
+  {
+    "uniqueId": 8,
+    "questionId": 2,
+    "num": 4,
+    "description": "\"보라 내가 속히 오리라\""
+  },
+  {
+    "uniqueId": 9,
+    "questionId": 3,
+    "num": 1,
+    "description": "헬라인 대상, 철학 중심 복음서"
+  },
+  {
+    "uniqueId": 10,
+    "questionId": 3,
+    "num": 2,
+    "description": "로마인 대상, 능력 중심 복음서"
+  },
+  {
+    "uniqueId": 11,
+    "questionId": 3,
+    "num": 3,
+    "description": "유대인 대상, 구약 성취와 왕이신 메시아 강조"
+  },
+  {
+    "uniqueId": 12,
+    "questionId": 3,
+    "num": 4,
+    "description": "탄생 없이 공생애만 기록"
+  },
+  {
+    "uniqueId": 13,
+    "questionId": 4,
+    "num": 1,
+    "description": "철학적 교훈"
+  },
+  {
+    "uniqueId": 14,
+    "questionId": 4,
+    "num": 2,
+    "description": "역사 기록"
+  },
+  {
+    "uniqueId": 15,
+    "questionId": 4,
+    "num": 3,
+    "description": "예수님이 구약이 예언한 메시아이심"
+  },
+  {
+    "uniqueId": 16,
+    "questionId": 6,
+    "num": 1,
+    "description": "로마인"
+  },
+  {
+    "uniqueId": 17,
+    "questionId": 6,
+    "num": 2,
+    "description": "헬라인(그리스인)"
+  },
+  {
+    "uniqueId": 18,
+    "questionId": 6,
+    "num": 3,
+    "description": "사마리아인"
+  },
+  {
+    "uniqueId": 19,
+    "questionId": 6,
+    "num": 4,
+    "description": "유대인"
+  },
+  {
+    "uniqueId": 20,
+    "questionId": 7,
+    "num": 1,
+    "description": "위대한 왕"
+  },
+  {
+    "uniqueId": 21,
+    "questionId": 7,
+    "num": 2,
+    "description": "자기 백성을 죄에서 구원할 자"
+  },
+  {
+    "uniqueId": 22,
+    "questionId": 7,
+    "num": 3,
+    "description": "평화의 왕자"
+  },
+  {
+    "uniqueId": 23,
+    "questionId": 10,
+    "num": 1,
+    "description": "임마누엘"
+  },
+  {
+    "uniqueId": 24,
+    "questionId": 10,
+    "num": 2,
+    "description": "예수"
+  },
+  {
+    "uniqueId": 25,
+    "questionId": 10,
+    "num": 3,
+    "description": "엘리야"
+  },
+  {
+    "uniqueId": 26,
+    "questionId": 11,
+    "num": 1,
+    "description": "아담과 노아"
+  },
+  {
+    "uniqueId": 27,
+    "questionId": 11,
+    "num": 2,
+    "description": "아브라함과 다윗"
+  },
+  {
+    "uniqueId": 28,
+    "questionId": 11,
+    "num": 3,
+    "description": "모세와 여호수아"
+  },
+  {
+    "uniqueId": 29,
+    "questionId": 12,
+    "num": 1,
+    "description": "요셉의 씨로"
+  },
+  {
+    "uniqueId": 30,
+    "questionId": 12,
+    "num": 2,
+    "description": "성령(Holy Spirit)으로"
+  },
+  {
+    "uniqueId": 31,
+    "questionId": 12,
+    "num": 3,
+    "description": "천사의 축복으로"
+  },
+  {
+    "uniqueId": 32,
+    "questionId": 13,
+    "num": 1,
+    "description": "요셉"
+  },
+  {
+    "uniqueId": 33,
+    "questionId": 13,
+    "num": 2,
+    "description": "천사"
+  },
+  {
+    "uniqueId": 34,
+    "questionId": 13,
+    "num": 3,
+    "description": "성령"
+  },
+  {
+    "uniqueId": 35,
+    "questionId": 16,
+    "num": 1,
+    "description": "기뻐하며 경배하려 함"
+  },
+  {
+    "uniqueId": 36,
+    "questionId": 16,
+    "num": 2,
+    "description": "무관심함"
+  },
+  {
+    "uniqueId": 37,
+    "questionId": 16,
+    "num": 3,
+    "description": "두려워하며 죽이려 함"
+  },
+  {
+    "uniqueId": 38,
+    "questionId": 17,
+    "num": 1,
+    "description": "베들레헴"
+  },
+  {
+    "uniqueId": 39,
+    "questionId": 17,
+    "num": 2,
+    "description": "예루살렘"
+  },
+  {
+    "uniqueId": 40,
+    "questionId": 17,
+    "num": 3,
+    "description": "나사렛"
+  },
+  {
+    "uniqueId": 41,
+    "questionId": 19,
+    "num": 1,
+    "description": "별을 보고 예수님의 탄생을 알았다"
+  },
+  {
+    "uniqueId": 42,
+    "questionId": 19,
+    "num": 2,
+    "description": "목자들과 함께 베들레헴 들판에서 경배하였다"
+  },
+  {
+    "uniqueId": 43,
+    "questionId": 19,
+    "num": 3,
+    "description": "황금, 유향, 몰약을 예물로 드렸다"
+  },
+  {
+    "uniqueId": 44,
+    "questionId": 20,
+    "num": 1,
+    "description": "헤롯 왕"
+  },
+  {
+    "uniqueId": 45,
+    "questionId": 20,
+    "num": 2,
+    "description": "세례 요한"
+  },
+  {
+    "uniqueId": 46,
+    "questionId": 20,
+    "num": 3,
+    "description": "유대인의 왕으로 나신 예수님"
+  },
+  {
+    "uniqueId": 47,
+    "questionId": 21,
+    "num": 1,
+    "description": "천사"
+  },
+  {
+    "uniqueId": 48,
+    "questionId": 21,
+    "num": 2,
+    "description": "꿈"
+  },
+  {
+    "uniqueId": 49,
+    "questionId": 21,
+    "num": 3,
+    "description": "별"
+  },
+  {
+    "uniqueId": 50,
+    "questionId": 22,
+    "num": 1,
+    "description": "갈릴리"
+  },
+  {
+    "uniqueId": 51,
+    "questionId": 22,
+    "num": 2,
+    "description": "이집트(애굽)"
+  },
+  {
+    "uniqueId": 52,
+    "questionId": 22,
+    "num": 3,
+    "description": "사마리아"
+  },
+  {
+    "uniqueId": 53,
+    "questionId": 23,
+    "num": 1,
+    "description": "갈릴리 호수"
+  },
+  {
+    "uniqueId": 54,
+    "questionId": 23,
+    "num": 2,
+    "description": "예루살렘 성전"
+  },
+  {
+    "uniqueId": 55,
+    "questionId": 23,
+    "num": 3,
+    "description": "유대 광야"
+  },
+  {
+    "uniqueId": 56,
+    "questionId": 24,
+    "num": 1,
+    "description": "사랑하라 하나님이 가까이 왔다"
+  },
+  {
+    "uniqueId": 57,
+    "questionId": 24,
+    "num": 2,
+    "description": "회개하라 천국이 가까이 왔느니라"
+  },
+  {
+    "uniqueId": 58,
+    "questionId": 24,
+    "num": 3,
+    "description": "율법을 지키라"
+  },
+  {
+    "uniqueId": 59,
+    "questionId": 25,
+    "num": 1,
+    "description": "주"
+  },
+  {
+    "uniqueId": 60,
+    "questionId": 25,
+    "num": 2,
+    "description": "모세"
+  },
+  {
+    "uniqueId": 61,
+    "questionId": 25,
+    "num": 3,
+    "description": "다윗"
+  },
+  {
+    "uniqueId": 62,
+    "questionId": 26,
+    "num": 1,
+    "description": "양털 옷"
+  },
+  {
+    "uniqueId": 63,
+    "questionId": 26,
+    "num": 2,
+    "description": "낙타털 옷"
+  },
+  {
+    "uniqueId": 64,
+    "questionId": 26,
+    "num": 3,
+    "description": "비단 옷"
+  },
+  {
+    "uniqueId": 65,
+    "questionId": 27,
+    "num": 1,
+    "description": "떡과 포도주"
+  },
+  {
+    "uniqueId": 66,
+    "questionId": 27,
+    "num": 2,
+    "description": "메뚜기와 석청"
+  },
+  {
+    "uniqueId": 67,
+    "questionId": 27,
+    "num": 3,
+    "description": "물고기와 떡"
+  },
+  {
+    "uniqueId": 68,
+    "questionId": 28,
+    "num": 1,
+    "description": "사랑의 열매"
+  },
+  {
+    "uniqueId": 69,
+    "questionId": 28,
+    "num": 2,
+    "description": "믿음의 열매"
+  },
+  {
+    "uniqueId": 70,
+    "questionId": 28,
+    "num": 3,
+    "description": "회개에 합당한 열매"
+  },
+  {
+    "uniqueId": 71,
+    "questionId": 29,
+    "num": 1,
+    "description": "천사"
+  },
+  {
+    "uniqueId": 72,
+    "questionId": 29,
+    "num": 2,
+    "description": "성령"
+  },
+  {
+    "uniqueId": 73,
+    "questionId": 29,
+    "num": 3,
+    "description": "구름"
+  },
+  {
+    "uniqueId": 74,
+    "questionId": 30,
+    "num": 1,
+    "description": "이는 내 사랑하는 아들이요 내 기뻐하는 자라"
+  },
+  {
+    "uniqueId": 75,
+    "questionId": 30,
+    "num": 2,
+    "description": "이는 내 종이요 택한 자라"
+  },
+  {
+    "uniqueId": 76,
+    "questionId": 30,
+    "num": 3,
+    "description": "이는 내 왕이요 거룩한 자라"
+  },
+  {
+    "uniqueId": 77,
+    "questionId": 31,
+    "num": 1,
+    "description": "예수님의 족보 - 1장"
+  },
+  {
+    "uniqueId": 78,
+    "questionId": 31,
+    "num": 2,
+    "description": "세례 요한의 사역 - 2장"
+  },
+  {
+    "uniqueId": 79,
+    "questionId": 31,
+    "num": 3,
+    "description": "산상수훈 - 5~7장"
+  },
+  {
+    "uniqueId": 80,
+    "questionId": 31,
+    "num": 4,
+    "description": "예수님의 시험 - 4장"
+  },
+  {
+    "uniqueId": 81,
+    "questionId": 32,
+    "num": 1,
+    "description": "성전"
+  },
+  {
+    "uniqueId": 82,
+    "questionId": 32,
+    "num": 2,
+    "description": "광야"
+  },
+  {
+    "uniqueId": 83,
+    "questionId": 32,
+    "num": 3,
+    "description": "갈릴리"
+  },
+  {
+    "uniqueId": 84,
+    "questionId": 33,
+    "num": 1,
+    "description": "30일"
+  },
+  {
+    "uniqueId": 85,
+    "questionId": 33,
+    "num": 2,
+    "description": "40일"
+  },
+  {
+    "uniqueId": 86,
+    "questionId": 33,
+    "num": 3,
+    "description": "7일"
+  },
+  {
+    "uniqueId": 87,
+    "questionId": 34,
+    "num": 1,
+    "description": "돌을 떡으로 만들라"
+  },
+  {
+    "uniqueId": 88,
+    "questionId": 34,
+    "num": 2,
+    "description": "성전에서 뛰어내리라"
+  },
+  {
+    "uniqueId": 89,
+    "questionId": 34,
+    "num": 3,
+    "description": "천사를 부르라"
+  },
+  {
+    "uniqueId": 90,
+    "questionId": 35,
+    "num": 1,
+    "description": "높은 산"
+  },
+  {
+    "uniqueId": 91,
+    "questionId": 35,
+    "num": 2,
+    "description": "거룩한 성"
+  },
+  {
+    "uniqueId": 92,
+    "questionId": 35,
+    "num": 3,
+    "description": "광야"
+  },
+  {
+    "uniqueId": 93,
+    "questionId": 36,
+    "num": 1,
+    "description": "높은 산"
+  },
+  {
+    "uniqueId": 94,
+    "questionId": 36,
+    "num": 2,
+    "description": "성전"
+  },
+  {
+    "uniqueId": 95,
+    "questionId": 36,
+    "num": 3,
+    "description": "갈릴리"
+  },
+  {
+    "uniqueId": 96,
+    "questionId": 37,
+    "num": 1,
+    "description": "베드로와 안드레"
+  },
+  {
+    "uniqueId": 97,
+    "questionId": 37,
+    "num": 2,
+    "description": "야고보와 요한"
+  },
+  {
+    "uniqueId": 98,
+    "questionId": 37,
+    "num": 3,
+    "description": "빌립과 바돌로매"
+  },
+  {
+    "uniqueId": 99,
+    "questionId": 38,
+    "num": 1,
+    "description": "사랑하라 하나님 나라가 가까이 왔느니라"
+  },
+  {
+    "uniqueId": 100,
+    "questionId": 38,
+    "num": 2,
+    "description": "회개하라 천국이 가까이 왔느니라"
+  },
+  {
+    "uniqueId": 101,
+    "questionId": 38,
+    "num": 3,
+    "description": "믿으라 구원이 가까이 왔느니라"
+  },
+  {
+    "uniqueId": 102,
+    "questionId": 39,
+    "num": 1,
+    "description": "광야"
+  },
+  {
+    "uniqueId": 103,
+    "questionId": 39,
+    "num": 2,
+    "description": "갈릴리"
+  },
+  {
+    "uniqueId": 104,
+    "questionId": 39,
+    "num": 3,
+    "description": "성전"
+  },
+  {
+    "uniqueId": 105,
+    "questionId": 40,
+    "num": 1,
+    "description": "뛰어내리라"
+  },
+  {
+    "uniqueId": 106,
+    "questionId": 40,
+    "num": 2,
+    "description": "절하라"
+  },
+  {
+    "uniqueId": 107,
+    "questionId": 40,
+    "num": 3,
+    "description": "돌을 떡으로 만들라"
+  },
+  {
+    "uniqueId": 108,
+    "questionId": 42,
+    "num": 1,
+    "description": "땅을 기업으로 받는다"
+  },
+  {
+    "uniqueId": 109,
+    "questionId": 42,
+    "num": 2,
+    "description": "천국이 그들의 것임이요"
+  },
+  {
+    "uniqueId": 110,
+    "questionId": 42,
+    "num": 3,
+    "description": "하나님을 본다"
+  },
+  {
+    "uniqueId": 111,
+    "questionId": 43,
+    "num": 1,
+    "description": "천국이 그들의 것임이요"
+  },
+  {
+    "uniqueId": 112,
+    "questionId": 43,
+    "num": 2,
+    "description": "위로를 받는다"
+  },
+  {
+    "uniqueId": 113,
+    "questionId": 43,
+    "num": 3,
+    "description": "땅을 기업으로 받는다"
+  },
+  {
+    "uniqueId": 114,
+    "questionId": 44,
+    "num": 1,
+    "description": "위로를 받는다"
+  },
+  {
+    "uniqueId": 115,
+    "questionId": 44,
+    "num": 2,
+    "description": "배부를 것이다"
+  },
+  {
+    "uniqueId": 116,
+    "questionId": 44,
+    "num": 3,
+    "description": "천국에 들어간다"
+  },
+  {
+    "uniqueId": 117,
+    "questionId": 45,
+    "num": 1,
+    "description": "천사"
+  },
+  {
+    "uniqueId": 118,
+    "questionId": 45,
+    "num": 2,
+    "description": "하나님"
+  },
+  {
+    "uniqueId": 119,
+    "questionId": 45,
+    "num": 3,
+    "description": "빛"
+  },
+  {
+    "uniqueId": 120,
+    "questionId": 46,
+    "num": 1,
+    "description": "의인의 자녀"
+  },
+  {
+    "uniqueId": 121,
+    "questionId": 46,
+    "num": 2,
+    "description": "하나님의 아들"
+  },
+  {
+    "uniqueId": 122,
+    "questionId": 46,
+    "num": 3,
+    "description": "천국의 백성"
+  },
+  {
+    "uniqueId": 123,
+    "questionId": 47,
+    "num": 1,
+    "description": "빛과 소금"
+  },
+  {
+    "uniqueId": 124,
+    "questionId": 47,
+    "num": 2,
+    "description": "양과 목자"
+  },
+  {
+    "uniqueId": 125,
+    "questionId": 47,
+    "num": 3,
+    "description": "씨와 밭"
+  },
+  {
+    "uniqueId": 126,
+    "questionId": 48,
+    "num": 1,
+    "description": "폐하러 오셨다"
+  },
+  {
+    "uniqueId": 127,
+    "questionId": 48,
+    "num": 2,
+    "description": "완전하게 하러 오셨다"
+  },
+  {
+    "uniqueId": 128,
+    "questionId": 48,
+    "num": 3,
+    "description": "새롭게 만들기 위해 오셨다"
+  },
+  {
+    "uniqueId": 129,
+    "questionId": 49,
+    "num": 1,
+    "description": "죄가 아니다"
+  },
+  {
+    "uniqueId": 130,
+    "questionId": 49,
+    "num": 2,
+    "description": "살인과 같다"
+  },
+  {
+    "uniqueId": 131,
+    "questionId": 49,
+    "num": 3,
+    "description": "작은 실수다"
+  },
+  {
+    "uniqueId": 132,
+    "questionId": 50,
+    "num": 1,
+    "description": "5장"
+  },
+  {
+    "uniqueId": 133,
+    "questionId": 50,
+    "num": 2,
+    "description": "6장"
+  },
+  {
+    "uniqueId": 134,
+    "questionId": 50,
+    "num": 3,
+    "description": "7장"
+  },
+  {
+    "uniqueId": 135,
+    "questionId": 52,
+    "num": 1,
+    "description": "완전함을 강조"
+  },
+  {
+    "uniqueId": 136,
+    "questionId": 52,
+    "num": 2,
+    "description": "새로운 시작을 의미"
+  },
+  {
+    "uniqueId": 137,
+    "questionId": 52,
+    "num": 3,
+    "description": "율법의 완성을 나타내기 위해"
+  },
+  {
+    "uniqueId": 138,
+    "questionId": 53,
+    "num": 1,
+    "description": "무리들"
+  },
+  {
+    "uniqueId": 139,
+    "questionId": 53,
+    "num": 2,
+    "description": "제자들"
+  },
+  {
+    "uniqueId": 140,
+    "questionId": 53,
+    "num": 3,
+    "description": "바리새인"
+  },
+  {
+    "uniqueId": 141,
+    "questionId": 54,
+    "num": 1,
+    "description": "전혀 듣지 못했다"
+  },
+  {
+    "uniqueId": 142,
+    "questionId": 54,
+    "num": 2,
+    "description": "직접 가르침을 받았다"
+  },
+  {
+    "uniqueId": 143,
+    "questionId": 54,
+    "num": 3,
+    "description": "간접적으로 듣는 청중이었다"
+  },
+  {
+    "uniqueId": 144,
+    "questionId": 55,
+    "num": 1,
+    "description": "물질적으로 가난한 사람"
+  },
+  {
+    "uniqueId": 145,
+    "questionId": 55,
+    "num": 2,
+    "description": "지식이 부족한 사람"
+  },
+  {
+    "uniqueId": 146,
+    "questionId": 55,
+    "num": 3,
+    "description": "하나님 앞에서 자신의 무능력을 인정하는 사람"
+  },
+  {
+    "uniqueId": 147,
+    "questionId": 56,
+    "num": 1,
+    "description": "자신의 죄를 인정한다"
+  },
+  {
+    "uniqueId": 148,
+    "questionId": 56,
+    "num": 2,
+    "description": "하나님을 의지한다"
+  },
+  {
+    "uniqueId": 149,
+    "questionId": 56,
+    "num": 3,
+    "description": "자신의 의를 자랑한다"
+  },
+  {
+    "uniqueId": 150,
+    "questionId": 57,
+    "num": 1,
+    "description": "자신의 것을 채우려 한다"
+  },
+  {
+    "uniqueId": 151,
+    "questionId": 57,
+    "num": 2,
+    "description": "자신을 비우고 하나님으로 채운다"
+  },
+  {
+    "uniqueId": 152,
+    "questionId": 57,
+    "num": 3,
+    "description": "세상 성공을 최우선으로 한다"
+  },
+  {
+    "uniqueId": 153,
+    "questionId": 58,
+    "num": 1,
+    "description": "죽은 후에만 가는 장소"
+  },
+  {
+    "uniqueId": 154,
+    "questionId": 58,
+    "num": 2,
+    "description": "하나님의 다스림을 받는 삶"
+  },
+  {
+    "uniqueId": 155,
+    "questionId": 58,
+    "num": 3,
+    "description": "물질적 축복을 의미함"
+  },
+  {
+    "uniqueId": 156,
+    "questionId": 59,
+    "num": 1,
+    "description": "미워하라"
+  },
+  {
+    "uniqueId": 157,
+    "questionId": 59,
+    "num": 2,
+    "description": "무시하라"
+  },
+  {
+    "uniqueId": 158,
+    "questionId": 59,
+    "num": 3,
+    "description": "사랑하라"
+  },
+  {
+    "uniqueId": 159,
+    "questionId": 60,
+    "num": 1,
+    "description": "조용히 기도하는 것"
+  },
+  {
+    "uniqueId": 160,
+    "questionId": 60,
+    "num": 2,
+    "description": "외식하는 자처럼 보이려고 기도하는 것"
+  },
+  {
+    "uniqueId": 161,
+    "questionId": 60,
+    "num": 3,
+    "description": "짧게 기도하는 것"
+  },
+  {
+    "uniqueId": 162,
+    "questionId": 61,
+    "num": 1,
+    "description": "마음"
+  },
+  {
+    "uniqueId": 163,
+    "questionId": 61,
+    "num": 2,
+    "description": "몸"
+  },
+  {
+    "uniqueId": 164,
+    "questionId": 61,
+    "num": 3,
+    "description": "영혼"
+  },
+  {
+    "uniqueId": 165,
+    "questionId": 62,
+    "num": 1,
+    "description": "내일 일"
+  },
+  {
+    "uniqueId": 166,
+    "questionId": 62,
+    "num": 2,
+    "description": "과거 일"
+  },
+  {
+    "uniqueId": 167,
+    "questionId": 62,
+    "num": 3,
+    "description": "친구 관계"
+  },
+  {
+    "uniqueId": 168,
+    "questionId": 63,
+    "num": 1,
+    "description": "열심히 일하라"
+  },
+  {
+    "uniqueId": 169,
+    "questionId": 63,
+    "num": 2,
+    "description": "염려하지 말라"
+  },
+  {
+    "uniqueId": 170,
+    "questionId": 63,
+    "num": 3,
+    "description": "재물을 모으라"
+  },
+  {
+    "uniqueId": 171,
+    "questionId": 64,
+    "num": 1,
+    "description": "건강과 물질"
+  },
+  {
+    "uniqueId": 172,
+    "questionId": 64,
+    "num": 2,
+    "description": "사람의 인정"
+  },
+  {
+    "uniqueId": 173,
+    "questionId": 64,
+    "num": 3,
+    "description": "하나님의 나라와 의"
+  },
+  {
+    "uniqueId": 174,
+    "questionId": 65,
+    "num": 1,
+    "description": "사람에게 보이려고 하라"
+  },
+  {
+    "uniqueId": 175,
+    "questionId": 65,
+    "num": 2,
+    "description": "은밀하게 하라"
+  },
+  {
+    "uniqueId": 176,
+    "questionId": 65,
+    "num": 3,
+    "description": "크게 자랑하라"
+  },
+  {
+    "uniqueId": 177,
+    "questionId": 66,
+    "num": 1,
+    "description": "다윗의 기도"
+  },
+  {
+    "uniqueId": 178,
+    "questionId": 66,
+    "num": 2,
+    "description": "주기도문"
+  },
+  {
+    "uniqueId": 179,
+    "questionId": 66,
+    "num": 3,
+    "description": "감사 기도"
+  },
+  {
+    "uniqueId": 180,
+    "questionId": 67,
+    "num": 1,
+    "description": "땅에"
+  },
+  {
+    "uniqueId": 181,
+    "questionId": 67,
+    "num": 2,
+    "description": "은행에"
+  },
+  {
+    "uniqueId": 182,
+    "questionId": 67,
+    "num": 3,
+    "description": "하늘에"
+  },
+  {
+    "uniqueId": 183,
+    "questionId": 68,
+    "num": 1,
+    "description": "하나님과 사람"
+  },
+  {
+    "uniqueId": 184,
+    "questionId": 68,
+    "num": 2,
+    "description": "하나님과 재물"
+  },
+  {
+    "uniqueId": 185,
+    "questionId": 68,
+    "num": 3,
+    "description": "하나님과 천사"
+  },
+  {
+    "uniqueId": 186,
+    "questionId": 69,
+    "num": 1,
+    "description": "찾기 쉬워서"
+  },
+  {
+    "uniqueId": 187,
+    "questionId": 69,
+    "num": 2,
+    "description": "사람이 많아서"
+  },
+  {
+    "uniqueId": 188,
+    "questionId": 69,
+    "num": 3,
+    "description": "생명으로 인도하기 때문"
+  },
+  {
+    "uniqueId": 189,
+    "questionId": 70,
+    "num": 1,
+    "description": "듣기만 하는 자"
+  },
+  {
+    "uniqueId": 190,
+    "questionId": 70,
+    "num": 2,
+    "description": "말씀을 듣고 행하는 자"
+  },
+  {
+    "uniqueId": 191,
+    "questionId": 70,
+    "num": 3,
+    "description": "부자"
+  },
+  {
+    "uniqueId": 192,
+    "questionId": 71,
+    "num": 1,
+    "description": "형제의 티"
+  },
+  {
+    "uniqueId": 193,
+    "questionId": 71,
+    "num": 2,
+    "description": "자신의 들보"
+  },
+  {
+    "uniqueId": 194,
+    "questionId": 71,
+    "num": 3,
+    "description": "세상의 죄"
+  },
+  {
+    "uniqueId": 195,
+    "questionId": 72,
+    "num": 1,
+    "description": "아무 일도 없다"
+  },
+  {
+    "uniqueId": 196,
+    "questionId": 72,
+    "num": 2,
+    "description": "반드시 이루어진다"
+  },
+  {
+    "uniqueId": 197,
+    "questionId": 72,
+    "num": 3,
+    "description": "노력해야 된다"
+  },
+  {
+    "uniqueId": 198,
+    "questionId": 73,
+    "num": 1,
+    "description": "무시하라"
+  },
+  {
+    "uniqueId": 199,
+    "questionId": 73,
+    "num": 2,
+    "description": "똑같이 갚아라"
+  },
+  {
+    "uniqueId": 200,
+    "questionId": 73,
+    "num": 3,
+    "description": "먼저 대접하라"
+  },
+  {
+    "uniqueId": 201,
+    "questionId": 74,
+    "num": 1,
+    "description": "찾기 쉽기 때문이다"
+  },
+  {
+    "uniqueId": 202,
+    "questionId": 74,
+    "num": 2,
+    "description": "생명으로 인도하기 때문이다"
+  },
+  {
+    "uniqueId": 203,
+    "questionId": 74,
+    "num": 3,
+    "description": "사람들이 많기 때문이다"
+  },
+  {
+    "uniqueId": 204,
+    "questionId": 75,
+    "num": 1,
+    "description": "말로"
+  },
+  {
+    "uniqueId": 205,
+    "questionId": 75,
+    "num": 2,
+    "description": "열매로"
+  },
+  {
+    "uniqueId": 206,
+    "questionId": 75,
+    "num": 3,
+    "description": "외모로"
+  },
+  {
+    "uniqueId": 207,
+    "questionId": 76,
+    "num": 1,
+    "description": "열심"
+  },
+  {
+    "uniqueId": 208,
+    "questionId": 76,
+    "num": 2,
+    "description": "기도"
+  },
+  {
+    "uniqueId": 209,
+    "questionId": 76,
+    "num": 3,
+    "description": "하나님의 뜻대로 행함"
+  },
+  {
+    "uniqueId": 210,
+    "questionId": 77,
+    "num": 1,
+    "description": "집이 견고하다"
+  },
+  {
+    "uniqueId": 211,
+    "questionId": 77,
+    "num": 2,
+    "description": "무너지지 않는다"
+  },
+  {
+    "uniqueId": 212,
+    "questionId": 77,
+    "num": 3,
+    "description": "크게 무너진다"
+  },
+  {
+    "uniqueId": 213,
+    "questionId": 78,
+    "num": 1,
+    "description": "비유가 많아서"
+  },
+  {
+    "uniqueId": 214,
+    "questionId": 78,
+    "num": 2,
+    "description": "권위 있는 자와 같아서"
+  },
+  {
+    "uniqueId": 215,
+    "questionId": 78,
+    "num": 3,
+    "description": "재미있어서"
+  },
+  {
+    "uniqueId": 216,
+    "questionId": 79,
+    "num": 1,
+    "description": "율법을 모르기 때문"
+  },
+  {
+    "uniqueId": 217,
+    "questionId": 79,
+    "num": 2,
+    "description": "하나님이 심판하지 않기 때문"
+  },
+  {
+    "uniqueId": 218,
+    "questionId": 79,
+    "num": 3,
+    "description": "같은 기준으로 비판을 받기 때문"
+  },
+  {
+    "uniqueId": 219,
+    "questionId": 79,
+    "num": 4,
+    "description": "사랑이 부족하기 때문"
+  },
+  {
+    "uniqueId": 220,
+    "questionId": 80,
+    "num": 1,
+    "description": "말씀을 듣기만 하는 사람"
+  },
+  {
+    "uniqueId": 221,
+    "questionId": 80,
+    "num": 2,
+    "description": "말씀을 전하는 사람"
+  },
+  {
+    "uniqueId": 222,
+    "questionId": 80,
+    "num": 3,
+    "description": "기도하는 사람"
+  },
+  {
+    "uniqueId": 223,
+    "questionId": 80,
+    "num": 4,
+    "description": "말씀을 듣고 행하는 사람"
+  },
+  {
+    "uniqueId": 224,
+    "questionId": 81,
+    "num": 1,
+    "description": "말씀만으로"
+  },
+  {
+    "uniqueId": 225,
+    "questionId": 81,
+    "num": 2,
+    "description": "만지심으로 (기도로 만지심으로)"
+  },
+  {
+    "uniqueId": 226,
+    "questionId": 82,
+    "num": 1,
+    "description": "멀리서 말씀만 하셨다"
+  },
+  {
+    "uniqueId": 227,
+    "questionId": 82,
+    "num": 2,
+    "description": "만지셨다"
+  },
+  {
+    "uniqueId": 228,
+    "questionId": 82,
+    "num": 3,
+    "description": "무시하셨다"
+  },
+  {
+    "uniqueId": 229,
+    "questionId": 83,
+    "num": 1,
+    "description": "직접 찾아가서"
+  },
+  {
+    "uniqueId": 230,
+    "questionId": 83,
+    "num": 2,
+    "description": "약을 주어서"
+  },
+  {
+    "uniqueId": 231,
+    "questionId": 83,
+    "num": 3,
+    "description": "말씀으로"
+  },
+  {
+    "uniqueId": 232,
+    "questionId": 84,
+    "num": 1,
+    "description": "말씀으로만"
+  },
+  {
+    "uniqueId": 233,
+    "questionId": 84,
+    "num": 2,
+    "description": "만져서"
+  },
+  {
+    "uniqueId": 234,
+    "questionId": 84,
+    "num": 3,
+    "description": "기도만 하셨다"
+  },
+  {
+    "uniqueId": 235,
+    "questionId": 85,
+    "num": 1,
+    "description": "약으로"
+  },
+  {
+    "uniqueId": 236,
+    "questionId": 85,
+    "num": 2,
+    "description": "말씀으로"
+  },
+  {
+    "uniqueId": 237,
+    "questionId": 85,
+    "num": 3,
+    "description": "시간이 지나서"
+  },
+  {
+    "uniqueId": 238,
+    "questionId": 86,
+    "num": 1,
+    "description": "새떼"
+  },
+  {
+    "uniqueId": 239,
+    "questionId": 86,
+    "num": 2,
+    "description": "돼지 떼"
+  },
+  {
+    "uniqueId": 240,
+    "questionId": 86,
+    "num": 3,
+    "description": "물고기"
+  },
+  {
+    "uniqueId": 241,
+    "questionId": 87,
+    "num": 1,
+    "description": "죄 사함"
+  },
+  {
+    "uniqueId": 242,
+    "questionId": 87,
+    "num": 2,
+    "description": "병고침"
+  },
+  {
+    "uniqueId": 243,
+    "questionId": 87,
+    "num": 3,
+    "description": "제자됨"
+  },
+  {
+    "uniqueId": 244,
+    "questionId": 87,
+    "num": 4,
+    "description": "물질적 도움"
+  },
+  {
+    "uniqueId": 245,
+    "questionId": 88,
+    "num": 1,
+    "description": "서기관"
+  },
+  {
+    "uniqueId": 246,
+    "questionId": 88,
+    "num": 2,
+    "description": "백부장"
+  },
+  {
+    "uniqueId": 247,
+    "questionId": 88,
+    "num": 3,
+    "description": "바리새인"
+  },
+  {
+    "uniqueId": 248,
+    "questionId": 89,
+    "num": 1,
+    "description": "사람"
+  },
+  {
+    "uniqueId": 249,
+    "questionId": 89,
+    "num": 2,
+    "description": "배"
+  },
+  {
+    "uniqueId": 250,
+    "questionId": 89,
+    "num": 3,
+    "description": "바람과 바다"
+  },
+  {
+    "uniqueId": 251,
+    "questionId": 90,
+    "num": 1,
+    "description": "오십 부장"
+  },
+  {
+    "uniqueId": 252,
+    "questionId": 90,
+    "num": 2,
+    "description": "백부장"
+  },
+  {
+    "uniqueId": 253,
+    "questionId": 90,
+    "num": 3,
+    "description": "천부장"
+  },
+  {
+    "uniqueId": 254,
+    "questionId": 90,
+    "num": 4,
+    "description": "대제사장"
+  },
+  {
+    "uniqueId": 255,
+    "questionId": 91,
+    "num": 1,
+    "description": "언제든지 따라오라"
+  },
+  {
+    "uniqueId": 256,
+    "questionId": 91,
+    "num": 2,
+    "description": "지금은 안 된다"
+  },
+  {
+    "uniqueId": 257,
+    "questionId": 91,
+    "num": 3,
+    "description": "여우도 굴이 있고 공중의 새도 거처가 있으되 인자는 머리 둘 곳이 없다"
+  },
+  {
+    "uniqueId": 258,
+    "questionId": 92,
+    "num": 1,
+    "description": "바람과 바다"
+  },
+  {
+    "uniqueId": 259,
+    "questionId": 92,
+    "num": 2,
+    "description": "사람들"
+  },
+  {
+    "uniqueId": 260,
+    "questionId": 92,
+    "num": 3,
+    "description": "배"
+  },
+  {
+    "uniqueId": 261,
+    "questionId": 94,
+    "num": 1,
+    "description": "더 머물러 달라"
+  },
+  {
+    "uniqueId": 262,
+    "questionId": 94,
+    "num": 2,
+    "description": "떠나가 달라"
+  },
+  {
+    "uniqueId": 263,
+    "questionId": 94,
+    "num": 3,
+    "description": "가르쳐 달라"
+  },
+  {
+    "uniqueId": 264,
+    "questionId": 95,
+    "num": 1,
+    "description": "병과 자연과 귀신을 다스리는 권세 있는 분"
+  },
+  {
+    "uniqueId": 265,
+    "questionId": 95,
+    "num": 2,
+    "description": "단순한 선생님"
+  },
+  {
+    "uniqueId": 266,
+    "questionId": 95,
+    "num": 3,
+    "description": "예언자 중 한 사람"
+  },
+  {
+    "uniqueId": 267,
+    "questionId": 96,
+    "num": 1,
+    "description": "율법을 잘 지켜서"
+  },
+  {
+    "uniqueId": 268,
+    "questionId": 96,
+    "num": 2,
+    "description": "헌금을 많이 해서"
+  },
+  {
+    "uniqueId": 269,
+    "questionId": 96,
+    "num": 3,
+    "description": "유대인이었기 때문에"
+  },
+  {
+    "uniqueId": 270,
+    "questionId": 96,
+    "num": 4,
+    "description": "큰 믿음을 보였기 때문에"
+  },
+  {
+    "uniqueId": 271,
+    "questionId": 97,
+    "num": 1,
+    "description": "어찌하여 무서워하느냐 믿음이 작은 자들아"
+  },
+  {
+    "uniqueId": 272,
+    "questionId": 97,
+    "num": 2,
+    "description": "기도하라"
+  },
+  {
+    "uniqueId": 273,
+    "questionId": 97,
+    "num": 3,
+    "description": "다시 배를 타라"
+  },
+  {
+    "uniqueId": 274,
+    "questionId": 97,
+    "num": 4,
+    "description": "나를 따르라"
+  },
+  {
+    "uniqueId": 275,
+    "questionId": 98,
+    "num": 1,
+    "description": "물 위를 걸으셔서"
+  },
+  {
+    "uniqueId": 276,
+    "questionId": 98,
+    "num": 2,
+    "description": "귀신을 내쫓으셔서"
+  },
+  {
+    "uniqueId": 277,
+    "questionId": 98,
+    "num": 3,
+    "description": "바람과 바다도 순종했기 때문에"
+  },
+  {
+    "uniqueId": 278,
+    "questionId": 99,
+    "num": 1,
+    "description": "제자들이 손을 씻지 않고 먹는다고"
+  },
+  {
+    "uniqueId": 279,
+    "questionId": 99,
+    "num": 2,
+    "description": "세리와 죄인들과 함께 잡수신다고"
+  },
+  {
+    "uniqueId": 280,
+    "questionId": 99,
+    "num": 3,
+    "description": "귀신 들린 자를 고치신다고"
+  },
+  {
+    "uniqueId": 281,
+    "questionId": 100,
+    "num": 1,
+    "description": "일어나 걸으라"
+  },
+  {
+    "uniqueId": 282,
+    "questionId": 100,
+    "num": 2,
+    "description": "두려워하지 말라"
+  },
+  {
+    "uniqueId": 283,
+    "questionId": 100,
+    "num": 3,
+    "description": "네 죄 사함을 받았느니라"
+  },
+  {
+    "uniqueId": 284,
+    "questionId": 100,
+    "num": 4,
+    "description": "네 믿음이 너를 구원하였다"
+  },
+  {
+    "uniqueId": 285,
+    "questionId": 101,
+    "num": 1,
+    "description": "나병환자"
+  },
+  {
+    "uniqueId": 286,
+    "questionId": 101,
+    "num": 2,
+    "description": "열두 해 혈루증 앓던 여자"
+  },
+  {
+    "uniqueId": 287,
+    "questionId": 101,
+    "num": 3,
+    "description": "가나안 여자"
+  },
+  {
+    "uniqueId": 288,
+    "questionId": 102,
+    "num": 1,
+    "description": "네가 낫고자 하느냐"
+  },
+  {
+    "uniqueId": 289,
+    "questionId": 102,
+    "num": 2,
+    "description": "내가 능히 이 일할 줄을 믿느냐"
+  },
+  {
+    "uniqueId": 290,
+    "questionId": 102,
+    "num": 3,
+    "description": "무엇을 하여 주기를 원하느냐"
+  },
+  {
+    "uniqueId": 291,
+    "questionId": 103,
+    "num": 1,
+    "description": "그는 선지자라"
+  },
+  {
+    "uniqueId": 292,
+    "questionId": 103,
+    "num": 2,
+    "description": "다윗의 자손이여 우리를 불쌍히 여기소서"
+  },
+  {
+    "uniqueId": 293,
+    "questionId": 103,
+    "num": 3,
+    "description": "이스라엘 가운데서 이런 일을 본 적이 없다"
+  },
+  {
+    "uniqueId": 294,
+    "questionId": 104,
+    "num": 1,
+    "description": "일어나 걸어가라"
+  },
+  {
+    "uniqueId": 295,
+    "questionId": 104,
+    "num": 2,
+    "description": "네 죄 사함을 받았느니라"
+  },
+  {
+    "uniqueId": 296,
+    "questionId": 104,
+    "num": 3,
+    "description": "믿음이 크도다"
+  },
+  {
+    "uniqueId": 297,
+    "questionId": 105,
+    "num": 1,
+    "description": "회개하라"
+  },
+  {
+    "uniqueId": 298,
+    "questionId": 105,
+    "num": 2,
+    "description": "기도하라"
+  },
+  {
+    "uniqueId": 299,
+    "questionId": 105,
+    "num": 3,
+    "description": "나를 따르라"
+  },
+  {
+    "uniqueId": 300,
+    "questionId": 105,
+    "num": 4,
+    "description": "율법을 지켜라"
+  },
+  {
+    "uniqueId": 301,
+    "questionId": 106,
+    "num": 1,
+    "description": "농사가 부족하다"
+  },
+  {
+    "uniqueId": 302,
+    "questionId": 106,
+    "num": 2,
+    "description": "재정이 부족하다"
+  },
+  {
+    "uniqueId": 303,
+    "questionId": 106,
+    "num": 3,
+    "description": "일할 사람이 부족하다"
+  },
+  {
+    "uniqueId": 304,
+    "questionId": 106,
+    "num": 4,
+    "description": "복음을 전할 사람이 부족하다"
+  },
+  {
+    "uniqueId": 305,
+    "questionId": 107,
+    "num": 1,
+    "description": "중풍 병자를 고치시기 전에"
+  },
+  {
+    "uniqueId": 306,
+    "questionId": 107,
+    "num": 2,
+    "description": "열두 해 혈루증 여인을 고치실 때"
+  },
+  {
+    "uniqueId": 307,
+    "questionId": 107,
+    "num": 3,
+    "description": "바디매오를 고치실 때"
+  },
+  {
+    "uniqueId": 308,
+    "questionId": 108,
+    "num": 1,
+    "description": "안식일을 어겨서"
+  },
+  {
+    "uniqueId": 309,
+    "questionId": 108,
+    "num": 2,
+    "description": "세리와 함께 식사해서"
+  },
+  {
+    "uniqueId": 310,
+    "questionId": 108,
+    "num": 3,
+    "description": "신성모독을 한다고 생각했기 때문에"
+  },
+  {
+    "uniqueId": 311,
+    "questionId": 109,
+    "num": 1,
+    "description": "바닷가"
+  },
+  {
+    "uniqueId": 312,
+    "questionId": 109,
+    "num": 2,
+    "description": "세관"
+  },
+  {
+    "uniqueId": 313,
+    "questionId": 109,
+    "num": 3,
+    "description": "시장"
+  },
+  {
+    "uniqueId": 314,
+    "questionId": 110,
+    "num": 1,
+    "description": "병든 자"
+  },
+  {
+    "uniqueId": 315,
+    "questionId": 110,
+    "num": 2,
+    "description": "죄인"
+  },
+  {
+    "uniqueId": 316,
+    "questionId": 110,
+    "num": 3,
+    "description": "잃은 양"
+  },
+  {
+    "uniqueId": 317,
+    "questionId": 111,
+    "num": 1,
+    "description": "왜 안식일에 병을 고치십니까?"
+  },
+  {
+    "uniqueId": 318,
+    "questionId": 111,
+    "num": 2,
+    "description": "왜 귀신을 쫓아내십니까?"
+  },
+  {
+    "uniqueId": 319,
+    "questionId": 111,
+    "num": 3,
+    "description": "왜 당신의 제자들은 금식하지 않습니까?"
+  },
+  {
+    "uniqueId": 320,
+    "questionId": 112,
+    "num": 1,
+    "description": "먹을 것이 없어서"
+  },
+  {
+    "uniqueId": 321,
+    "questionId": 112,
+    "num": 2,
+    "description": "목자 없는 양과 같이 고생하며 기진하였기 때문에"
+  },
+  {
+    "uniqueId": 322,
+    "questionId": 112,
+    "num": 3,
+    "description": "로마의 압제를 받고 있었기 때문에"
+  },
+  {
+    "uniqueId": 323,
+    "questionId": 113,
+    "num": 1,
+    "description": "중풍병자를 고치시기 전에"
+  },
+  {
+    "uniqueId": 324,
+    "questionId": 113,
+    "num": 2,
+    "description": "열두 해 혈루증 여인을 고치실 때"
+  },
+  {
+    "uniqueId": 325,
+    "questionId": 113,
+    "num": 3,
+    "description": "바디매오를 고치실 때"
+  },
+  {
+    "uniqueId": 326,
+    "questionId": 114,
+    "num": 1,
+    "description": "군인"
+  },
+  {
+    "uniqueId": 327,
+    "questionId": 114,
+    "num": 2,
+    "description": "세리"
+  },
+  {
+    "uniqueId": 328,
+    "questionId": 114,
+    "num": 3,
+    "description": "수영선수"
+  },
+  {
+    "uniqueId": 329,
+    "questionId": 114,
+    "num": 4,
+    "description": "요리사"
+  },
+  {
+    "uniqueId": 330,
+    "questionId": 115,
+    "num": 1,
+    "description": "지팡이"
+  },
+  {
+    "uniqueId": 331,
+    "questionId": 115,
+    "num": 2,
+    "description": "신"
+  },
+  {
+    "uniqueId": 332,
+    "questionId": 115,
+    "num": 3,
+    "description": "물"
+  },
+  {
+    "uniqueId": 333,
+    "questionId": 115,
+    "num": 4,
+    "description": "두벌 옷"
+  },
+  {
+    "uniqueId": 334,
+    "questionId": 116,
+    "num": 1,
+    "description": "하나님"
+  },
+  {
+    "uniqueId": 335,
+    "questionId": 116,
+    "num": 2,
+    "description": "왕"
+  },
+  {
+    "uniqueId": 336,
+    "questionId": 116,
+    "num": 3,
+    "description": "바리새인"
+  },
+  {
+    "uniqueId": 337,
+    "questionId": 116,
+    "num": 4,
+    "description": "제사장"
+  },
+  {
+    "uniqueId": 338,
+    "questionId": 117,
+    "num": 1,
+    "description": "예루살렘"
+  },
+  {
+    "uniqueId": 339,
+    "questionId": 117,
+    "num": 2,
+    "description": "갈릴리"
+  },
+  {
+    "uniqueId": 340,
+    "questionId": 117,
+    "num": 3,
+    "description": "이방인의 길"
+  },
+  {
+    "uniqueId": 341,
+    "questionId": 117,
+    "num": 4,
+    "description": "사마리아"
+  },
+  {
+    "uniqueId": 342,
+    "questionId": 118,
+    "num": 1,
+    "description": "물 위를 걷는 능력"
+  },
+  {
+    "uniqueId": 343,
+    "questionId": 118,
+    "num": 2,
+    "description": "오병이어의 능력"
+  },
+  {
+    "uniqueId": 344,
+    "questionId": 118,
+    "num": 3,
+    "description": "더러운 귀신을 쫓아내며 모든 병과 약한 것을 고치는 능력"
+  },
+  {
+    "uniqueId": 345,
+    "questionId": 119,
+    "num": 1,
+    "description": "예루살렘"
+  },
+  {
+    "uniqueId": 346,
+    "questionId": 119,
+    "num": 2,
+    "description": "갈릴리"
+  },
+  {
+    "uniqueId": 347,
+    "questionId": 119,
+    "num": 3,
+    "description": "이방인의 길과 사마리아인의 고을"
+  },
+  {
+    "uniqueId": 348,
+    "questionId": 120,
+    "num": 1,
+    "description": "회개하라 천국이 가까웠느니라"
+  },
+  {
+    "uniqueId": 349,
+    "questionId": 120,
+    "num": 2,
+    "description": "천국이 가까이 왔다 하라"
+  },
+  {
+    "uniqueId": 350,
+    "questionId": 120,
+    "num": 3,
+    "description": "예루살렘 멸망이 가까웠다 하라"
+  },
+  {
+    "uniqueId": 351,
+    "questionId": 121,
+    "num": 1,
+    "description": "충성하라"
+  },
+  {
+    "uniqueId": 352,
+    "questionId": 121,
+    "num": 2,
+    "description": "전하라"
+  },
+  {
+    "uniqueId": 353,
+    "questionId": 121,
+    "num": 3,
+    "description": "거저 주라"
+  },
+  {
+    "uniqueId": 354,
+    "questionId": 122,
+    "num": 1,
+    "description": "지팡이"
+  },
+  {
+    "uniqueId": 355,
+    "questionId": 122,
+    "num": 2,
+    "description": "신발"
+  },
+  {
+    "uniqueId": 356,
+    "questionId": 122,
+    "num": 3,
+    "description": "금이나 은이나 동"
+  },
+  {
+    "uniqueId": 357,
+    "questionId": 123,
+    "num": 1,
+    "description": "그 집에서 금식하라"
+  },
+  {
+    "uniqueId": 358,
+    "questionId": 123,
+    "num": 2,
+    "description": "그 집에 평안하기를 빌라"
+  },
+  {
+    "uniqueId": 359,
+    "questionId": 123,
+    "num": 3,
+    "description": "그 집에서 오래 머물지 말라"
+  },
+  {
+    "uniqueId": 360,
+    "questionId": 124,
+    "num": 1,
+    "description": "다시 찾아가 권면하라"
+  },
+  {
+    "uniqueId": 361,
+    "questionId": 124,
+    "num": 2,
+    "description": "그들을 책망하라"
+  },
+  {
+    "uniqueId": 362,
+    "questionId": 124,
+    "num": 3,
+    "description": "발의 먼지를 떨어 버리라"
+  },
+  {
+    "uniqueId": 363,
+    "questionId": 125,
+    "num": 1,
+    "description": "양을 염소 가운데로 보냄"
+  },
+  {
+    "uniqueId": 364,
+    "questionId": 125,
+    "num": 2,
+    "description": "양을 이리 가운데로 보냄"
+  },
+  {
+    "uniqueId": 365,
+    "questionId": 125,
+    "num": 3,
+    "description": "양을 사자 가운데로 보냄"
+  },
+  {
+    "uniqueId": 366,
+    "questionId": 126,
+    "num": 1,
+    "description": "구원을 얻지 못한다"
+  },
+  {
+    "uniqueId": 367,
+    "questionId": 126,
+    "num": 2,
+    "description": "하나님의 나라에 들어가지 못한다"
+  },
+  {
+    "uniqueId": 368,
+    "questionId": 126,
+    "num": 3,
+    "description": "내게 합당하지 않다"
+  },
+  {
+    "uniqueId": 369,
+    "questionId": 128,
+    "num": 1,
+    "description": "사랑의 실천"
+  },
+  {
+    "uniqueId": 370,
+    "questionId": 128,
+    "num": 2,
+    "description": "율법 준수"
+  },
+  {
+    "uniqueId": 371,
+    "questionId": 128,
+    "num": 3,
+    "description": "천국이 가까이 왔다"
+  },
+  {
+    "uniqueId": 372,
+    "questionId": 129,
+    "num": 1,
+    "description": "사마리아 사람"
+  },
+  {
+    "uniqueId": 373,
+    "questionId": 129,
+    "num": 2,
+    "description": "이스라엘 집의 잃어버린 양"
+  },
+  {
+    "uniqueId": 374,
+    "questionId": 129,
+    "num": 3,
+    "description": "로마 사람"
+  },
+  {
+    "uniqueId": 375,
+    "questionId": 130,
+    "num": 1,
+    "description": "독수리 떼"
+  },
+  {
+    "uniqueId": 376,
+    "questionId": 130,
+    "num": 2,
+    "description": "이리 떼"
+  },
+  {
+    "uniqueId": 377,
+    "questionId": 130,
+    "num": 3,
+    "description": "사자 떼"
+  },
+  {
+    "uniqueId": 378,
+    "questionId": 131,
+    "num": 1,
+    "description": "부자가 된다"
+  },
+  {
+    "uniqueId": 379,
+    "questionId": 131,
+    "num": 2,
+    "description": "병이 낫는다"
+  },
+  {
+    "uniqueId": 380,
+    "questionId": 131,
+    "num": 3,
+    "description": "예수님도 하늘 아버지 앞에서 그를 시인하신다"
+  },
+  {
+    "uniqueId": 381,
+    "questionId": 132,
+    "num": 1,
+    "description": "요한"
+  },
+  {
+    "uniqueId": 382,
+    "questionId": 132,
+    "num": 2,
+    "description": "베드로"
+  },
+  {
+    "uniqueId": 383,
+    "questionId": 132,
+    "num": 3,
+    "description": "안드레"
+  },
+  {
+    "uniqueId": 384,
+    "questionId": 133,
+    "num": 1,
+    "description": "언제 오십니까"
+  },
+  {
+    "uniqueId": 385,
+    "questionId": 133,
+    "num": 2,
+    "description": "당신이 오실 그이입니까"
+  },
+  {
+    "uniqueId": 386,
+    "questionId": 133,
+    "num": 3,
+    "description": "왜 기적을 행하십니까"
+  },
+  {
+    "uniqueId": 387,
+    "questionId": 133,
+    "num": 4,
+    "description": "당신이 선지자입니까"
+  },
+  {
+    "uniqueId": 388,
+    "questionId": 134,
+    "num": 1,
+    "description": "가장 지혜로운 자"
+  },
+  {
+    "uniqueId": 389,
+    "questionId": 134,
+    "num": 2,
+    "description": "여자가 낳은 자 중에 가장 큰 자"
+  },
+  {
+    "uniqueId": 390,
+    "questionId": 134,
+    "num": 3,
+    "description": "가장 부유한 자"
+  },
+  {
+    "uniqueId": 391,
+    "questionId": 134,
+    "num": 4,
+    "description": "가장 온유한 자"
+  },
+  {
+    "uniqueId": 392,
+    "questionId": 135,
+    "num": 1,
+    "description": "백합화"
+  },
+  {
+    "uniqueId": 393,
+    "questionId": 135,
+    "num": 2,
+    "description": "감람나무"
+  },
+  {
+    "uniqueId": 394,
+    "questionId": 135,
+    "num": 3,
+    "description": "갈대"
+  },
+  {
+    "uniqueId": 395,
+    "questionId": 136,
+    "num": 1,
+    "description": "장터에 앉아 부르는 아이들"
+  },
+  {
+    "uniqueId": 396,
+    "questionId": 136,
+    "num": 2,
+    "description": "씨 뿌리는 농부"
+  },
+  {
+    "uniqueId": 397,
+    "questionId": 136,
+    "num": 3,
+    "description": "잃은 양을 찾는 목자"
+  },
+  {
+    "uniqueId": 398,
+    "questionId": 137,
+    "num": 1,
+    "description": "나사렛, 가버나움"
+  },
+  {
+    "uniqueId": 399,
+    "questionId": 137,
+    "num": 2,
+    "description": "고라신, 벳새다"
+  },
+  {
+    "uniqueId": 400,
+    "questionId": 137,
+    "num": 3,
+    "description": "예루살렘, 여리고"
+  },
+  {
+    "uniqueId": 401,
+    "questionId": 138,
+    "num": 1,
+    "description": "예루살렘"
+  },
+  {
+    "uniqueId": 402,
+    "questionId": 138,
+    "num": 2,
+    "description": "가버나움"
+  },
+  {
+    "uniqueId": 403,
+    "questionId": 138,
+    "num": 3,
+    "description": "베들레헴"
+  },
+  {
+    "uniqueId": 404,
+    "questionId": 139,
+    "num": 1,
+    "description": "거룩, 위엄"
+  },
+  {
+    "uniqueId": 405,
+    "questionId": 139,
+    "num": 2,
+    "description": "온유, 겸손"
+  },
+  {
+    "uniqueId": 406,
+    "questionId": 139,
+    "num": 3,
+    "description": "지혜, 용기"
+  },
+  {
+    "uniqueId": 407,
+    "questionId": 140,
+    "num": 1,
+    "description": "언제 오십니까?"
+  },
+  {
+    "uniqueId": 408,
+    "questionId": 140,
+    "num": 2,
+    "description": "오실 그이가 당신입니까?"
+  },
+  {
+    "uniqueId": 409,
+    "questionId": 140,
+    "num": 3,
+    "description": "천국은 어디입니까?"
+  },
+  {
+    "uniqueId": 410,
+    "questionId": 141,
+    "num": 1,
+    "description": "가장 부유한 자"
+  },
+  {
+    "uniqueId": 411,
+    "questionId": 141,
+    "num": 2,
+    "description": "여자가 낳은 자 중 가장 큰자"
+  },
+  {
+    "uniqueId": 412,
+    "questionId": 141,
+    "num": 3,
+    "description": "가장 지혜로운 자"
+  },
+  {
+    "uniqueId": 413,
+    "questionId": 142,
+    "num": 1,
+    "description": "엄하고 강하다"
+  },
+  {
+    "uniqueId": 414,
+    "questionId": 142,
+    "num": 2,
+    "description": "담대하고 용감하다"
+  },
+  {
+    "uniqueId": 415,
+    "questionId": 142,
+    "num": 3,
+    "description": "온유하고 겸손하다"
+  },
+  {
+    "uniqueId": 416,
+    "questionId": 143,
+    "num": 1,
+    "description": "부자가 된다"
+  },
+  {
+    "uniqueId": 417,
+    "questionId": 143,
+    "num": 2,
+    "description": "지혜를 얻는다"
+  },
+  {
+    "uniqueId": 418,
+    "questionId": 143,
+    "num": 3,
+    "description": "쉼을 얻는다"
+  },
+  {
+    "uniqueId": 419,
+    "questionId": 143,
+    "num": 4,
+    "description": "병이 낫는다"
+  },
+  {
+    "uniqueId": 420,
+    "questionId": 144,
+    "num": 1,
+    "description": "베드로"
+  },
+  {
+    "uniqueId": 421,
+    "questionId": 144,
+    "num": 2,
+    "description": "세례 요한"
+  },
+  {
+    "uniqueId": 422,
+    "questionId": 144,
+    "num": 3,
+    "description": "엘리야"
+  },
+  {
+    "uniqueId": 423,
+    "questionId": 145,
+    "num": 1,
+    "description": "제사장들"
+  },
+  {
+    "uniqueId": 424,
+    "questionId": 145,
+    "num": 2,
+    "description": "서기관들"
+  },
+  {
+    "uniqueId": 425,
+    "questionId": 145,
+    "num": 3,
+    "description": "어린아이들"
+  },
+  {
+    "uniqueId": 426,
+    "questionId": 146,
+    "num": 1,
+    "description": "예수님을 따르기로 함"
+  },
+  {
+    "uniqueId": 427,
+    "questionId": 146,
+    "num": 2,
+    "description": "예수님을 어떻게 죽일까 의논함"
+  },
+  {
+    "uniqueId": 428,
+    "questionId": 146,
+    "num": 3,
+    "description": "손 마른 사람을 회당장으로 세웠다"
+  },
+  {
+    "uniqueId": 429,
+    "questionId": 147,
+    "num": 1,
+    "description": "모세"
+  },
+  {
+    "uniqueId": 430,
+    "questionId": 147,
+    "num": 2,
+    "description": "바알세불"
+  },
+  {
+    "uniqueId": 431,
+    "questionId": 147,
+    "num": 3,
+    "description": "헤롯"
+  },
+  {
+    "uniqueId": 432,
+    "questionId": 148,
+    "num": 1,
+    "description": "모세의 표적"
+  },
+  {
+    "uniqueId": 433,
+    "questionId": 148,
+    "num": 2,
+    "description": "엘리야의 표적"
+  },
+  {
+    "uniqueId": 434,
+    "questionId": 148,
+    "num": 3,
+    "description": "요나의 표적"
+  },
+  {
+    "uniqueId": 435,
+    "questionId": 149,
+    "num": 1,
+    "description": "서기관"
+  },
+  {
+    "uniqueId": 436,
+    "questionId": 149,
+    "num": 2,
+    "description": "바리새인"
+  },
+  {
+    "uniqueId": 437,
+    "questionId": 149,
+    "num": 3,
+    "description": "사두개인"
+  },
+  {
+    "uniqueId": 438,
+    "questionId": 150,
+    "num": 1,
+    "description": "제사를 드리지 말라"
+  },
+  {
+    "uniqueId": 439,
+    "questionId": 150,
+    "num": 2,
+    "description": "율법을 버리라"
+  },
+  {
+    "uniqueId": 440,
+    "questionId": 150,
+    "num": 3,
+    "description": "형식보다 긍휼이 중요하다"
+  },
+  {
+    "uniqueId": 441,
+    "questionId": 150,
+    "num": 4,
+    "description": "제사장이 필요 없다"
+  },
+  {
+    "uniqueId": 442,
+    "questionId": 151,
+    "num": 1,
+    "description": "혈육 가족"
+  },
+  {
+    "uniqueId": 443,
+    "questionId": 151,
+    "num": 2,
+    "description": "제자들"
+  },
+  {
+    "uniqueId": 444,
+    "questionId": 151,
+    "num": 3,
+    "description": "유대인"
+  },
+  {
+    "uniqueId": 445,
+    "questionId": 151,
+    "num": 4,
+    "description": "하나님의 뜻대로 행하는 자"
+  },
+  {
+    "uniqueId": 446,
+    "questionId": 152,
+    "num": 1,
+    "description": "바리새인들"
+  },
+  {
+    "uniqueId": 447,
+    "questionId": 152,
+    "num": 2,
+    "description": "제사장들"
+  },
+  {
+    "uniqueId": 448,
+    "questionId": 152,
+    "num": 3,
+    "description": "사두개인들"
+  },
+  {
+    "uniqueId": 449,
+    "questionId": 153,
+    "num": 1,
+    "description": "솔로몬"
+  },
+  {
+    "uniqueId": 450,
+    "questionId": 153,
+    "num": 2,
+    "description": "엘리야"
+  },
+  {
+    "uniqueId": 451,
+    "questionId": 153,
+    "num": 3,
+    "description": "다윗"
+  },
+  {
+    "uniqueId": 452,
+    "questionId": 154,
+    "num": 1,
+    "description": "대제사장"
+  },
+  {
+    "uniqueId": 453,
+    "questionId": 154,
+    "num": 2,
+    "description": "심판자"
+  },
+  {
+    "uniqueId": 454,
+    "questionId": 154,
+    "num": 3,
+    "description": "주인"
+  },
+  {
+    "uniqueId": 455,
+    "questionId": 156,
+    "num": 1,
+    "description": "손"
+  },
+  {
+    "uniqueId": 456,
+    "questionId": 156,
+    "num": 2,
+    "description": "행동"
+  },
+  {
+    "uniqueId": 457,
+    "questionId": 156,
+    "num": 3,
+    "description": "입"
+  },
+  {
+    "uniqueId": 458,
+    "questionId": 157,
+    "num": 1,
+    "description": "셋"
+  },
+  {
+    "uniqueId": 459,
+    "questionId": 157,
+    "num": 2,
+    "description": "일곱"
+  },
+  {
+    "uniqueId": 460,
+    "questionId": 157,
+    "num": 3,
+    "description": "열둘"
+  },
+  {
+    "uniqueId": 461,
+    "questionId": 158,
+    "num": 1,
+    "description": "같은 혈통의 유대인"
+  },
+  {
+    "uniqueId": 462,
+    "questionId": 158,
+    "num": 2,
+    "description": "예루살렘에 사는 사람들"
+  },
+  {
+    "uniqueId": 463,
+    "questionId": 158,
+    "num": 3,
+    "description": "하늘에 계신 내 아버지의 뜻대로 하는 자"
+  },
+  {
+    "uniqueId": 464,
+    "questionId": 159,
+    "num": 1,
+    "description": "다윗"
+  },
+  {
+    "uniqueId": 465,
+    "questionId": 159,
+    "num": 2,
+    "description": "모세"
+  },
+  {
+    "uniqueId": 466,
+    "questionId": 159,
+    "num": 3,
+    "description": "인자(예수님 자신)"
+  },
+  {
+    "uniqueId": 467,
+    "questionId": 160,
+    "num": 1,
+    "description": "모세"
+  },
+  {
+    "uniqueId": 468,
+    "questionId": 160,
+    "num": 2,
+    "description": "다윗"
+  },
+  {
+    "uniqueId": 469,
+    "questionId": 160,
+    "num": 3,
+    "description": "인자"
+  },
+  {
+    "uniqueId": 470,
+    "questionId": 161,
+    "num": 1,
+    "description": "혈육"
+  },
+  {
+    "uniqueId": 471,
+    "questionId": 161,
+    "num": 2,
+    "description": "제자들"
+  },
+  {
+    "uniqueId": 472,
+    "questionId": 161,
+    "num": 3,
+    "description": "하나님의 뜻대로 행하는 자"
+  },
+  {
+    "uniqueId": 473,
+    "questionId": 162,
+    "num": 1,
+    "description": "회당"
+  },
+  {
+    "uniqueId": 474,
+    "questionId": 162,
+    "num": 2,
+    "description": "산위"
+  },
+  {
+    "uniqueId": 475,
+    "questionId": 162,
+    "num": 3,
+    "description": "바닷가"
+  },
+  {
+    "uniqueId": 476,
+    "questionId": 163,
+    "num": 1,
+    "description": "사람"
+  },
+  {
+    "uniqueId": 477,
+    "questionId": 163,
+    "num": 2,
+    "description": "새"
+  },
+  {
+    "uniqueId": 478,
+    "questionId": 163,
+    "num": 3,
+    "description": "짐승"
+  },
+  {
+    "uniqueId": 479,
+    "questionId": 164,
+    "num": 1,
+    "description": "열매가 많았다"
+  },
+  {
+    "uniqueId": 480,
+    "questionId": 164,
+    "num": 2,
+    "description": "뿌리가 없어 곧 말랐다"
+  },
+  {
+    "uniqueId": 481,
+    "questionId": 164,
+    "num": 3,
+    "description": "물에 떠내려갔다"
+  },
+  {
+    "uniqueId": 482,
+    "questionId": 165,
+    "num": 1,
+    "description": "잘 자랐다"
+  },
+  {
+    "uniqueId": 483,
+    "questionId": 165,
+    "num": 2,
+    "description": "썩어버렸다"
+  },
+  {
+    "uniqueId": 484,
+    "questionId": 165,
+    "num": 3,
+    "description": "가시에 막혀 결실하지 못했다"
+  },
+  {
+    "uniqueId": 485,
+    "questionId": 167,
+    "num": 1,
+    "description": "종"
+  },
+  {
+    "uniqueId": 486,
+    "questionId": 167,
+    "num": 2,
+    "description": "원수"
+  },
+  {
+    "uniqueId": 487,
+    "questionId": 167,
+    "num": 3,
+    "description": "농부"
+  },
+  {
+    "uniqueId": 488,
+    "questionId": 168,
+    "num": 1,
+    "description": "한말"
+  },
+  {
+    "uniqueId": 489,
+    "questionId": 168,
+    "num": 2,
+    "description": "두말"
+  },
+  {
+    "uniqueId": 490,
+    "questionId": 168,
+    "num": 3,
+    "description": "세말"
+  },
+  {
+    "uniqueId": 491,
+    "questionId": 169,
+    "num": 1,
+    "description": "버렸다"
+  },
+  {
+    "uniqueId": 492,
+    "questionId": 169,
+    "num": 2,
+    "description": "숨겼다"
+  },
+  {
+    "uniqueId": 493,
+    "questionId": 169,
+    "num": 3,
+    "description": "기뻐하여 자기 소유를 다 팔아 그 밭을 샀다"
+  },
+  {
+    "uniqueId": 494,
+    "questionId": 170,
+    "num": 1,
+    "description": "씨 뿌릴 때"
+  },
+  {
+    "uniqueId": 495,
+    "questionId": 170,
+    "num": 2,
+    "description": "세상 끝"
+  },
+  {
+    "uniqueId": 496,
+    "questionId": 170,
+    "num": 3,
+    "description": "추수 직후"
+  },
+  {
+    "uniqueId": 497,
+    "questionId": 172,
+    "num": 1,
+    "description": "믿음"
+  },
+  {
+    "uniqueId": 498,
+    "questionId": 172,
+    "num": 2,
+    "description": "천국"
+  },
+  {
+    "uniqueId": 499,
+    "questionId": 172,
+    "num": 3,
+    "description": "율법"
+  },
+  {
+    "uniqueId": 500,
+    "questionId": 173,
+    "num": 1,
+    "description": "잎사귀"
+  },
+  {
+    "uniqueId": 501,
+    "questionId": 173,
+    "num": 2,
+    "description": "열매"
+  },
+  {
+    "uniqueId": 502,
+    "questionId": 173,
+    "num": 3,
+    "description": "꽃"
+  },
+  {
+    "uniqueId": 503,
+    "questionId": 174,
+    "num": 1,
+    "description": "재미를 위해"
+  },
+  {
+    "uniqueId": 504,
+    "questionId": 174,
+    "num": 2,
+    "description": "듣기는 들어도 깨닫지 못하기 때문"
+  },
+  {
+    "uniqueId": 505,
+    "questionId": 174,
+    "num": 3,
+    "description": "시간을 줄이기 위해"
+  },
+  {
+    "uniqueId": 506,
+    "questionId": 175,
+    "num": 1,
+    "description": "진주를 나누어 주었다"
+  },
+  {
+    "uniqueId": 507,
+    "questionId": 175,
+    "num": 2,
+    "description": "가진 것을 다 팔아 샀다"
+  },
+  {
+    "uniqueId": 508,
+    "questionId": 175,
+    "num": 3,
+    "description": "집으로 돌아갔다"
+  },
+  {
+    "uniqueId": 509,
+    "questionId": 176,
+    "num": 1,
+    "description": "돈 버는 방법"
+  },
+  {
+    "uniqueId": 510,
+    "questionId": 176,
+    "num": 2,
+    "description": "천국의 가치"
+  },
+  {
+    "uniqueId": 511,
+    "questionId": 176,
+    "num": 3,
+    "description": "농사 방법"
+  },
+  {
+    "uniqueId": 512,
+    "questionId": 177,
+    "num": 1,
+    "description": "돌로 떡을 만들어 먹으라"
+  },
+  {
+    "uniqueId": 513,
+    "questionId": 177,
+    "num": 2,
+    "description": "성전 꼭대기에서 뛰어내리라"
+  },
+  {
+    "uniqueId": 514,
+    "questionId": 177,
+    "num": 3,
+    "description": "천하 만국과 그 영광을 주겠으니 나에게 경배하라"
+  },
+  {
+    "uniqueId": 515,
+    "questionId": 177,
+    "num": 4,
+    "description": "물 위를 걸어보라"
+  },
+  {
+    "uniqueId": 516,
+    "questionId": 178,
+    "num": 1,
+    "description": "엘리야"
+  },
+  {
+    "uniqueId": 517,
+    "questionId": 178,
+    "num": 2,
+    "description": "세례 요한"
+  },
+  {
+    "uniqueId": 518,
+    "questionId": 178,
+    "num": 3,
+    "description": "모세"
+  },
+  {
+    "uniqueId": 519,
+    "questionId": 179,
+    "num": 1,
+    "description": "반란을 일으켜서"
+  },
+  {
+    "uniqueId": 520,
+    "questionId": 179,
+    "num": 2,
+    "description": "세금을 거부해서"
+  },
+  {
+    "uniqueId": 521,
+    "questionId": 179,
+    "num": 3,
+    "description": "헤롯의 결혼을 책망해서"
+  },
+  {
+    "uniqueId": 522,
+    "questionId": 180,
+    "num": 1,
+    "description": "왕비"
+  },
+  {
+    "uniqueId": 523,
+    "questionId": 180,
+    "num": 2,
+    "description": "소녀(딸)"
+  },
+  {
+    "uniqueId": 524,
+    "questionId": 180,
+    "num": 3,
+    "description": "제자"
+  },
+  {
+    "uniqueId": 525,
+    "questionId": 181,
+    "num": 1,
+    "description": "성전"
+  },
+  {
+    "uniqueId": 526,
+    "questionId": 181,
+    "num": 2,
+    "description": "빈들(한적한 곳)"
+  },
+  {
+    "uniqueId": 527,
+    "questionId": 181,
+    "num": 3,
+    "description": "시장"
+  },
+  {
+    "uniqueId": 528,
+    "questionId": 182,
+    "num": 1,
+    "description": "약 3천명"
+  },
+  {
+    "uniqueId": 529,
+    "questionId": 182,
+    "num": 2,
+    "description": "약 5천명"
+  },
+  {
+    "uniqueId": 530,
+    "questionId": 182,
+    "num": 3,
+    "description": "약 1만명"
+  },
+  {
+    "uniqueId": 531,
+    "questionId": 183,
+    "num": 1,
+    "description": "일곱 바구니"
+  },
+  {
+    "uniqueId": 532,
+    "questionId": 183,
+    "num": 2,
+    "description": "열 바구니"
+  },
+  {
+    "uniqueId": 533,
+    "questionId": 183,
+    "num": 3,
+    "description": "열두 바구니"
+  },
+  {
+    "uniqueId": 534,
+    "questionId": 184,
+    "num": 1,
+    "description": "천사"
+  },
+  {
+    "uniqueId": 535,
+    "questionId": 184,
+    "num": 2,
+    "description": "유령"
+  },
+  {
+    "uniqueId": 536,
+    "questionId": 184,
+    "num": 3,
+    "description": "선지자"
+  },
+  {
+    "uniqueId": 537,
+    "questionId": 185,
+    "num": 1,
+    "description": "선지자이시다"
+  },
+  {
+    "uniqueId": 538,
+    "questionId": 185,
+    "num": 2,
+    "description": "왕이시다"
+  },
+  {
+    "uniqueId": 539,
+    "questionId": 185,
+    "num": 3,
+    "description": "진실로 하나님의 아들이로소이다"
+  },
+  {
+    "uniqueId": 540,
+    "questionId": 186,
+    "num": 1,
+    "description": "야고보"
+  },
+  {
+    "uniqueId": 541,
+    "questionId": 186,
+    "num": 2,
+    "description": "요한"
+  },
+  {
+    "uniqueId": 542,
+    "questionId": 186,
+    "num": 3,
+    "description": "베드로"
+  },
+  {
+    "uniqueId": 543,
+    "questionId": 187,
+    "num": 1,
+    "description": "빌라도"
+  },
+  {
+    "uniqueId": 544,
+    "questionId": 187,
+    "num": 2,
+    "description": "헤롯"
+  },
+  {
+    "uniqueId": 545,
+    "questionId": 187,
+    "num": 3,
+    "description": "가야바"
+  },
+  {
+    "uniqueId": 546,
+    "questionId": 188,
+    "num": 1,
+    "description": "배가 흔들려서"
+  },
+  {
+    "uniqueId": 547,
+    "questionId": 188,
+    "num": 2,
+    "description": "바람을 보고 두려워해서"
+  },
+  {
+    "uniqueId": 548,
+    "questionId": 188,
+    "num": 3,
+    "description": "밤이어서"
+  },
+  {
+    "uniqueId": 549,
+    "questionId": 189,
+    "num": 1,
+    "description": "믿음이 크도다"
+  },
+  {
+    "uniqueId": 550,
+    "questionId": 189,
+    "num": 2,
+    "description": "믿음이 작은 자여 왜 의심하였느냐"
+  },
+  {
+    "uniqueId": 551,
+    "questionId": 189,
+    "num": 3,
+    "description": "두려워하지 말라"
+  },
+  {
+    "uniqueId": 552,
+    "questionId": 190,
+    "num": 1,
+    "description": "빌라도"
+  },
+  {
+    "uniqueId": 553,
+    "questionId": 190,
+    "num": 2,
+    "description": "헤롯"
+  },
+  {
+    "uniqueId": 554,
+    "questionId": 190,
+    "num": 3,
+    "description": "가야바"
+  },
+  {
+    "uniqueId": 555,
+    "questionId": 191,
+    "num": 1,
+    "description": "13장"
+  },
+  {
+    "uniqueId": 556,
+    "questionId": 191,
+    "num": 2,
+    "description": "14장"
+  },
+  {
+    "uniqueId": 557,
+    "questionId": 191,
+    "num": 3,
+    "description": "15장"
+  },
+  {
+    "uniqueId": 558,
+    "questionId": 192,
+    "num": 1,
+    "description": "요한"
+  },
+  {
+    "uniqueId": 559,
+    "questionId": 192,
+    "num": 2,
+    "description": "야고보"
+  },
+  {
+    "uniqueId": 560,
+    "questionId": 192,
+    "num": 3,
+    "description": "베드로"
+  },
+  {
+    "uniqueId": 561,
+    "questionId": 193,
+    "num": 1,
+    "description": "안식일을 지키지 않아서"
+  },
+  {
+    "uniqueId": 562,
+    "questionId": 193,
+    "num": 2,
+    "description": "제자들이 손을 씻지 않고 음식을 먹어서"
+  },
+  {
+    "uniqueId": 563,
+    "questionId": 193,
+    "num": 3,
+    "description": "성전세를 내지 않아서"
+  },
+  {
+    "uniqueId": 564,
+    "questionId": 193,
+    "num": 4,
+    "description": "사람의 전통을 지키지 않아서"
+  },
+  {
+    "uniqueId": 565,
+    "questionId": 194,
+    "num": 1,
+    "description": "안식일을 지키지 않아서"
+  },
+  {
+    "uniqueId": 566,
+    "questionId": 194,
+    "num": 2,
+    "description": "손을 씻지 않고 먹어서"
+  },
+  {
+    "uniqueId": 567,
+    "questionId": 194,
+    "num": 3,
+    "description": "금식하지 않아서"
+  },
+  {
+    "uniqueId": 568,
+    "questionId": 195,
+    "num": 1,
+    "description": "사마리아 여인"
+  },
+  {
+    "uniqueId": 569,
+    "questionId": 195,
+    "num": 2,
+    "description": "혈루증 앓던 여인"
+  },
+  {
+    "uniqueId": 570,
+    "questionId": 195,
+    "num": 3,
+    "description": "가나안 여인"
+  },
+  {
+    "uniqueId": 571,
+    "questionId": 196,
+    "num": 1,
+    "description": "먹는 음식"
+  },
+  {
+    "uniqueId": 572,
+    "questionId": 196,
+    "num": 2,
+    "description": "몸의 병"
+  },
+  {
+    "uniqueId": 573,
+    "questionId": 196,
+    "num": 3,
+    "description": "입에서 나오는 것"
+  },
+  {
+    "uniqueId": 574,
+    "questionId": 197,
+    "num": 1,
+    "description": "배"
+  },
+  {
+    "uniqueId": 575,
+    "questionId": 197,
+    "num": 2,
+    "description": "마음"
+  },
+  {
+    "uniqueId": 576,
+    "questionId": 197,
+    "num": 3,
+    "description": "생각"
+  },
+  {
+    "uniqueId": 577,
+    "questionId": 198,
+    "num": 1,
+    "description": "재물"
+  },
+  {
+    "uniqueId": 578,
+    "questionId": 198,
+    "num": 2,
+    "description": "딸의 치유"
+  },
+  {
+    "uniqueId": 579,
+    "questionId": 198,
+    "num": 3,
+    "description": "직분"
+  },
+  {
+    "uniqueId": 580,
+    "questionId": 199,
+    "num": 1,
+    "description": "내가 너를 도와주겠다"
+  },
+  {
+    "uniqueId": 581,
+    "questionId": 199,
+    "num": 2,
+    "description": "네 믿음이 크다"
+  },
+  {
+    "uniqueId": 582,
+    "questionId": 199,
+    "num": 3,
+    "description": "나는 이스라엘 집의 잃어버린 양에게만 보내심을 받았다"
+  },
+  {
+    "uniqueId": 583,
+    "questionId": 200,
+    "num": 1,
+    "description": "개들도 주인의 상에서 떨어지는 부스러기를 먹나이다"
+  },
+  {
+    "uniqueId": 584,
+    "questionId": 200,
+    "num": 2,
+    "description": "나는 의로운 사람입니다"
+  },
+  {
+    "uniqueId": 585,
+    "questionId": 200,
+    "num": 3,
+    "description": "나는 율법을 지켰습니다"
+  },
+  {
+    "uniqueId": 586,
+    "questionId": 201,
+    "num": 1,
+    "description": "지식"
+  },
+  {
+    "uniqueId": 587,
+    "questionId": 201,
+    "num": 2,
+    "description": "믿음"
+  },
+  {
+    "uniqueId": 588,
+    "questionId": 201,
+    "num": 3,
+    "description": "혈통"
+  },
+  {
+    "uniqueId": 589,
+    "questionId": 202,
+    "num": 1,
+    "description": "오천 명"
+  },
+  {
+    "uniqueId": 590,
+    "questionId": 202,
+    "num": 2,
+    "description": "사천 명"
+  },
+  {
+    "uniqueId": 591,
+    "questionId": 202,
+    "num": 3,
+    "description": "삼천 명"
+  },
+  {
+    "uniqueId": 592,
+    "questionId": 203,
+    "num": 1,
+    "description": "다섯 광주리"
+  },
+  {
+    "uniqueId": 593,
+    "questionId": 203,
+    "num": 2,
+    "description": "일곱 광주리"
+  },
+  {
+    "uniqueId": 594,
+    "questionId": 203,
+    "num": 3,
+    "description": "열두 광주리"
+  },
+  {
+    "uniqueId": 595,
+    "questionId": 204,
+    "num": 1,
+    "description": "손을 씻지 않는 것"
+  },
+  {
+    "uniqueId": 596,
+    "questionId": 204,
+    "num": 2,
+    "description": "음식"
+  },
+  {
+    "uniqueId": 597,
+    "questionId": 204,
+    "num": 3,
+    "description": "마음에서 나오는 악한 생각과 말"
+  },
+  {
+    "uniqueId": 598,
+    "questionId": 205,
+    "num": 1,
+    "description": "순종"
+  },
+  {
+    "uniqueId": 599,
+    "questionId": 205,
+    "num": 2,
+    "description": "사랑"
+  },
+  {
+    "uniqueId": 600,
+    "questionId": 205,
+    "num": 3,
+    "description": "큰 믿음"
+  },
+  {
+    "uniqueId": 601,
+    "questionId": 207,
+    "num": 1,
+    "description": "기적"
+  },
+  {
+    "uniqueId": 602,
+    "questionId": 207,
+    "num": 2,
+    "description": "표적"
+  },
+  {
+    "uniqueId": 603,
+    "questionId": 207,
+    "num": 3,
+    "description": "세금"
+  },
+  {
+    "uniqueId": 604,
+    "questionId": 208,
+    "num": 1,
+    "description": "교훈"
+  },
+  {
+    "uniqueId": 605,
+    "questionId": 208,
+    "num": 2,
+    "description": "음식"
+  },
+  {
+    "uniqueId": 606,
+    "questionId": 208,
+    "num": 3,
+    "description": "제사"
+  },
+  {
+    "uniqueId": 607,
+    "questionId": 209,
+    "num": 1,
+    "description": "떡의 누룩"
+  },
+  {
+    "uniqueId": 608,
+    "questionId": 209,
+    "num": 2,
+    "description": "바리새인과 사두개인의 교훈"
+  },
+  {
+    "uniqueId": 609,
+    "questionId": 209,
+    "num": 3,
+    "description": "술의 누룩"
+  },
+  {
+    "uniqueId": 610,
+    "questionId": 210,
+    "num": 1,
+    "description": "악하고 음란한 세대"
+  },
+  {
+    "uniqueId": 611,
+    "questionId": 210,
+    "num": 2,
+    "description": "의로운 세대"
+  },
+  {
+    "uniqueId": 612,
+    "questionId": 210,
+    "num": 3,
+    "description": "거룩한 세대"
+  },
+  {
+    "uniqueId": 613,
+    "questionId": 211,
+    "num": 1,
+    "description": "죄"
+  },
+  {
+    "uniqueId": 614,
+    "questionId": 211,
+    "num": 2,
+    "description": "떡"
+  },
+  {
+    "uniqueId": 615,
+    "questionId": 211,
+    "num": 3,
+    "description": "율법"
+  },
+  {
+    "uniqueId": 616,
+    "questionId": 212,
+    "num": 1,
+    "description": "모세"
+  },
+  {
+    "uniqueId": 617,
+    "questionId": 212,
+    "num": 2,
+    "description": "아브라함"
+  },
+  {
+    "uniqueId": 618,
+    "questionId": 212,
+    "num": 3,
+    "description": "세례 요한, 엘리야 등"
+  },
+  {
+    "uniqueId": 619,
+    "questionId": 213,
+    "num": 1,
+    "description": "반석"
+  },
+  {
+    "uniqueId": 620,
+    "questionId": 213,
+    "num": 2,
+    "description": "제사장"
+  },
+  {
+    "uniqueId": 621,
+    "questionId": 213,
+    "num": 3,
+    "description": "선지자"
+  },
+  {
+    "uniqueId": 622,
+    "questionId": 214,
+    "num": 1,
+    "description": "자신의 꿈을 먼저 이루고 따라간다"
+  },
+  {
+    "uniqueId": 623,
+    "questionId": 214,
+    "num": 2,
+    "description": "자신의 십자가를 버리고 편하게 산다"
+  },
+  {
+    "uniqueId": 624,
+    "questionId": 214,
+    "num": 3,
+    "description": "자기를 부인하고 자기 십자가를 지고 예수님을 따른다"
+  },
+  {
+    "uniqueId": 625,
+    "questionId": 215,
+    "num": 1,
+    "description": "베드로"
+  },
+  {
+    "uniqueId": 626,
+    "questionId": 215,
+    "num": 2,
+    "description": "안드레"
+  },
+  {
+    "uniqueId": 627,
+    "questionId": 215,
+    "num": 3,
+    "description": "야고보"
+  },
+  {
+    "uniqueId": 628,
+    "questionId": 216,
+    "num": 1,
+    "description": "큰 선지자"
+  },
+  {
+    "uniqueId": 629,
+    "questionId": 216,
+    "num": 2,
+    "description": "다윗의 자손"
+  },
+  {
+    "uniqueId": 630,
+    "questionId": 216,
+    "num": 3,
+    "description": "그리스도시요 살아계신 하나님의 아들"
+  },
+  {
+    "uniqueId": 631,
+    "questionId": 217,
+    "num": 1,
+    "description": "기도가 부족해서"
+  },
+  {
+    "uniqueId": 632,
+    "questionId": 217,
+    "num": 2,
+    "description": "율법을 몰라서"
+  },
+  {
+    "uniqueId": 633,
+    "questionId": 217,
+    "num": 3,
+    "description": "믿음이 작은 까닭으로"
+  },
+  {
+    "uniqueId": 634,
+    "questionId": 218,
+    "num": 1,
+    "description": "베드로"
+  },
+  {
+    "uniqueId": 635,
+    "questionId": 218,
+    "num": 2,
+    "description": "빌립"
+  },
+  {
+    "uniqueId": 636,
+    "questionId": 218,
+    "num": 3,
+    "description": "야고보"
+  },
+  {
+    "uniqueId": 637,
+    "questionId": 218,
+    "num": 4,
+    "description": "요한"
+  },
+  {
+    "uniqueId": 638,
+    "questionId": 219,
+    "num": 1,
+    "description": "아브라함과 다윗"
+  },
+  {
+    "uniqueId": 639,
+    "questionId": 219,
+    "num": 2,
+    "description": "엘리야와 엘리사"
+  },
+  {
+    "uniqueId": 640,
+    "questionId": 219,
+    "num": 3,
+    "description": "모세와 엘리야"
+  },
+  {
+    "uniqueId": 641,
+    "questionId": 220,
+    "num": 1,
+    "description": "제사를 드리자"
+  },
+  {
+    "uniqueId": 642,
+    "questionId": 220,
+    "num": 2,
+    "description": "초막 셋을 짓자"
+  },
+  {
+    "uniqueId": 643,
+    "questionId": 220,
+    "num": 3,
+    "description": "산을 떠나자"
+  },
+  {
+    "uniqueId": 644,
+    "questionId": 221,
+    "num": 1,
+    "description": "아무에게도 말하지 말라"
+  },
+  {
+    "uniqueId": 645,
+    "questionId": 221,
+    "num": 2,
+    "description": "제자들에게 전하라"
+  },
+  {
+    "uniqueId": 646,
+    "questionId": 221,
+    "num": 3,
+    "description": "인자가 살아나기 전에는 본 것을 아무에게도 이르지 말라"
+  },
+  {
+    "uniqueId": 647,
+    "questionId": 222,
+    "num": 1,
+    "description": "아직 오지 않았다"
+  },
+  {
+    "uniqueId": 648,
+    "questionId": 222,
+    "num": 2,
+    "description": "다시 올 것이다"
+  },
+  {
+    "uniqueId": 649,
+    "questionId": 222,
+    "num": 3,
+    "description": "이미 왔으되 사람들이 알지 못하였다 (이미 왔으되 사람들이 알지 못하였다)"
+  },
+  {
+    "uniqueId": 650,
+    "questionId": 223,
+    "num": 1,
+    "description": "겨자씨 한 알"
+  },
+  {
+    "uniqueId": 651,
+    "questionId": 223,
+    "num": 2,
+    "description": "겨자 나무 한 그루"
+  },
+  {
+    "uniqueId": 652,
+    "questionId": 223,
+    "num": 3,
+    "description": "밀알 한 톨"
+  },
+  {
+    "uniqueId": 653,
+    "questionId": 224,
+    "num": 1,
+    "description": "돈을 빌리셨다"
+  },
+  {
+    "uniqueId": 654,
+    "questionId": 224,
+    "num": 2,
+    "description": "제자들에게 거두셨다"
+  },
+  {
+    "uniqueId": 655,
+    "questionId": 224,
+    "num": 3,
+    "description": "물고기 입에서 한 세겔을 얻으셨다"
+  },
+  {
+    "uniqueId": 656,
+    "questionId": 225,
+    "num": 1,
+    "description": "능력이 없어서"
+  },
+  {
+    "uniqueId": 657,
+    "questionId": 225,
+    "num": 2,
+    "description": "믿음이 작은 까닭"
+  },
+  {
+    "uniqueId": 658,
+    "questionId": 225,
+    "num": 3,
+    "description": "시간이 없어서"
+  },
+  {
+    "uniqueId": 659,
+    "questionId": 226,
+    "num": 1,
+    "description": "반 세겔"
+  },
+  {
+    "uniqueId": 660,
+    "questionId": 226,
+    "num": 2,
+    "description": "두 세겔"
+  },
+  {
+    "uniqueId": 661,
+    "questionId": 226,
+    "num": 3,
+    "description": "한 세겔"
+  },
+  {
+    "uniqueId": 662,
+    "questionId": 228,
+    "num": 1,
+    "description": "찍어 내버리라"
+  },
+  {
+    "uniqueId": 663,
+    "questionId": 228,
+    "num": 2,
+    "description": "참고 견디라"
+  },
+  {
+    "uniqueId": 664,
+    "questionId": 228,
+    "num": 3,
+    "description": "그대로 두라"
+  },
+  {
+    "uniqueId": 665,
+    "questionId": 229,
+    "num": 1,
+    "description": "일곱 번"
+  },
+  {
+    "uniqueId": 666,
+    "questionId": 229,
+    "num": 2,
+    "description": "열번"
+  },
+  {
+    "uniqueId": 667,
+    "questionId": 229,
+    "num": 3,
+    "description": "일흔 번씩 일곱 번"
+  },
+  {
+    "uniqueId": 668,
+    "questionId": 230,
+    "num": 1,
+    "description": "누가 가장 의로운가?"
+  },
+  {
+    "uniqueId": 669,
+    "questionId": 230,
+    "num": 2,
+    "description": "누가 천국에서 큰 자인가?"
+  },
+  {
+    "uniqueId": 670,
+    "questionId": 230,
+    "num": 3,
+    "description": "누가 가장 부자인가?"
+  },
+  {
+    "uniqueId": 671,
+    "questionId": 231,
+    "num": 1,
+    "description": "율법을 지켜라"
+  },
+  {
+    "uniqueId": 672,
+    "questionId": 231,
+    "num": 2,
+    "description": "어린아이와 같이 되라"
+  },
+  {
+    "uniqueId": 673,
+    "questionId": 231,
+    "num": 3,
+    "description": "금식하라"
+  },
+  {
+    "uniqueId": 674,
+    "questionId": 232,
+    "num": 1,
+    "description": "벌을 받는다"
+  },
+  {
+    "uniqueId": 675,
+    "questionId": 232,
+    "num": 2,
+    "description": "책망을 받는다"
+  },
+  {
+    "uniqueId": 676,
+    "questionId": 232,
+    "num": 3,
+    "description": "연자 맷돌이 목에 달려 깊은 바다에 빠뜨려지는 것이 낫다"
+  },
+  {
+    "uniqueId": 677,
+    "questionId": 233,
+    "num": 1,
+    "description": "그냥 둔다"
+  },
+  {
+    "uniqueId": 678,
+    "questionId": 233,
+    "num": 2,
+    "description": "다른 양을 찾는다"
+  },
+  {
+    "uniqueId": 679,
+    "questionId": 233,
+    "num": 3,
+    "description": "아흔아홉을 두고 하나를 찾으러 간다"
+  },
+  {
+    "uniqueId": 680,
+    "questionId": 234,
+    "num": 1,
+    "description": "교회에 알린다"
+  },
+  {
+    "uniqueId": 681,
+    "questionId": 234,
+    "num": 2,
+    "description": "혼자 가서 권고한다"
+  },
+  {
+    "uniqueId": 682,
+    "questionId": 234,
+    "num": 3,
+    "description": "책망한다"
+  },
+  {
+    "uniqueId": 683,
+    "questionId": 235,
+    "num": 1,
+    "description": "하나님이 계시지 않는다"
+  },
+  {
+    "uniqueId": 684,
+    "questionId": 235,
+    "num": 2,
+    "description": "주님도 그들 중에 계신다"
+  },
+  {
+    "uniqueId": 685,
+    "questionId": 235,
+    "num": 3,
+    "description": "천사가 함께한다"
+  },
+  {
+    "uniqueId": 686,
+    "questionId": 236,
+    "num": 1,
+    "description": "세 번까지 하오리이까?"
+  },
+  {
+    "uniqueId": 687,
+    "questionId": 236,
+    "num": 2,
+    "description": "일곱 번까지 하오리이까?"
+  },
+  {
+    "uniqueId": 688,
+    "questionId": 236,
+    "num": 3,
+    "description": "열 번까지 하오리이까?"
+  },
+  {
+    "uniqueId": 689,
+    "questionId": 237,
+    "num": 1,
+    "description": "빚을 탕감해 주었다"
+  },
+  {
+    "uniqueId": 690,
+    "questionId": 237,
+    "num": 2,
+    "description": "기다려 주었다"
+  },
+  {
+    "uniqueId": 691,
+    "questionId": 237,
+    "num": 3,
+    "description": "옥에 가두었다"
+  },
+  {
+    "uniqueId": 692,
+    "questionId": 239,
+    "num": 1,
+    "description": "많이 배워야 한다"
+  },
+  {
+    "uniqueId": 693,
+    "questionId": 239,
+    "num": 2,
+    "description": "높은 자리에 올라야 한다"
+  },
+  {
+    "uniqueId": 694,
+    "questionId": 239,
+    "num": 3,
+    "description": "어린아이처럼 낮아져야 한다"
+  },
+  {
+    "uniqueId": 695,
+    "questionId": 240,
+    "num": 1,
+    "description": "괜찮다."
+  },
+  {
+    "uniqueId": 696,
+    "questionId": 240,
+    "num": 2,
+    "description": "매우 엄중히 경고하셨다."
+  },
+  {
+    "uniqueId": 697,
+    "questionId": 240,
+    "num": 3,
+    "description": "무시하라."
+  },
+  {
+    "uniqueId": 698,
+    "questionId": 241,
+    "num": 1,
+    "description": "열 마리"
+  },
+  {
+    "uniqueId": 699,
+    "questionId": 241,
+    "num": 2,
+    "description": "한 마리"
+  },
+  {
+    "uniqueId": 700,
+    "questionId": 241,
+    "num": 3,
+    "description": "두 마리"
+  },
+  {
+    "uniqueId": 701,
+    "questionId": 242,
+    "num": 1,
+    "description": "부자"
+  },
+  {
+    "uniqueId": 702,
+    "questionId": 242,
+    "num": 2,
+    "description": "높은 사람"
+  },
+  {
+    "uniqueId": 703,
+    "questionId": 242,
+    "num": 3,
+    "description": "어린아이처럼 낮아지는 자"
+  },
+  {
+    "uniqueId": 704,
+    "questionId": 243,
+    "num": 1,
+    "description": "17장"
+  },
+  {
+    "uniqueId": 705,
+    "questionId": 243,
+    "num": 2,
+    "description": "18장"
+  },
+  {
+    "uniqueId": 706,
+    "questionId": 243,
+    "num": 3,
+    "description": "19장"
+  },
+  {
+    "uniqueId": 707,
+    "questionId": 244,
+    "num": 1,
+    "description": "조용히 시켜라"
+  },
+  {
+    "uniqueId": 708,
+    "questionId": 244,
+    "num": 2,
+    "description": "천국이 이런 사람의 것"
+  },
+  {
+    "uniqueId": 709,
+    "questionId": 244,
+    "num": 3,
+    "description": "나중에 오라"
+  },
+  {
+    "uniqueId": 710,
+    "questionId": 245,
+    "num": 1,
+    "description": "안식일"
+  },
+  {
+    "uniqueId": 711,
+    "questionId": 245,
+    "num": 2,
+    "description": "이혼 문제"
+  },
+  {
+    "uniqueId": 712,
+    "questionId": 245,
+    "num": 3,
+    "description": "세금 문제"
+  },
+  {
+    "uniqueId": 713,
+    "questionId": 246,
+    "num": 1,
+    "description": "나누지 못한다"
+  },
+  {
+    "uniqueId": 714,
+    "questionId": 246,
+    "num": 2,
+    "description": "바꾸지 못한다"
+  },
+  {
+    "uniqueId": 715,
+    "questionId": 246,
+    "num": 3,
+    "description": "숨기지 못한다"
+  },
+  {
+    "uniqueId": 716,
+    "questionId": 247,
+    "num": 1,
+    "description": "율법 때문에"
+  },
+  {
+    "uniqueId": 717,
+    "questionId": 247,
+    "num": 2,
+    "description": "마음의 완악함 때문에"
+  },
+  {
+    "uniqueId": 718,
+    "questionId": 247,
+    "num": 3,
+    "description": "가난 때문에"
+  },
+  {
+    "uniqueId": 719,
+    "questionId": 248,
+    "num": 1,
+    "description": "금하지 말라"
+  },
+  {
+    "uniqueId": 720,
+    "questionId": 248,
+    "num": 2,
+    "description": "조용히 시키라"
+  },
+  {
+    "uniqueId": 721,
+    "questionId": 248,
+    "num": 3,
+    "description": "부모에게 보내라"
+  },
+  {
+    "uniqueId": 722,
+    "questionId": 249,
+    "num": 1,
+    "description": "지혜로운 자"
+  },
+  {
+    "uniqueId": 723,
+    "questionId": 249,
+    "num": 2,
+    "description": "어린아이와 같은 자"
+  },
+  {
+    "uniqueId": 724,
+    "questionId": 249,
+    "num": 3,
+    "description": "부자"
+  },
+  {
+    "uniqueId": 725,
+    "questionId": 250,
+    "num": 1,
+    "description": "영생"
+  },
+  {
+    "uniqueId": 726,
+    "questionId": 250,
+    "num": 2,
+    "description": "명예"
+  },
+  {
+    "uniqueId": 727,
+    "questionId": 250,
+    "num": 3,
+    "description": "건강"
+  },
+  {
+    "uniqueId": 728,
+    "questionId": 251,
+    "num": 1,
+    "description": "병이 있었기 때문에"
+  },
+  {
+    "uniqueId": 729,
+    "questionId": 251,
+    "num": 2,
+    "description": "재물이 많았기 때문에"
+  },
+  {
+    "uniqueId": 730,
+    "questionId": 251,
+    "num": 3,
+    "description": "사람들이 미워했기 때문에"
+  },
+  {
+    "uniqueId": 731,
+    "questionId": 252,
+    "num": 1,
+    "description": "낙타가 바늘귀로 들어가는 것"
+  },
+  {
+    "uniqueId": 732,
+    "questionId": 252,
+    "num": 2,
+    "description": "배가 산으로 올라가는 것"
+  },
+  {
+    "uniqueId": 733,
+    "questionId": 252,
+    "num": 3,
+    "description": "새가 바다에 빠지는 것"
+  },
+  {
+    "uniqueId": 734,
+    "questionId": 253,
+    "num": 1,
+    "description": "큰 재물"
+  },
+  {
+    "uniqueId": 735,
+    "questionId": 253,
+    "num": 2,
+    "description": "세상의 왕권"
+  },
+  {
+    "uniqueId": 736,
+    "questionId": 253,
+    "num": 3,
+    "description": "여러 배와 영생"
+  },
+  {
+    "uniqueId": 737,
+    "questionId": 254,
+    "num": 1,
+    "description": "공부하게 하라."
+  },
+  {
+    "uniqueId": 738,
+    "questionId": 254,
+    "num": 2,
+    "description": "천국이 이런 사람의 것이니 막지 말라."
+  },
+  {
+    "uniqueId": 739,
+    "questionId": 254,
+    "num": 3,
+    "description": "먼저 성장하게 하라"
+  },
+  {
+    "uniqueId": 740,
+    "questionId": 255,
+    "num": 1,
+    "description": "금식"
+  },
+  {
+    "uniqueId": 741,
+    "questionId": 255,
+    "num": 2,
+    "description": "재물을 버리고 주님 따르는 것"
+  },
+  {
+    "uniqueId": 742,
+    "questionId": 255,
+    "num": 3,
+    "description": "안식일 준수"
+  },
+  {
+    "uniqueId": 743,
+    "questionId": 256,
+    "num": 1,
+    "description": "죄인이 천국 가는 것보다"
+  },
+  {
+    "uniqueId": 744,
+    "questionId": 256,
+    "num": 2,
+    "description": "부자가 하나님 나라에 들어가는 것보다"
+  },
+  {
+    "uniqueId": 745,
+    "questionId": 256,
+    "num": 3,
+    "description": "제자가 되는 것보다"
+  },
+  {
+    "uniqueId": 746,
+    "questionId": 257,
+    "num": 1,
+    "description": "성공 비결"
+  },
+  {
+    "uniqueId": 747,
+    "questionId": 257,
+    "num": 2,
+    "description": "영생 얻는 길"
+  },
+  {
+    "uniqueId": 748,
+    "questionId": 257,
+    "num": 3,
+    "description": "병 고치는 법"
+  },
+  {
+    "uniqueId": 749,
+    "questionId": 258,
+    "num": 1,
+    "description": "중풍병자"
+  },
+  {
+    "uniqueId": 750,
+    "questionId": 258,
+    "num": 2,
+    "description": "맹인 두 사람"
+  },
+  {
+    "uniqueId": 751,
+    "questionId": 258,
+    "num": 3,
+    "description": "나병환자"
+  },
+  {
+    "uniqueId": 752,
+    "questionId": 259,
+    "num": 1,
+    "description": "한 데나리온"
+  },
+  {
+    "uniqueId": 753,
+    "questionId": 259,
+    "num": 2,
+    "description": "한 달란트"
+  },
+  {
+    "uniqueId": 754,
+    "questionId": 259,
+    "num": 3,
+    "description": "두 세겔"
+  },
+  {
+    "uniqueId": 755,
+    "questionId": 260,
+    "num": 1,
+    "description": "아침부터 늦은 오후까지"
+  },
+  {
+    "uniqueId": 756,
+    "questionId": 260,
+    "num": 2,
+    "description": "밤중에만"
+  },
+  {
+    "uniqueId": 757,
+    "questionId": 260,
+    "num": 3,
+    "description": "안식일에만"
+  },
+  {
+    "uniqueId": 758,
+    "questionId": 261,
+    "num": 1,
+    "description": "한 데나리온"
+  },
+  {
+    "uniqueId": 759,
+    "questionId": 261,
+    "num": 2,
+    "description": "반 데나리온"
+  },
+  {
+    "uniqueId": 760,
+    "questionId": 261,
+    "num": 3,
+    "description": "두 데나리온"
+  },
+  {
+    "uniqueId": 761,
+    "questionId": 262,
+    "num": 1,
+    "description": "나중 온 자들과 같은 품삯을 받았기 때문"
+  },
+  {
+    "uniqueId": 762,
+    "questionId": 262,
+    "num": 2,
+    "description": "일을 못 했기 때문"
+  },
+  {
+    "uniqueId": 763,
+    "questionId": 262,
+    "num": 3,
+    "description": "주인이 약속을 어겼기 때문"
+  },
+  {
+    "uniqueId": 764,
+    "questionId": 263,
+    "num": 1,
+    "description": "부자는 복이 있다"
+  },
+  {
+    "uniqueId": 765,
+    "questionId": 263,
+    "num": 2,
+    "description": "일찍 온 자만 상을 받는다"
+  },
+  {
+    "uniqueId": 766,
+    "questionId": 263,
+    "num": 3,
+    "description": "먼저 된 자로서 나중 되고 나중 된 자로서 먼저 되리라"
+  },
+  {
+    "uniqueId": 767,
+    "questionId": 264,
+    "num": 1,
+    "description": "고난과 죽음과 부활"
+  },
+  {
+    "uniqueId": 768,
+    "questionId": 264,
+    "num": 2,
+    "description": "왕위 즉위"
+  },
+  {
+    "uniqueId": 769,
+    "questionId": 264,
+    "num": 3,
+    "description": "성전 건축"
+  },
+  {
+    "uniqueId": 770,
+    "questionId": 265,
+    "num": 1,
+    "description": "두 아들이 주의 나라에서 좌우편에 앉게 해 달라"
+  },
+  {
+    "uniqueId": 771,
+    "questionId": 265,
+    "num": 2,
+    "description": "두 아들이 부자가 되게 해 달라"
+  },
+  {
+    "uniqueId": 772,
+    "questionId": 265,
+    "num": 3,
+    "description": "두 아들이 병 고침 받게 해 달라"
+  },
+  {
+    "uniqueId": 773,
+    "questionId": 266,
+    "num": 1,
+    "description": "유명한 자"
+  },
+  {
+    "uniqueId": 774,
+    "questionId": 266,
+    "num": 2,
+    "description": "다스리는 자"
+  },
+  {
+    "uniqueId": 775,
+    "questionId": 266,
+    "num": 3,
+    "description": "섬기는 자"
+  },
+  {
+    "uniqueId": 776,
+    "questionId": 267,
+    "num": 1,
+    "description": "반 데나리온"
+  },
+  {
+    "uniqueId": 777,
+    "questionId": 267,
+    "num": 2,
+    "description": "한 데나리온"
+  },
+  {
+    "uniqueId": 778,
+    "questionId": 267,
+    "num": 3,
+    "description": "두 데나리온"
+  },
+  {
+    "uniqueId": 779,
+    "questionId": 268,
+    "num": 1,
+    "description": "재물"
+  },
+  {
+    "uniqueId": 780,
+    "questionId": 268,
+    "num": 2,
+    "description": "건강"
+  },
+  {
+    "uniqueId": 781,
+    "questionId": 268,
+    "num": 3,
+    "description": "예수님의 좌우편 자리"
+  },
+  {
+    "uniqueId": 782,
+    "questionId": 269,
+    "num": 1,
+    "description": "권세를 가진 자"
+  },
+  {
+    "uniqueId": 783,
+    "questionId": 269,
+    "num": 2,
+    "description": "섬기는 자"
+  },
+  {
+    "uniqueId": 784,
+    "questionId": 269,
+    "num": 3,
+    "description": "부자"
+  },
+  {
+    "uniqueId": 785,
+    "questionId": 270,
+    "num": 1,
+    "description": "노동 시간"
+  },
+  {
+    "uniqueId": 786,
+    "questionId": 270,
+    "num": 2,
+    "description": "하나님의 은혜"
+  },
+  {
+    "uniqueId": 787,
+    "questionId": 270,
+    "num": 3,
+    "description": "공평한 임금"
+  },
+  {
+    "uniqueId": 788,
+    "questionId": 271,
+    "num": 1,
+    "description": "할렐루야"
+  },
+  {
+    "uniqueId": 789,
+    "questionId": 271,
+    "num": 2,
+    "description": "평강이 있을지어다"
+  },
+  {
+    "uniqueId": 790,
+    "questionId": 271,
+    "num": 3,
+    "description": "호산나 다윗의 자손이여"
+  },
+  {
+    "uniqueId": 791,
+    "questionId": 272,
+    "num": 1,
+    "description": "병자를 고치심"
+  },
+  {
+    "uniqueId": 792,
+    "questionId": 272,
+    "num": 2,
+    "description": "제자들을 가르치심"
+  },
+  {
+    "uniqueId": 793,
+    "questionId": 272,
+    "num": 3,
+    "description": "매매하는 자들을 내쫓으심"
+  },
+  {
+    "uniqueId": 794,
+    "questionId": 273,
+    "num": 1,
+    "description": "네가 어디서 왔는가?"
+  },
+  {
+    "uniqueId": 795,
+    "questionId": 273,
+    "num": 2,
+    "description": "네가 누구의 아들인가?"
+  },
+  {
+    "uniqueId": 796,
+    "questionId": 273,
+    "num": 3,
+    "description": "네가 무슨 권위로 이런 일을 하느냐?"
+  },
+  {
+    "uniqueId": 797,
+    "questionId": 274,
+    "num": 1,
+    "description": "종"
+  },
+  {
+    "uniqueId": 798,
+    "questionId": 274,
+    "num": 2,
+    "description": "친구"
+  },
+  {
+    "uniqueId": 799,
+    "questionId": 274,
+    "num": 3,
+    "description": "주인의 아들"
+  },
+  {
+    "uniqueId": 800,
+    "questionId": 275,
+    "num": 1,
+    "description": "장사 잘하라"
+  },
+  {
+    "uniqueId": 801,
+    "questionId": 275,
+    "num": 2,
+    "description": "기도하는 집이라"
+  },
+  {
+    "uniqueId": 802,
+    "questionId": 275,
+    "num": 3,
+    "description": "쉬는 곳이다"
+  },
+  {
+    "uniqueId": 803,
+    "questionId": 276,
+    "num": 1,
+    "description": "말"
+  },
+  {
+    "uniqueId": 804,
+    "questionId": 276,
+    "num": 2,
+    "description": "소"
+  },
+  {
+    "uniqueId": 805,
+    "questionId": 276,
+    "num": 3,
+    "description": "나귀 새끼"
+  },
+  {
+    "uniqueId": 806,
+    "questionId": 277,
+    "num": 1,
+    "description": "물을 주셨다"
+  },
+  {
+    "uniqueId": 807,
+    "questionId": 277,
+    "num": 2,
+    "description": "저주하셨다"
+  },
+  {
+    "uniqueId": 808,
+    "questionId": 277,
+    "num": 3,
+    "description": "가지를 치셨다"
+  },
+  {
+    "uniqueId": 809,
+    "questionId": 278,
+    "num": 1,
+    "description": "사두개인"
+  },
+  {
+    "uniqueId": 810,
+    "questionId": 278,
+    "num": 2,
+    "description": "바리새인"
+  },
+  {
+    "uniqueId": 811,
+    "questionId": 278,
+    "num": 3,
+    "description": "서기관"
+  },
+  {
+    "uniqueId": 812,
+    "questionId": 279,
+    "num": 1,
+    "description": "음식이 부족해서"
+  },
+  {
+    "uniqueId": 813,
+    "questionId": 279,
+    "num": 2,
+    "description": "초청받은 사람들이 거절하고 악행했기 때문에"
+  },
+  {
+    "uniqueId": 814,
+    "questionId": 279,
+    "num": 3,
+    "description": "신랑이 늦게 와서"
+  },
+  {
+    "uniqueId": 815,
+    "questionId": 280,
+    "num": 1,
+    "description": "두루마리"
+  },
+  {
+    "uniqueId": 816,
+    "questionId": 280,
+    "num": 2,
+    "description": "칼"
+  },
+  {
+    "uniqueId": 817,
+    "questionId": 280,
+    "num": 3,
+    "description": "데나리온 동전"
+  },
+  {
+    "uniqueId": 818,
+    "questionId": 281,
+    "num": 1,
+    "description": "부모를 공경하라"
+  },
+  {
+    "uniqueId": 819,
+    "questionId": 281,
+    "num": 2,
+    "description": "이웃을 사랑하라"
+  },
+  {
+    "uniqueId": 820,
+    "questionId": 281,
+    "num": 3,
+    "description": "마음을 다해 하나님을 사랑하라"
+  },
+  {
+    "uniqueId": 821,
+    "questionId": 282,
+    "num": 1,
+    "description": "금식"
+  },
+  {
+    "uniqueId": 822,
+    "questionId": 282,
+    "num": 2,
+    "description": "하나님 사랑, 이웃 사랑"
+  },
+  {
+    "uniqueId": 823,
+    "questionId": 282,
+    "num": 3,
+    "description": "십일조"
+  },
+  {
+    "uniqueId": 824,
+    "questionId": 283,
+    "num": 1,
+    "description": "내지 말라"
+  },
+  {
+    "uniqueId": 825,
+    "questionId": 283,
+    "num": 2,
+    "description": "가이사의 것은 가이사에게"
+  },
+  {
+    "uniqueId": 826,
+    "questionId": 283,
+    "num": 3,
+    "description": "로마를 떠나라"
+  },
+  {
+    "uniqueId": 827,
+    "questionId": 284,
+    "num": 1,
+    "description": "기도를 안 함"
+  },
+  {
+    "uniqueId": 828,
+    "questionId": 284,
+    "num": 2,
+    "description": "말만 하고 행하지 않는 것"
+  },
+  {
+    "uniqueId": 829,
+    "questionId": 284,
+    "num": 3,
+    "description": "금식을 안 함"
+  },
+  {
+    "uniqueId": 830,
+    "questionId": 285,
+    "num": 1,
+    "description": "옷"
+  },
+  {
+    "uniqueId": 831,
+    "questionId": 285,
+    "num": 2,
+    "description": "집"
+  },
+  {
+    "uniqueId": 832,
+    "questionId": 285,
+    "num": 3,
+    "description": "경문 띠"
+  },
+  {
+    "uniqueId": 833,
+    "questionId": 286,
+    "num": 1,
+    "description": "회칠한 무덤"
+  },
+  {
+    "uniqueId": 834,
+    "questionId": 286,
+    "num": 2,
+    "description": "가시덤불"
+  },
+  {
+    "uniqueId": 835,
+    "questionId": 286,
+    "num": 3,
+    "description": "사나운 늑대"
+  },
+  {
+    "uniqueId": 836,
+    "questionId": 287,
+    "num": 1,
+    "description": "금식과 절기"
+  },
+  {
+    "uniqueId": 837,
+    "questionId": 287,
+    "num": 2,
+    "description": "제사와 헌물"
+  },
+  {
+    "uniqueId": 838,
+    "questionId": 287,
+    "num": 3,
+    "description": "정의와 긍휼과 믿음"
+  },
+  {
+    "uniqueId": 839,
+    "questionId": 289,
+    "num": 1,
+    "description": "로마 군인"
+  },
+  {
+    "uniqueId": 840,
+    "questionId": 289,
+    "num": 2,
+    "description": "서기관과 바리새인"
+  },
+  {
+    "uniqueId": 841,
+    "questionId": 289,
+    "num": 3,
+    "description": "세리"
+  },
+  {
+    "uniqueId": 842,
+    "questionId": 290,
+    "num": 1,
+    "description": "부자가 되어야 한다"
+  },
+  {
+    "uniqueId": 843,
+    "questionId": 290,
+    "num": 2,
+    "description": "많이 배워야 한다"
+  },
+  {
+    "uniqueId": 844,
+    "questionId": 290,
+    "num": 3,
+    "description": "섬기는 자가 되어야 한다"
+  },
+  {
+    "uniqueId": 845,
+    "questionId": 291,
+    "num": 1,
+    "description": "분노"
+  },
+  {
+    "uniqueId": 846,
+    "questionId": 291,
+    "num": 2,
+    "description": "무관심"
+  },
+  {
+    "uniqueId": 847,
+    "questionId": 291,
+    "num": 3,
+    "description": "사랑과 안타까움"
+  },
+  {
+    "uniqueId": 848,
+    "questionId": 292,
+    "num": 1,
+    "description": "양"
+  },
+  {
+    "uniqueId": 849,
+    "questionId": 292,
+    "num": 2,
+    "description": "회칠한 무덤"
+  },
+  {
+    "uniqueId": 850,
+    "questionId": 292,
+    "num": 3,
+    "description": "포도나무"
+  },
+  {
+    "uniqueId": 851,
+    "questionId": 294,
+    "num": 1,
+    "description": "전쟁을 준비하라"
+  },
+  {
+    "uniqueId": 852,
+    "questionId": 294,
+    "num": 2,
+    "description": "사람의 미혹을 받지 않도록 주의하라"
+  },
+  {
+    "uniqueId": 853,
+    "questionId": 294,
+    "num": 3,
+    "description": "성전을 다시 지으라"
+  },
+  {
+    "uniqueId": 854,
+    "questionId": 295,
+    "num": 1,
+    "description": "심판의 끝"
+  },
+  {
+    "uniqueId": 855,
+    "questionId": 295,
+    "num": 2,
+    "description": "재난의 시작"
+  },
+  {
+    "uniqueId": 856,
+    "questionId": 295,
+    "num": 3,
+    "description": "천국의 완성"
+  },
+  {
+    "uniqueId": 857,
+    "questionId": 296,
+    "num": 1,
+    "description": "이스라엘에만 전파된다"
+  },
+  {
+    "uniqueId": 858,
+    "questionId": 296,
+    "num": 2,
+    "description": "제자들에게만 전해진다"
+  },
+  {
+    "uniqueId": 859,
+    "questionId": 296,
+    "num": 3,
+    "description": "모든 민족에게 증언되기 위하여 온 세상에 전파된다"
+  },
+  {
+    "uniqueId": 860,
+    "questionId": 297,
+    "num": 1,
+    "description": "충성되고 지혜 있는 종"
+  },
+  {
+    "uniqueId": 861,
+    "questionId": 297,
+    "num": 2,
+    "description": "게으른 종"
+  },
+  {
+    "uniqueId": 862,
+    "questionId": 297,
+    "num": 3,
+    "description": "두려워서 숨은 종"
+  },
+  {
+    "uniqueId": 863,
+    "questionId": 298,
+    "num": 1,
+    "description": "충성되고 지혜 있는 종"
+  },
+  {
+    "uniqueId": 864,
+    "questionId": 298,
+    "num": 2,
+    "description": "게으른 종"
+  },
+  {
+    "uniqueId": 865,
+    "questionId": 298,
+    "num": 3,
+    "description": "두려워서 숨은 종"
+  },
+  {
+    "uniqueId": 866,
+    "questionId": 299,
+    "num": 1,
+    "description": "등"
+  },
+  {
+    "uniqueId": 867,
+    "questionId": 299,
+    "num": 2,
+    "description": "옷"
+  },
+  {
+    "uniqueId": 868,
+    "questionId": 299,
+    "num": 3,
+    "description": "기름"
+  },
+  {
+    "uniqueId": 869,
+    "questionId": 300,
+    "num": 1,
+    "description": "장사하여 남겼다"
+  },
+  {
+    "uniqueId": 870,
+    "questionId": 300,
+    "num": 2,
+    "description": "땅에 감추어 두었다"
+  },
+  {
+    "uniqueId": 871,
+    "questionId": 300,
+    "num": 3,
+    "description": "다른 종에게 주었다"
+  },
+  {
+    "uniqueId": 872,
+    "questionId": 301,
+    "num": 1,
+    "description": "네 것을 모두 빼앗겠다"
+  },
+  {
+    "uniqueId": 873,
+    "questionId": 301,
+    "num": 2,
+    "description": "네 주인의 즐거움에 참여할지어다"
+  },
+  {
+    "uniqueId": 874,
+    "questionId": 301,
+    "num": 3,
+    "description": "다시 처음부터 시작하라"
+  },
+  {
+    "uniqueId": 875,
+    "questionId": 302,
+    "num": 1,
+    "description": "성전 건축"
+  },
+  {
+    "uniqueId": 876,
+    "questionId": 302,
+    "num": 2,
+    "description": "율법 연구"
+  },
+  {
+    "uniqueId": 877,
+    "questionId": 302,
+    "num": 3,
+    "description": "주린 자를 먹이고, 나그네를 영접하며, 병든 자를 돌본 것"
+  },
+  {
+    "uniqueId": 878,
+    "questionId": 303,
+    "num": 1,
+    "description": "잔치를 위한 준비"
+  },
+  {
+    "uniqueId": 879,
+    "questionId": 303,
+    "num": 2,
+    "description": "예수님의 장례를 위한 준비"
+  },
+  {
+    "uniqueId": 880,
+    "questionId": 303,
+    "num": 3,
+    "description": "제자들의 훈련 (마태복음 1~28장 문제)"
+  },
+  {
+    "uniqueId": 881,
+    "questionId": 304,
+    "num": 1,
+    "description": "금 열 달란트"
+  },
+  {
+    "uniqueId": 882,
+    "questionId": 304,
+    "num": 2,
+    "description": "은 열 개"
+  },
+  {
+    "uniqueId": 883,
+    "questionId": 304,
+    "num": 3,
+    "description": "은 삼십"
+  },
+  {
+    "uniqueId": 884,
+    "questionId": 305,
+    "num": 1,
+    "description": "먹고 마시라"
+  },
+  {
+    "uniqueId": 885,
+    "questionId": 305,
+    "num": 2,
+    "description": "시험에 들지 않게 깨어 기도하라"
+  },
+  {
+    "uniqueId": 886,
+    "questionId": 305,
+    "num": 3,
+    "description": "예루살렘을 떠나라"
+  },
+  {
+    "uniqueId": 887,
+    "questionId": 307,
+    "num": 1,
+    "description": "한번"
+  },
+  {
+    "uniqueId": 888,
+    "questionId": 307,
+    "num": 2,
+    "description": "두번"
+  },
+  {
+    "uniqueId": 889,
+    "questionId": 307,
+    "num": 3,
+    "description": "세번"
+  },
+  {
+    "uniqueId": 890,
+    "questionId": 308,
+    "num": 1,
+    "description": "베드로"
+  },
+  {
+    "uniqueId": 891,
+    "questionId": 308,
+    "num": 2,
+    "description": "예수님"
+  },
+  {
+    "uniqueId": 892,
+    "questionId": 308,
+    "num": 3,
+    "description": "바울"
+  },
+  {
+    "uniqueId": 893,
+    "questionId": 309,
+    "num": 1,
+    "description": "금화 스무 개"
+  },
+  {
+    "uniqueId": 894,
+    "questionId": 309,
+    "num": 2,
+    "description": "은 삼십"
+  },
+  {
+    "uniqueId": 895,
+    "questionId": 309,
+    "num": 3,
+    "description": "한 데나리온"
+  },
+  {
+    "uniqueId": 896,
+    "questionId": 310,
+    "num": 1,
+    "description": "성전"
+  },
+  {
+    "uniqueId": 897,
+    "questionId": 310,
+    "num": 2,
+    "description": "밭"
+  },
+  {
+    "uniqueId": 898,
+    "questionId": 310,
+    "num": 3,
+    "description": "배"
+  },
+  {
+    "uniqueId": 899,
+    "questionId": 311,
+    "num": 1,
+    "description": "저 사람을 책망하라."
+  },
+  {
+    "uniqueId": 900,
+    "questionId": 311,
+    "num": 2,
+    "description": "저 옳은 사람에게 아무 상관도 하지 마옵소서."
+  },
+  {
+    "uniqueId": 901,
+    "questionId": 311,
+    "num": 3,
+    "description": "그를 심문하라."
+  },
+  {
+    "uniqueId": 902,
+    "questionId": 312,
+    "num": 1,
+    "description": "흰옷"
+  },
+  {
+    "uniqueId": 903,
+    "questionId": 312,
+    "num": 2,
+    "description": "자색 옷"
+  },
+  {
+    "uniqueId": 904,
+    "questionId": 312,
+    "num": 3,
+    "description": "검은 옷"
+  },
+  {
+    "uniqueId": 905,
+    "questionId": 313,
+    "num": 1,
+    "description": "구레네 사람 시몬"
+  },
+  {
+    "uniqueId": 906,
+    "questionId": 313,
+    "num": 2,
+    "description": "세례 요한"
+  },
+  {
+    "uniqueId": 907,
+    "questionId": 313,
+    "num": 3,
+    "description": "아리마대 요셉"
+  },
+  {
+    "uniqueId": 908,
+    "questionId": 314,
+    "num": 1,
+    "description": "담대하라."
+  },
+  {
+    "uniqueId": 909,
+    "questionId": 314,
+    "num": 2,
+    "description": "엘리 엘리 라마 사박다니"
+  },
+  {
+    "uniqueId": 910,
+    "questionId": 314,
+    "num": 3,
+    "description": "평안하라."
+  },
+  {
+    "uniqueId": 911,
+    "questionId": 315,
+    "num": 1,
+    "description": "저절로 열렸다."
+  },
+  {
+    "uniqueId": 912,
+    "questionId": 315,
+    "num": 2,
+    "description": "위로부터 아래까지 찢어졌다."
+  },
+  {
+    "uniqueId": 913,
+    "questionId": 315,
+    "num": 3,
+    "description": "사라졌다."
+  },
+  {
+    "uniqueId": 914,
+    "questionId": 316,
+    "num": 1,
+    "description": "아리마대 요셉"
+  },
+  {
+    "uniqueId": 915,
+    "questionId": 316,
+    "num": 2,
+    "description": "베드로"
+  },
+  {
+    "uniqueId": 916,
+    "questionId": 316,
+    "num": 3,
+    "description": "야고보"
+  },
+  {
+    "uniqueId": 917,
+    "questionId": 317,
+    "num": 1,
+    "description": "바라바"
+  },
+  {
+    "uniqueId": 918,
+    "questionId": 317,
+    "num": 2,
+    "description": "니고데모"
+  },
+  {
+    "uniqueId": 919,
+    "questionId": 317,
+    "num": 3,
+    "description": "삭개오"
+  },
+  {
+    "uniqueId": 920,
+    "questionId": 319,
+    "num": 1,
+    "description": "막달라 마리아와 다른 마리아"
+  },
+  {
+    "uniqueId": 921,
+    "questionId": 319,
+    "num": 2,
+    "description": "베드로와 요한"
+  },
+  {
+    "uniqueId": 922,
+    "questionId": 319,
+    "num": 3,
+    "description": "마르다와 마리아"
+  },
+  {
+    "uniqueId": 923,
+    "questionId": 320,
+    "num": 1,
+    "description": "군인"
+  },
+  {
+    "uniqueId": 924,
+    "questionId": 320,
+    "num": 2,
+    "description": "제자들"
+  },
+  {
+    "uniqueId": 925,
+    "questionId": 320,
+    "num": 3,
+    "description": "주의 천사"
+  },
+  {
+    "uniqueId": 926,
+    "questionId": 321,
+    "num": 1,
+    "description": "해와 같았다."
+  },
+  {
+    "uniqueId": 927,
+    "questionId": 321,
+    "num": 2,
+    "description": "번개 같았다."
+  },
+  {
+    "uniqueId": 928,
+    "questionId": 321,
+    "num": 3,
+    "description": "불과 같았다."
+  },
+  {
+    "uniqueId": 929,
+    "questionId": 322,
+    "num": 1,
+    "description": "군인들을 찾는 줄을"
+  },
+  {
+    "uniqueId": 930,
+    "questionId": 322,
+    "num": 2,
+    "description": "유대인들을 찾는 줄을"
+  },
+  {
+    "uniqueId": 931,
+    "questionId": 322,
+    "num": 3,
+    "description": "예수를 찾는 줄을"
+  },
+  {
+    "uniqueId": 932,
+    "questionId": 323,
+    "num": 1,
+    "description": "하늘로 올라가셨다."
+  },
+  {
+    "uniqueId": 933,
+    "questionId": 323,
+    "num": 2,
+    "description": "말씀하신 대로 살아나셨다."
+  },
+  {
+    "uniqueId": 934,
+    "questionId": 323,
+    "num": 3,
+    "description": "다른 곳으로 옮겨졌다."
+  },
+  {
+    "uniqueId": 935,
+    "questionId": 324,
+    "num": 1,
+    "description": "베드로"
+  },
+  {
+    "uniqueId": 936,
+    "questionId": 324,
+    "num": 2,
+    "description": "천사"
+  },
+  {
+    "uniqueId": 937,
+    "questionId": 324,
+    "num": 3,
+    "description": "예수님"
+  },
+  {
+    "uniqueId": 938,
+    "questionId": 325,
+    "num": 1,
+    "description": "음식"
+  },
+  {
+    "uniqueId": 939,
+    "questionId": 325,
+    "num": 2,
+    "description": "많은 돈"
+  },
+  {
+    "uniqueId": 940,
+    "questionId": 325,
+    "num": 3,
+    "description": "옷"
+  },
+  {
+    "uniqueId": 941,
+    "questionId": 326,
+    "num": 1,
+    "description": "제자들이 시체를 훔쳐 갔다."
+  },
+  {
+    "uniqueId": 942,
+    "questionId": 326,
+    "num": 2,
+    "description": "예수님이 살아나셨다."
+  },
+  {
+    "uniqueId": 943,
+    "questionId": 326,
+    "num": 3,
+    "description": "무덤이 잘못되었다."
+  },
+  {
+    "uniqueId": 944,
+    "questionId": 327,
+    "num": 1,
+    "description": "예루살렘 성전"
+  },
+  {
+    "uniqueId": 945,
+    "questionId": 327,
+    "num": 2,
+    "description": "갈릴리 산"
+  },
+  {
+    "uniqueId": 946,
+    "questionId": 327,
+    "num": 3,
+    "description": "베들레헴"
+  },
+  {
+    "uniqueId": 947,
+    "questionId": 328,
+    "num": 1,
+    "description": "성전 정화 사건"
+  },
+  {
+    "uniqueId": 948,
+    "questionId": 328,
+    "num": 2,
+    "description": "산상수훈"
+  },
+  {
+    "uniqueId": 949,
+    "questionId": 328,
+    "num": 3,
+    "description": "선교 명령 (지상명령)"
+  },
+  {
+    "uniqueId": 950,
+    "questionId": 328,
+    "num": 4,
+    "description": "비유 모음집"
+  },
+  {
+    "uniqueId": 951,
+    "questionId": 329,
+    "num": 1,
+    "description": "심판하라."
+  },
+  {
+    "uniqueId": 952,
+    "questionId": 329,
+    "num": 2,
+    "description": "제자로 삼으라."
+  },
+  {
+    "uniqueId": 953,
+    "questionId": 329,
+    "num": 3,
+    "description": "모아들이라."
+  }
 ]
