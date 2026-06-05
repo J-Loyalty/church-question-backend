@@ -11,4 +11,5 @@ public class Question {
     private String description;
     private String correctAnswer;
     private boolean easy;
+    private int chapter;
 }
